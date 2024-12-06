@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CWeaponInfoBlob>
+  <SlotNavigateOrder>
+    <WeaponSlots>
+      <Item>
+        <OrderNumber value="904" />
+        <Entry>0x7B60112D</Entry>
+      </Item>
+    </WeaponSlots>
+  </SlotNavigateOrder>
+  <TintSpecValues />
+  <FiringPatternAliases />
+  <UpperBodyFixupExpressionData />
+  <AimingInfos>
+    <Item type="CAimingInfo">
+      <Name>0x22BB3573</Name>
+      <HeadingLimit value="60.00000000" />
+      <SweepPitchMin value="-70.00000000" />
+      <SweepPitchMax value="35.00000000" />
+      <StopRunAndGunLimitLeft value="100.00000000" />
+      <StartRunAndGunLimitLeft value="90.00000000" />
+      <StopRunAndGunLimitRight value="100.00000000" />
+      <StartRunAndGunLimitRight value="90.00000000" />
+    </Item>
+  </AimingInfos>
+  <AccuracyInfos>
+    <Item type="CWeaponAccuracyInfo">
+      <Name>0x732099D0</Name>
+      <AccuracySpread value="4.50000000" />
+      <HipFireAccuracySpread value="4.50000000" />
+      <AccurateModeAccuracyModifier value="0.50000000" />
+      <RunAndGunAccuracyModifier value="0.50000000" />
+      <RunAndGunAccuracyMinOverride value="-1.00000000" />
+      <RunAndGunAccuracyMaxModifier value="1.00000000" />
+      <RecoilAccuracyMin value="0.00000000" />
+      <RecoilAccuracyMax value="1.00000000" />
+      <RecoilErrorTime value="0.00000000" />
+      <RecoilRecoveryRate value="1.00000000" />
+      <RecoilPenalty value="1.00000000" />
+      <RecoilAccuracyToAllowHeadShotAI value="1000.00000000" />
+      <RecoilAccuracyToAllowHeadShotPlayer value="0.17500000" />
+      <DistractionDecayModifier value="0.50000000" />
+      <AccuracyFalloffRangeStart value="20.00000000" />
+      <AccuracyFalloffRangeEnd value="40.00000000" />
+      <AccuracyFalloffMin value="0.50000000" />
+      <FiringDistractionTime value="0.60000000" />
+    </Item>
+  </AccuracyInfos>
+  <DamageFallOffInfos />
+  <SectionedReloadInfos />
+  <CockingInfos />
+  <UNK_MEMBER_0xD8713A57 />
+  <IkRecoilInfos />
+  <QuiverInfos>
+    <Item type="CQuiverInfo">
+      <Name>0x74682872</Name>
+      <Model>W_SP_BOWARROW_ARROW</Model>
+      <Outfit>0x327A1C4C</Outfit>
+      <OutfitTag>0xFF462E7F</OutfitTag>
+      <ArrowBone>0x9858861E</ArrowBone>
+      <QuiverCapacity value="10" />
+      <ClusterRadiusMaxSide value="-0.00600000" />
+      <ClusterRadiusMaxFore value="-0.01000000" />
+      <ClusterRadiusMinSide value="-0.00300000" />
+      <ClusterRadiusMinFore value="-0.00300000" />
+      <ArrowWidthTilt value="4.00000000" />
+      <ArrowLengthTilt value="-5.00000000" />
+      <ArrowSideOffset value="-0.05000000" />
+      <ArrowForeOffset value="0.02000000" />
+      <ArrowDepthOffset value="0.15000000" />
+      <ArrowSideVariation value="0.00100000" />
+      <ArrowForeVariation value="0.00400000" />
+      <ArrowDepthVariation value="0.01500000" />
+      <ArrowForeRotation value="0.05000000" />
+      <ArrowSideRotation value="0.13000000" />
+      <ArrowTwistVariation value="0.30000000" />
+      <MovementLerpScale value="0.60000000" />
+      <MovementMinLerpTime value="0.10000000" />
+    </Item>
+  </QuiverInfos>
+  <DegradationInfos />
+  <FamiliarityInfos />
+  <RumbleInfos />
+  <VertDataInfos>
+    <Item type="CWeaponVertData">
+      <Name>0x246BF833</Name>
+      <damageMax value="0.70000000" />
+      <damageCurve value="0.75000000" />
+      <damage value="0.00000000" />
+      <dirt value="0.10000000" />
+      <soot value="0.20000000" />
+      <UNK_MEMBER_0x79F75B13 />
+      <UNK_MEMBER_0x47EF6926 />
+      <components>
+        <Item>
+          <id>Trigger</id>
+          <material>WEAPON_WOOD_GENERIC_SMOOTH</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="true" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="7" />
+        </Item>
+        <Item>
+          <id>Barrel</id>
+          <material>WEAPON_LEATHER_WRAP</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="true" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="7" />
+        </Item>
+        <Item>
+          <id>Cylinder</id>
+          <material>WEAPON_WOOD_GENERIC_VARNISHED</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="true" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="3" />
+        </Item>
+      </components>
+    </Item>
+    <Item type="CWeaponVertData">
+      <Name>VERTDATA_BOW_IMPROVED_ALLIGATOR</Name>
+      <damageMax value="0.70000000" />
+      <damageCurve value="0.75000000" />
+      <damage value="0.00000000" />
+      <dirt value="0.10000000" />
+      <soot value="0.20000000" />
+      <UNK_MEMBER_0x79F75B13 />
+      <UNK_MEMBER_0x47EF6926 />
+      <components>
+        <Item>
+          <id>Trigger</id>
+          <material>WEAPON_WOOD_GENERIC_SMOOTH</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="true" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="11" />
+        </Item>
+        <Item>
+          <id>Barrel</id>
+          <material>WEAPON_LEATHER_WRAP</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="true" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="0" />
+        </Item>
+        <Item>
+          <id>Cylinder</id>
+          <material>WEAPON_WOOD_GENERIC_VARNISHED</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="true" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="3" />
+        </Item>
+        <Item>
+          <id>Hammer</id>
+          <material>WEAPON_WOOD_GENERIC_VARNISHED</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="false" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="255" />
+        </Item>
+      </components>
+    </Item>
+    <Item type="CWeaponVertData">
+      <Name>VERTDATA_BOW_IMPROVED_HORNED</Name>
+      <damageMax value="0.70000000" />
+      <damageCurve value="0.75000000" />
+      <damage value="0.00000000" />
+      <dirt value="0.10000000" />
+      <soot value="0.20000000" />
+      <UNK_MEMBER_0x79F75B13 />
+      <UNK_MEMBER_0x47EF6926 />
+      <components>
+        <Item>
+          <id>Trigger</id>
+          <material>WEAPON_WOOD_GENERIC_SMOOTH</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="false" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="11" />
+        </Item>
+        <Item>
+          <id>0xBD238C93</id>
+          <material>WEAPON_ROUGHNESS_ONLY</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="false" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="255" />
+        </Item>
+        <Item>
+          <id>Hammer</id>
+          <material>WEAPON_IRON</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="false" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="255" />
+        </Item>
+      </components>
+    </Item>
+    <Item type="CWeaponVertData">
+      <Name>VERTDATA_BOW_IMPROVED_JAGUAR</Name>
+      <damageMax value="0.70000000" />
+      <damageCurve value="0.75000000" />
+      <damage value="0.00000000" />
+      <dirt value="0.10000000" />
+      <soot value="0.20000000" />
+      <UNK_MEMBER_0x79F75B13 />
+      <UNK_MEMBER_0x47EF6926 />
+      <components>
+        <Item>
+          <id>Trigger</id>
+          <material>WEAPON_WOOD_GENERIC_SMOOTH</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="true" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="11" />
+        </Item>
+        <Item>
+          <id>Barrel</id>
+          <material>WEAPON_LEATHER_WRAP</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="true" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="0" />
+        </Item>
+        <Item>
+          <id>Hammer</id>
+          <material>WEAPON_WOOD_GENERIC_VARNISHED</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="false" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="255" />
+        </Item>
+      </components>
+    </Item>
+    <Item type="CWeaponVertData">
+      <Name>VERTDATA_BOW_IMPROVED_WOODEN_INLAY</Name>
+      <damageMax value="0.70000000" />
+      <damageCurve value="0.75000000" />
+      <damage value="0.00000000" />
+      <dirt value="0.10000000" />
+      <soot value="0.20000000" />
+      <UNK_MEMBER_0x79F75B13 />
+      <UNK_MEMBER_0x47EF6926 />
+      <components>
+        <Item>
+          <id>Trigger</id>
+          <material>WEAPON_WOOD_GENERIC_SMOOTH</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="true" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="7" />
+        </Item>
+        <Item>
+          <id>Hammer</id>
+          <material>WEAPON_WOOD_GENERIC_VARNISHED</material>
+          <engravingMaterial0 />
+          <engravingMaterial1 />
+          <engravingMaterial2 />
+          <engravingMaterial3 />
+          <engravingMaterial4 />
+          <engravingMaterial5 />
+          <UNK_MEMBER_0xFF6A69A2 />
+          <UNK_MEMBER_0x532CB38F />
+          <enableEngravingBump value="true" />
+          <enableSecondaryEngravingRedBump value="false" />
+          <enableSecondaryEngravingGreenBump value="false" />
+          <enableSecondaryEngravingBlueBump value="false" />
+          <UNK_MEMBER_0xFA46AE4C value="false" />
+          <UNK_MEMBER_0x593B09B0 value="255" />
+        </Item>
+      </components>
+    </Item>
+  </VertDataInfos>
+  <Infos>
+    <Item>
+      <Infos />
+    </Item>
+    <Item>
+      <Infos>
+        <Item type="CWeaponInfo">
+          <Properties />
+          <Name>WEAPON_BOW_IMPROVED</Name>
+          <Model />
+          <SwapClipSetHash />
+          <GripClipSetHash />
+          <GripClipHash />
+          <Audio>0x5A608798</Audio>
+          <Slot>0x7B60112D</Slot>
+          <FireType>PROJECTILE</FireType>
+          <Group>GROUP_BOW</Group>
+          <WeaponType>Unarmed</WeaponType>
+          <SwapWeaponType>Weapon_Bow</SwapWeaponType>
+          <Score value="404" />
+          <UNK_MEMBER_0x9A862BD2 value="-1" />
+          <AnimationLookupHash>WEAPON_BOW_IMPROVED</AnimationLookupHash>
+          <DamageModes>
+            <Item>
+              <AmmoInfo>AMMO_ARROW</AmmoInfo>
+              <Name>DM_ARROW</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="35.00000000" />
+              <DamageType>ARROW</DamageType>
+              <Penetration value="1.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_DONTCARE</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+            <Item>
+              <AmmoInfo>AMMO_ARROW_IMPROVED</AmmoInfo>
+              <Name>DM_ARROW_IMPROVED</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="100.00000000" />
+              <DamageType>ARROW</DamageType>
+              <Penetration value="1.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_DONTCARE</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+            <Item>
+              <AmmoInfo>AMMO_ARROW_SMALL_GAME</AmmoInfo>
+              <Name>DM_ARROW_SMALL_GAME</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="9.00000000" />
+              <DamageType>ARROW</DamageType>
+              <Penetration value="0.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_DONTCARE</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+            <Item>
+              <AmmoInfo>AMMO_ARROW_POISON</AmmoInfo>
+              <Name>DM_ARROW_POISON</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="25.00000000" />
+              <DamageType>ARROW</DamageType>
+              <Penetration value="1.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_DONTCARE</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+            <Item>
+              <AmmoInfo>AMMO_ARROW_FIRE</AmmoInfo>
+              <Name>DM_ARROW_FIRE</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="10.00000000" />
+              <DamageType>ARROW</DamageType>
+              <Penetration value="1.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_DONTCARE</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+            <Item>
+              <AmmoInfo>AMMO_ARROW_DYNAMITE</AmmoInfo>
+              <Name>DM_ARROW_DYNAMITE</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="180.00000000" />
+              <DamageType>EXPLOSIVE</DamageType>
+              <Penetration value="1.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_DYNAMITE_ARROW</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+            <Item>
+              <AmmoInfo>AMMO_ARROW_TRACKING</AmmoInfo>
+              <Name>DM_ARROW_TRACKING</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="10.00000000" />
+              <DamageType>ARROW</DamageType>
+              <Penetration value="1.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_TRACKING_ARROW</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+            <Item>
+              <AmmoInfo>AMMO_ARROW_CONFUSION</AmmoInfo>
+              <Name>DM_ARROW_CONFUSION</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="15.00000000" />
+              <DamageType>ARROW</DamageType>
+              <Penetration value="1.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_DONTCARE</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+            <Item>
+              <AmmoInfo>AMMO_ARROW_DISORIENT</AmmoInfo>
+              <Name>DM_ARROW_DISORIENT</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="15.00000000" />
+              <DamageType>ARROW</DamageType>
+              <Penetration value="1.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_DONTCARE</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+            <Item>
+              <AmmoInfo>AMMO_ARROW_DRAIN</AmmoInfo>
+              <Name>DM_ARROW_DRAIN</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="15.00000000" />
+              <DamageType>ARROW</DamageType>
+              <Penetration value="1.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_DONTCARE</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+            <Item>
+              <AmmoInfo>AMMO_ARROW_TRAIL</AmmoInfo>
+              <Name>DM_ARROW_TRAIL</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="15.00000000" />
+              <DamageType>ARROW</DamageType>
+              <Penetration value="1.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_DONTCARE</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+            <Item>
+              <AmmoInfo>AMMO_ARROW_WOUND</AmmoInfo>
+              <Name>DM_ARROW_WOUND</Name>
+              <UNK_MEMBER_0x1F5DA5F4 value="0" />
+              <Damage value="15.00000000" />
+              <DamageType>ARROW</DamageType>
+              <Penetration value="1.00000000" />
+              <Explosion>
+                <Default>EXP_TAG_DONTCARE</Default>
+                <HitCar>EXP_TAG_DONTCARE</HitCar>
+                <HitTruck>EXP_TAG_DONTCARE</HitTruck>
+                <HitBike>EXP_TAG_DONTCARE</HitBike>
+                <HitBoat>EXP_TAG_DONTCARE</HitBoat>
+                <HitPlane>EXP_TAG_DONTCARE</HitPlane>
+              </Explosion>
+              <AccuracyInfo />
+              <DamageFallOffInfo />
+              <MeleeExecutionDismemberment value="-1.00000000" />
+              <DismembermentRanges />
+              <ImpulseMultiplier value="-1.00000000" />
+              <NmShotTuningSet />
+              <RecoilShakeHash />
+              <RecoilShakeHashFirstPerson />
+              <RecoilShakeAmplitude value="-1.00000000" />
+              <RecoilShakeAmplitudeFirstPerson value="-1.00000000" />
+              <PlayerDamagedByPlayerModifier value="-1.00000000" />
+            </Item>
+          </DamageModes>
+          <AimingInfo>0x22BB3573</AimingInfo>
+          <UNK_MEMBER_0x6D43951C>
+            <Item>
+              <Type>Special</Type>
+              <Size value="1" />
+              <BulletsPerAnimLoop value="1" />
+            </Item>
+          </UNK_MEMBER_0x6D43951C>
+          <UNK_MEMBER_0x16FED869 />
+          <AccuracyInfo>0x732099D0</AccuracyInfo>
+          <DamageFallOffInfo />
+          <WeaponHeadShotDistance>
+            <MinHeadShotDistanceAI value="1000.00000000" />
+            <MaxHeadShotDistanceAI value="1000.00000000" />
+            <MinHeadShotDistancePlayer value="5.00000000" />
+            <MaxHeadShotDistancePlayer value="40.00000000" />
+            <MaxHeadShotDistanceToPlayerWithScope value="-1.00000000" />
+          </WeaponHeadShotDistance>
+          <WeaponDamageModifiers>
+            <HeadShotDamageModifierAI value="1000.00000000" />
+            <HeadShotDamageModifierPlayer value="10.00000000" />
+            <NonRegionLimbDamageModifier value="0.50000000" />
+            <LightlyArmouredDamageModifier value="0.75000000" />
+            <HeadOnCloseRangePedModifier value="2.00000000" />
+            <UNK_MEMBER_0x1806425C value="1.00000000" />
+            <CriticalHitChanceModifier value="1.00000000" />
+            <VehicleDamageModifier value="1.00000000" />
+            <PlayerDamagedByPlayerModifier value="1.00000000" />
+            <PlayerDamagedByAIModifier value="0.50000000" />
+            <AIDamagedByPlayerModifier value="1.00000000" />
+          </WeaponDamageModifiers>
+          <WeaponDamageTime>
+            <DamageTime value="0.00000000" />
+            <DamageTimeInVehicle value="0.00000000" />
+            <DamageTimeInVehicleHeadShot value="0.00000000" />
+          </WeaponDamageTime>
+          <WeaponForce>
+            <Force value="100.00000000" />
+            <ForceHitPed value="175.00000000" />
+            <ForceHitVehicle value="100.00000000" />
+            <ForceHitFlyingHeli value="1000.00000000" />
+            <OverrideForces />
+            <ForceMaxStrengthMult value="1.00000000" />
+            <ForceFalloffRangeStart value="0.00000000" />
+            <ForceFalloffRangeEnd value="50.00000000" />
+            <ForceFalloffMin value="1.00000000" />
+            <ProjectileForce value="1.00000000" />
+          </WeaponForce>
+          <MeleeExecutionDismemberment value="0.00000000" />
+          <DismembermentRanges />
+          <DismembermentSetting>DISMEMBERMENT_DEFAULT</DismembermentSetting>
+          <UNK_MEMBER_0x78BB5B90 value="0.66666600" />
+          <FragImpulse value="150.00000000" />
+          <VerticalLaunchAdjustment value="0.30000000" />
+          <LaunchPitchCorrectionMax value="90.00000000" />
+          <DropForwardVelocity value="0.00000000" />
+          <Speed value="1000.00000000" />
+          <MaxDrawingMBR value="-1.00000000" />
+          <BatchSpread value="0.00000000" />
+          <WeaponReload>
+            <ReloadTime value="-1.00000000" />
+            <VehicleReloadTime value="-1.00000000" />
+            <AnimReloadRate value="1.00000000" />
+            <SectionedReloadInfo />
+            <SectionedReloadInfoDual />
+          </WeaponReload>
+          <CockingInfo />
+          <UNK_MEMBER_0x20D873DC />
+          <IkRecoilInfo />
+          <QuiverInfo />
+          <WeaponTimeBetweenShots>
+            <TimeBetweenShotsMin value="1.00000000" />
+            <TimeBetweenShotsMax value="1.00000000" />
+            <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1.00000000" />
+            <SpinUpTime value="0.00000000" />
+            <SpinTime value="0.00000000" />
+            <SpinDownTime value="0.00000000" />
+            <AlternateWaitTime value="-1.00000000" />
+          </WeaponTimeBetweenShots>
+          <WeaponBulletBending>
+            <BulletBendingNearRadius value="0.00000000" />
+            <BulletBendingFarRadius value="0.00000000" />
+            <BulletBendingZoomedRadius value="0.00000000" />
+            <FirstPersonBulletBendingNearRadius value="0.00000000" />
+            <FirstPersonBulletBendingFarRadius value="0.00000000" />
+            <FirstPersonBulletBendingZoomedRadius value="0.00000000" />
+          </WeaponBulletBending>
+          <Vfx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_PISTOL_SMALL</EffectGroup>
+            <VfxBloodInfoHashName>0x0CD20495</VfxBloodInfoHashName>
+            <VfxBloodMeleeInfoHashName />
+            <VfxBloodPoolInfoHashName>0x13585F5E</VfxBloodPoolInfoHashName>
+            <VfxWeaponImpactAmmoInfoHashName>0xA8B882AC</VfxWeaponImpactAmmoInfoHashName>
+            <VfxWeaponImpactAmmoStrengthEvo value="0.00000000" />
+            <VfxWeaponImpactMeleeInfoHashName>0x0855B4A3</VfxWeaponImpactMeleeInfoHashName>
+            <VfxWeaponImpactMeleeStrengthEvo value="0.00000000" />
+            <VfxWeaponMuzzlePositionOverride x="0.00000000" y="0.00000000" z="0.00000000" />
+            <VfxWeaponMuzzleFlashInfoHashName />
+            <VfxWeaponMuzzleSmokeInfoHashName />
+            <VfxWeaponBarrelSmokeInfoHashName />
+            <VfxWeaponHammerInfoHashName />
+            <VfxWeaponTracerInfoHashName>0xD5551261</VfxWeaponTracerInfoHashName>
+            <VfxWeaponShellInfoHashName />
+            <VfxWeaponGroundDisturbInfoHashName />
+            <VfxWeaponInteriorSmokeInfoHashName />
+            <VfxWeaponAirDebrisInfoHashName />
+          </Vfx>
+          <WindDisturbance>
+            <WindDisturbanceMuzzleInfoHashName />
+            <WindDisturbanceBulletInfoHashName />
+          </WindDisturbance>
+          <DegradationInfo />
+          <FamiliarityInfo>0xD448398C</FamiliarityInfo>
+          <RumbleInfo>0x71ADFC07</RumbleInfo>
+          <WeaponRanges>
+            <LockOnRange value="45.00000000" />
+            <LockOnRangeInVehicle value="45.00000000" />
+            <IdleLockOnRangeModifier value="1.00000000" />
+            <SoftLockDurationOverride value="10.00000000" />
+            <WeaponRange value="225.00000000" />
+            <WeaponRangeInVehicle value="100.00000000" />
+            <MeleeWeaponRangeMin value="1.50000000" />
+            <MeleeWeaponRangeMax value="2.00000000" />
+            <MeleeWeaponRangeMaxRun value="4.00000000" />
+            <MeleeWeaponRangeMinToRun value="20.00000000" />
+            <DesiredRange value="100.00000000" />
+            <ProjectileRangeMin value="150.00000000" />
+            <ProjectileRangeMax value="500.00000000" />
+            <AiSoundRange value="1.00000000" />
+            <AiPotentialBlastEventRange value="-1.00000000" />
+          </WeaponRanges>
+          <BulletDirectionOffsetInDegrees value="0.00000000" />
+          <UNK_MEMBER_0xC824F688 value="1.00000000" />
+          <IsSpecialWeapon value="false" />
+          <IsOutlawWeapon value="false" />
+          <UnlockWeaponHash>WEAPON_REVOLVER_CATTLEMAN</UnlockWeaponHash>
+          <BrokenWeaponHash />
+          <VehicleWeaponHash />
+          <WeaponCamera>
+            <CameraDictionaryHash>0xAAF3A63C</CameraDictionaryHash>
+            <DefaultCameraHash>0x01009382</DefaultCameraHash>
+            <InteractionLockonCameraHash>0x5D3DEFD9</InteractionLockonCameraHash>
+            <AimCameraHash />
+            <FireCameraHash />
+            <HorseCameraHash>0x37ED169D</HorseCameraHash>
+            <CoverCameraHash>0x698864B5</CoverCameraHash>
+            <CoverReadyToFireCameraHash>0x43D10BCB</CoverReadyToFireCameraHash>
+            <CoverHipFireCameraHash>0x43D10BCB</CoverHipFireCameraHash>
+            <RunAndGunCameraHash>DEFAULT_THIRD_PERSON_PED_RUN_AND_GUN_CAMERA</RunAndGunCameraHash>
+            <CinematicShootingCameraHash />
+            <GrappleCameraHash />
+            <CameraFov value="45.00000000" />
+            <FirstPersonAimFovMin value="42.00000000" />
+            <FirstPersonAimFovMax value="47.00000000" />
+            <FirstPersonDofSubjectMagnificationPowerFactorNear value="1.02500000" />
+            <FirstPersonDofMaxNearInFocusDistance value="0.00000000" />
+            <FirstPersonDofMaxNearInFocusDistanceBlendLevel value="0.30000000" />
+            <ZoomFactorForAccurateMode value="1.00000000" />
+            <RecoilShakeHash>0x2C8D988E</RecoilShakeHash>
+            <RecoilShakeHashFirstPerson>0x2C8D988E</RecoilShakeHashFirstPerson>
+            <AccuracyOffsetShakeHash />
+            <MinTimeBetweenRecoilShakes value="150" />
+            <RecoilShakeAmplitude value="1.00000000" />
+            <RecoilShakeAmplitudeFirstPerson value="1.00000000" />
+            <ExplosionShakeAmplitude value="-1.00000000" />
+          </WeaponCamera>
+          <CoverTypeHash>BOW</CoverTypeHash>
+          <UNK_MEMBER_0x239BF1C9 />
+          <WeaponReticule>
+            <ReticuleHudPosition x="0.50000000" y="0.50000000" />
+            <ReticuleStyleHash>BOW</ReticuleStyleHash>
+            <FirstPersonReticuleStyleHash />
+            <ReticleSwaySettleDuration value="-1.00000000" />
+            <ReticleSwayPostSettleRestartTime value="-1.00000000" />
+            <ReticleSwayAmplitudeModifierNear value="1.00000000" />
+            <ReticleSwayAmplitudeModifierFar value="1.00000000" />
+            <ReticleSwayRangeNear value="1.00000000" />
+            <ReticleSwayRangeFar value="1.25000000" />
+          </WeaponReticule>
+          <WeaponAimOffsets>
+            <AimOffsetMin x="0.00000000" y="0.00000000" z="0.20000000" />
+            <AimOffsetMax x="0.00000000" y="0.00000000" z="0.20000000" />
+            <TorsoAimOffset x="0.16000000" y="0.55000000" />
+            <TorsoCrouchedAimOffset x="0.16000000" y="0.12000000" />
+            <AimProbeLengthMin value="0.28000000" />
+            <AimProbeLengthMax value="0.28000000" />
+            <AimOffsetMinFPSIdle x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetMedFPSIdle x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetMaxFPSIdle x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetMinFPSLT x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetMaxFPSLT x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetMinFPSRNG x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetMaxFPSRNG x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetMinFPSScope x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetMaxFPSScope x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetEndPosMinFPSIdle x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetEndPosMedFPSIdle x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetEndPosMaxFPSIdle x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetEndPosMinFPSLT x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetEndPosMedFPSLT x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimOffsetEndPosMaxFPSLT x="0.00000000" y="0.00000000" z="0.00000000" />
+            <AimProbeRadiusOverrideFPSIdle value="0.00000000" />
+            <AimProbeRadiusOverrideFPSIdleStealth value="0.00000000" />
+            <AimProbeRadiusOverrideFPSLT value="0.00000000" />
+            <AimProbeRadiusOverrideFPSRNG value="0.00000000" />
+            <AimProbeRadiusOverrideFPSScope value="0.00000000" />
+          </WeaponAimOffsets>
+          <WeaponIkOffset>
+            <LeftHandIkOffset x="0.10000000" y="0.05000000" z="0.00000000" />
+            <IkRecoilDisplacement value="0.00000000" />
+            <IkRecoilDisplacementScope value="0.00000000" />
+            <IkRecoilDisplacementScaleBackward value="1.00000000" />
+            <IkRecoilDisplacementScaleVertical value="0.40000000" />
+            <UpperArmTranslationBias value="0.00000000" />
+          </WeaponIkOffset>
+          <PickupHash>PICKUP_WEAPON_BOW_IMPROVED</PickupHash>
+          <MPPickupHash>PICKUP_WEAPON_BOW_IMPROVED</MPPickupHash>
+          <PermanentDegradationHumanName />
+          <MovementModeConditionalIdle />
+          <StatName>SN_BOW_IMPROVED</StatName>
+          <SkillStatName />
+          <WeaponNM>
+            <KnockdownCount value="-1" />
+            <KillshotImpulseScale value="1.00000000" />
+            <NmShotTuningSet>BOW</NmShotTuningSet>
+            <NmHeadShotTuningSet>HEADSHOT</NmHeadShotTuningSet>
+            <NmNeckShotTuningSet>NECKSHOT</NmNeckShotTuningSet>
+            <NmChestShotTuningSet />
+            <NmBackShotTuningSet>0xE95DC0DE</NmBackShotTuningSet>
+            <NmArmShotTuningSet>ARMSHOT</NmArmShotTuningSet>
+            <NmLegShotTuningSet>0x9F26EB42</NmLegShotTuningSet>
+          </WeaponNM>
+          <PrimaryHandBlackboardString>LEFT_HAND_MEDIUM</PrimaryHandBlackboardString>
+          <SupportingHandBlackboardString>RIGHT_HAND_SMALL</SupportingHandBlackboardString>
+          <SecondaryHandBlackboardString>LEFT_HAND_MEDIUM</SecondaryHandBlackboardString>
+          <AttachPoints>
+            <Item>
+              <AttachBone>WAPGRIP</AttachBone>
+              <Components>
+                <Item>
+                  <Name>COMPONENT_BOW_IMPROVED_GRIP</Name>
+                  <Default value="true" />
+                </Item>
+                <Item>
+                  <Name>COMPONENT_BOW_IMPROVED_GRIP_ALLIGATOR</Name>
+                  <Default value="false" />
+                </Item>
+                <Item>
+                  <Name>COMPONENT_BOW_IMPROVED_GRIP_HORNED</Name>
+                  <Default value="false" />
+                </Item>
+                <Item>
+                  <Name>COMPONENT_BOW_IMPROVED_GRIP_JAGUAR</Name>
+                  <Default value="false" />
+                </Item>
+                <Item>
+                  <Name>COMPONENT_BOW_IMPROVED_GRIP_WOODEN_INLAY</Name>
+                  <Default value="false" />
+                </Item>
+              </Components>
+            </Item>
+          </AttachPoints>
+          <FireProbeBone>ID_SKEL_ROOT</FireProbeBone>
+          <WeaponFlags>CarriedInHand Silenced Gun CanLockonOnFoot CanLockonInVehicle CanFreeAim TwoHanded 0xACD069F0 AnimReload CreateVisibleOrdnance UsableInCover 0x5A3E5EDA AllowEarlyExitFromFireAnimAfterBulletFired UsableOnFoot HasLowCoverSwaps 0x0F00E598 OnlyFireOneShot OnlyFireOneShotPerTriggerPress NoLeftHandIK AllowCloseQuarterKills 0xBE4F5BED 0x087A39D7 Bow 0x2349FD30 UseFPSAimIK UseFPSSecondaryMotion 0xCE1E0473 0x1FCE1778 0xC6550BE0 0xDCF43CF3 0x42D5F625 0x460F96C0 0x3A51C194 0xE29937E6 0x88958897 0x07982641 0x67B5DC71 0x282CF096 0x60EFB98C 0x87BD9548 0xA93AFC4B 0x414AA847</WeaponFlags>
+          <DefaultAIAttackMode>Throw</DefaultAIAttackMode>
+          <AIAttackModes>Throw</AIAttackModes>
+          <TintSpecValues>TINT_DEFAULT</TintSpecValues>
+          <FiringPatternAliases />
+          <ReloadUpperBodyFixupExpressionData />
+          <WeaponAdditiveWeight>
+            <AimingBreathingAdditiveWeight value="1.00000000" />
+            <FiringBreathingAdditiveWeight value="0.00000000" />
+            <StealthAimingBreathingAdditiveWeight value="0.00000000" />
+            <StealthFiringBreathingAdditiveWeight value="0.00000000" />
+            <AimingLeanAdditiveWeight value="1.00000000" />
+            <FiringLeanAdditiveWeight value="1.00000000" />
+            <StealthAimingLeanAdditiveWeight value="1.00000000" />
+            <StealthFiringLeanAdditiveWeight value="1.00000000" />
+          </WeaponAdditiveWeight>
+          <DistanceFromTargetToSlideToDefaultLockOnBoneMin value="0.00000000" />
+          <DistanceFromTargetToSlideToDefaultLockOnBoneMax value="0.00000000" />
+          <ExpandPedCapsuleRadius value="0.00000000" />
+          <MeleeAnimPlaybackRate x="1.00000000" y="1.50000000" />
+          <AudioCollisionHash />
+          <HolsterAttachPoint>WEAPON_ATTACH_POINT_BOW_ALTERNATE</HolsterAttachPoint>
+          <AlternateHolsterAttachPoint>WEAPON_ATTACH_POINT_BOW</AlternateHolsterAttachPoint>
+          <MutuallyExclusiveHolsterAttachPoint>WEAPON_ATTACH_POINT_RIFLE_ALTERNATE</MutuallyExclusiveHolsterAttachPoint>
+          <MutuallyExclusiveAlternateHolsterAttachPoint>WEAPON_ATTACH_POINT_RIFLE</MutuallyExclusiveAlternateHolsterAttachPoint>
+          <ArmpitAttachPoint>WEAPON_ATTACH_POINT_LEFTARMPIT_BOW</ArmpitAttachPoint>
+          <TemporaryAttachPoint>WEAPON_ATTACH_POINT_INVALID</TemporaryAttachPoint>
+          <ShortArmHolsterDOF value="0.00000000" />
+          <WeaponDualWieldAccuracyMod>
+            <PairedWithPistolAccuracyModifier value="1.00000000" />
+            <PairedWithRevolverAccuracyModifier value="1.00000000" />
+            <PairedWithShotgunAccuracyModifier value="1.00000000" />
+          </WeaponDualWieldAccuracyMod>
+          <LightRadiusMult value="1.00000000" />
+          <LightRadiusMultLerpTime value="0.00000000" />
+          <VehicleAttackAngle value="25.00000000" />
+          <MaxDeadeyeTaggedTargets value="1" />
+          <TorsoIKAngleLimit value="-1.00000000" />
+          <MeleeRightFistTargetHealthDamageScaler value="-1.00000000" />
+          <AirborneAircraftLockOnMultiplier value="1.00000000" />
+          <UNK_MEMBER_0xC0AD3F0C />
+          <Caliber>0xDC8A28AF</Caliber>
+          <VertData>0x246BF833</VertData>
+          <MotivationImpactMultiplier value="1.00000000" />
+          <LookingGlassDefaultScopeInfo />
+        </Item>
+      </Infos>
+    </Item>
+    <Item>
+      <Infos />
+    </Item>
+    <Item>
+      <Infos />
+    </Item>
+  </Infos>
+  <VehicleWeaponInfos />
+  <Name>mp007 - Improved Bow</Name>
+  <RawData>0xFC612191</RawData>
+  <AttachPointInfos />
+  <OverrideForcesModifier />
+</CWeaponInfoBlob>

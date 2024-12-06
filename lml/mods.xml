@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModsManager>
+  <Mods>
+    <Mod folder="Ped Accuracy Fix Low Enemy Accuracy">
+      <Name>Pedaccuracyfix</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="WhyEm's BloodLust">
+      <Name>WhyEm's BloodLust</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Disable enemy radar">
+      <Name>Disable enemy radar</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Online Content Unlocker">
+      <Name>Online Content Unlocker</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Ped Accuracy Fix">
+      <Name>Ped Accuracy Fix</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Kiddo's Minimalist Loot Economy Overhaul">
+      <Name>Kiddo's Minimalist Loot Economy Overhaul 1.62</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Realistic_Loadouts v2.4">
+      <Name>Realistic_Loadouts</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Realistic_Weapon_Rebalance">
+      <Name>Realistic Weapon Rebalance</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="PDO v2.0 Extended Features">
+      <Name>Ped Damage Overhaul Extended Features</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+  </Mods>
+  <LoadOrder>
+    <Mod>Ped Accuracy Fix Low Enemy Accuracy</Mod>
+    <Mod>WhyEm's BloodLust</Mod>
+    <Mod>Disable enemy radar</Mod>
+    <Mod>Online Content Unlocker</Mod>
+    <Mod>Ped Accuracy Fix</Mod>
+    <Mod>Kiddo's Minimalist Loot Economy Overhaul</Mod>
+    <Mod>Realistic_Loadouts v2.4</Mod>
+    <Mod>Realistic_Weapon_Rebalance</Mod>
+    <Mod>PDO v2.0 Extended Features</Mod>
+  </LoadOrder>
+</ModsManager>

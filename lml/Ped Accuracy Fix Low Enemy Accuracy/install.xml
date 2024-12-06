@@ -1,0 +1,17 @@
+<EasyInstall>
+    <Name>Pedaccuracyfix</Name>
+    <Author>Micha2500</Author>
+    <Version>1.0</Version>
+    <Link></Link>
+    <Metadata>
+    </Metadata>
+
+    <Resources>
+        <Resource>
+            <FileReplacement>
+                <GamePath>update:/common/data/ai/pedaccuracy.meta</GamePath>
+                <FilePath>pedaccuracy.meta</FilePath>
+            </FileReplacement>
+        </Resource>
+    </Resources>
+</EasyInstall>

@@ -1,0 +1,40 @@
+<EasyInstall>
+    <Name>Ped Damage Overhaul Extended Features</Name>
+    <Author>HughJanus and fitfondue</Author>
+    <Version>2.0</Version>
+    <Link></Link>
+    <Metadata>
+    </Metadata>
+	
+    <ResourceGroups>
+        <ResourceGroup name="Ped Damage Overhaul Dismemberment Reactions">
+			<Description>This is an optional PDO feature which enables longer reactions for dismembered NPCs.</Description>
+			<Resources>
+				<Resource>PDODR</Resource>
+			</Resources>
+		</ResourceGroup>
+		<ResourceGroup name="Ped Damage Overhaul Higher Chances for Arterial Bleeding">
+			<Description>This is an optional PDO feature which increases the chance of triggering arterial bleeing when shooting NPC's weak spots.</Description>
+			<Resources>
+				<Resource>PDOHCFAB</Resource>
+			</Resources>
+		</ResourceGroup>
+	</ResourceGroups>
+	
+    <Resources>
+        <Resource name="Ped Damage Overhaul Dismemberment Reactions" scriptName="PDODR">
+            <FileReplacement>
+                <GamePath>update:/x64/data/tune/physicstasks.ymt</GamePath>
+                <FilePath>PDODR/physicstasks.ymt</FilePath>
+            </FileReplacement>
+        </Resource>
+    </Resources>
+	<Resources>
+        <Resource name="Ped Damage Overhaul Higher Chances for Arterial Bleeding"  scriptName="PDOHCFAB">
+            <FileReplacement>
+                <GamePath>update:/common/data/ai/peddamageinfo.meta</GamePath>
+                <FilePath>peddamageinfo.meta</FilePath>
+            </FileReplacement>
+        </Resource>
+    </Resources>
+</EasyInstall>

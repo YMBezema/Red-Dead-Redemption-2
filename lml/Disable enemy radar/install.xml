@@ -1,0 +1,17 @@
+<EasyInstall>
+    <Name>Disable enemy radar</Name>
+    <Author>alfabravozapa</Author>
+    <Version>1.0</Version>
+    <Link></Link>
+    <Metadata>
+    </Metadata>
+    <Resources>
+        <Resource>
+            <FileReplacement>
+                <GamePath>update:/x64/data/ui/blipdata.ymt</GamePath>
+                <FilePath>blipdata.ymt</FilePath>
+            </FileReplacement>
+        </Resource>
+        
+    </Resources>
+</EasyInstall>

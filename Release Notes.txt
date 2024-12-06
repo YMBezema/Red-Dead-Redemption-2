@@ -1,0 +1,5 @@
+- Added trigger effects for fishing rod and lasso.
+- Added option to disable left trigger effects.
+- Added option to customize input file path (workaround for removing readonly permissions on the game's folder).
+- Added led effects for overpowered health core.
+- Some other general fixes and improvements.

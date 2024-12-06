@@ -1,0 +1,57 @@
+<EasyInstall>
+    <Name>Realistic Weapon Rebalance</Name>
+    <Author>saravaksa\muhoblud</Author>
+    <Version>2.3</Version>
+    <Link></Link>
+    <Metadata>
+    </Metadata>
+
+    <Resources>
+        <Resource>
+            <FileReplacement>
+                <GamePath>update:/x64/packs/base/data/ai/weapons.ymt</GamePath>
+                <FilePath>weapons.ymt</FilePath>
+            </FileReplacement>>
+	   <FileReplacement>
+                <GamePath>update:/x64/pack_patch/dlc_content_extra/data/ai/weapon_pistol_m1899.ymt</GamePath>
+                <FilePath>weapon_pistol_m1899.ymt</FilePath>
+           </FileReplacement>
+	   <FileReplacement>
+        	<GamePath>update:/x64/pack_patch/dlc_content_extra/data/ai/weapon_repeater_evans.ymt</GamePath>
+       	 	<FilePath>weapon_repeater_evans.ymt</FilePath>
+      	   </FileReplacement>
+	   <FileReplacement>
+        	<GamePath>update:/x64/pack_patch/dlc_content_extra/data/ai/weapon_revolver_lemat.ymt</GamePath>
+        	<FilePath>weapon_revolver_lemat.ymt</FilePath>
+           </FileReplacement>
+	   <FileReplacement>
+                <GamePath>update:/x64/pack_patch/mp006/data/ai/weapon_revolver_navy.ymt</GamePath>
+                <FilePath>weapon_revolver_navy.ymt</FilePath>
+           </FileReplacement>
+	   <FileReplacement>
+                <GamePath>update:/x64/pack_patch/mp007/data/ai/weapon_rifle_elephant.ymt</GamePath>
+                <FilePath>weapon_rifle_elephant.ymt</FilePath>
+           </FileReplacement>
+		   <FileReplacement>
+		        <GamePath>update:/x64/pack_patch/dlc_content_extra/data/ai/weapon_revolver_doubleaction_gambler.ymt</GamePath>
+				<FilePath>weapon_revolver_doubleaction_gambler.ymt</FilePath>
+			</FileReplacement>
+		<FileReplacement>
+				<GamePath>update:/common/packs/base/data/ai/weaponcomponents.meta</GamePath>
+		        <FilePath>weaponcomponents.meta</FilePath>
+		</FileReplacement>
+		<FileReplacement>
+			    <GamePath>update:/pack_patch/dlc_content_extra/common/data/ai/weaponcomponents.meta</GamePath>
+				<FilePath>weaponcomponents_1899.meta</FilePath>
+		</FileReplacement>
+		<FileReplacement>
+			    <GamePath>update:/pack_patch/dlc_content_extra/common/data/ai/003_weaponcomponents.meta</GamePath>
+				<FilePath>003_weaponcomponents.meta</FilePath>
+		</FileReplacement>	
+		<FileReplacement>
+			    <GamePath>dlcpacks/dlc_content_extra/common/data/ai/004_weaponcomponents.meta</GamePath>
+				<FilePath>004_weaponcomponents.meta</FilePath>
+		</FileReplacement>
+        </Resource>
+    </Resources>
+</EasyInstall>
