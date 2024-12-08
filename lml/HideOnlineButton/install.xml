@@ -1,0 +1,16 @@
+<EasyInstall>
+    <Name>Remove Online Button</Name>
+    <Author>WesternGamer</Author>
+    <Version>1.0.0</Version>
+    <Link></Link>
+    <Metadata>
+    </Metadata>
+    <Resources>
+        <Resource>
+			<FileReplacements>
+                <GamePath>update:/x64/data/ui/screens</GamePath>
+                <FilePath>data/ui/screens</FilePath>
+            </FileReplacements>
+        </Resource>      
+    </Resources>
+</EasyInstall>

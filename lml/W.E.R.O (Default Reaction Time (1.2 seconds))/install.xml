@@ -1,0 +1,68 @@
+<EasyInstall>
+    <Name>W.E.R.O (Default Reaction Time (1.2 seconds))</Name>
+    <Author>VolaticWolf</Author>
+    <Version>3.4.5</Version>
+    <Link></Link>
+    <Metadata>
+    </Metadata>
+    <Resources>
+        <Resource>
+            <FileReplacement>
+                <GamePath>update:/x64/data/tune/physicstasks.ymt</GamePath>
+                <FilePath>physicstasks.ymt</FilePath>
+            </FileReplacement>
+            <FileReplacement>
+                <GamePath>common:/data/naturalmotion/fred.xml</GamePath>
+                <FilePath>fred.xml</FilePath>
+            </FileReplacement>
+            <FileReplacement>
+                <GamePath>common:/data/naturalmotion/fred_fat.xml</GamePath>
+                <FilePath>fred_fat.xml</FilePath>
+            </FileReplacement>
+            <FileReplacement>
+                <GamePath>common:/data/naturalmotion/fred_large.xml</GamePath>
+                <FilePath>fred_large.xml</FilePath>
+            </FileReplacement>			
+            <FileReplacement>
+                <GamePath>common:/data/naturalmotion/fred_short.xml</GamePath>
+                <FilePath>fred_short.xml</FilePath>
+            </FileReplacement>			
+            <FileReplacement>
+                <GamePath>common:/data/naturalmotion/fred_skinny.xml</GamePath>
+                <FilePath>fred_skinny.xml</FilePath>
+            </FileReplacement>			
+            <FileReplacement>
+                <GamePath>common:/data/naturalmotion/fred_very_large.xml</GamePath>
+                <FilePath>fred_very_large.xml</FilePath>
+            </FileReplacement>			
+            <FileReplacement>
+                <GamePath>common:/data/naturalmotion/fred_very_small.xml</GamePath>
+                <FilePath>fred_very_small.xml</FilePath>
+            </FileReplacement>			
+            <FileReplacement>
+                <GamePath>common:/data/naturalmotion/wilma.xml</GamePath>
+                <FilePath>wilma.xml</FilePath>
+            </FileReplacement>			
+            <FileReplacement>
+                <GamePath>common:/data/naturalmotion/wilma_large</GamePath>
+                <FilePath>wilma_large.xml</FilePath>
+            </FileReplacement>			
+            <FileReplacement>
+                <GamePath>update:/common/data/taskdata.meta</GamePath>
+                <FilePath>taskdata.meta</FilePath>
+            </FileReplacement>		
+            <FileReplacement>
+                <GamePath>update:/x64/packs/base/data/ai/weapons.ymt</GamePath>
+                <FilePath>weapons.ymt</FilePath>
+            </FileReplacement>			
+<FileReplacement>
+<GamePath>update:/x64/pack_patch/mp007/data/ai/weapon_rifle_elephant.ymt</GamePath>
+<FilePath>weapons/weapon_rifle_elephant.ymt</FilePath>
+</FileReplacement>
+<FileReplacement>
+<GamePath>update:/x64/pack_patch/mp006/data/ai/weapon_revolver_navy.ymt</GamePath>
+<FilePath>weapons/weapon_revolver_navy.ymt</FilePath>
+</FileReplacement>			
+    </Resource>	
+    </Resources>
+</EasyInstall>

@@ -1097,7 +1097,7 @@
           <WeaponNM>
             <KnockdownCount value="-1" />
             <KillshotImpulseScale value="1.00000000" />
-            <NmShotTuningSet>SHOTGUN</NmShotTuningSet>
+            <NmShotTuningSet>RIFLE_ELEPHANT</NmShotTuningSet> <!-- W.E.R.O Modified -->
             <NmHeadShotTuningSet>HEADSHOT</NmHeadShotTuningSet>
             <NmNeckShotTuningSet>NECKSHOT</NmNeckShotTuningSet>
             <NmChestShotTuningSet />

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>	
+<CDispatchData>
+	<BountyResponses>
+		<BountyDispatch>
+			<Name>LAW_WILDERNESS_BIG_VALLEY</Name>
+			<RandomWeight value="1.0" />
+			<RequiredRegion>LAW_REGION_BIG_VALLEY</RequiredRegion>
+			<RequiredCooldowns>
+				<Item>DefaultCooldown</Item>
+			</RequiredCooldowns>
+			<Flags>CantBeCleared</Flags>
+			<CombatInfoOverride>LAW_WILDERNESS</CombatInfoOverride>
+			<DispatchPhases>
+				
+				<!-- Phase: Phase Contol -->
+				<Phase>
+					<Name>PhaseControl</Name>
+					
+					<DispatchPeds>
+						<DispatchPedGroups>
+							<DispatchGroup>
+								<Preset>RiderRuralMountainsProfessional</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="1"/>
+							</DispatchGroup>
+						</DispatchPedGroups>
+						<GreedyAcquireCondition type="CAIConditionReferenced">
+							<Name>SHOULD_GRAB_AVAILABLE_DISPATCH_PED</Name>
+						</GreedyAcquireCondition>
+					</DispatchPeds>
+					
+					<PhaseEndConditions>
+						<Condition type="CAIConditionTimeInDispatchPhase">
+							<LowerBound value="0"/>
+						</Condition>
+					</PhaseEndConditions>
+					
+					<NextPhases>
+						<!-- Random Patrol Group -->
+						<PhaseOption>
+							<Condition type="CAIConditionRandom">
+								<Chances value="0.15f"/>
+							</Condition>
+							<Name>RandomPatrol</Name>
+						</PhaseOption>
+						
+						<!-- High Severity / Rural / 500 / 60 -->
+						<PhaseOption>
+							<Condition type="CAIConditionAnd">
+								<Conditions>
+									<Condition type="CAIConditionIncidentSeverity">
+										<MinSeverity>High</MinSeverity>
+							        </Condition>
+									<Condition type="CDispatchConditionDistanceToClosestTown">
+										<MaxDistance value="500.00"/>
+									</Condition>
+								</Conditions>
+							</Condition>
+							<Name>RidersRuralHigh</Name>
+						</PhaseOption>
+						
+						<!-- High Severity / Wilderness / 2500 / 140 -->
+						<PhaseOption>
+							<Condition type="CAIConditionAnd">
+								<Conditions>
+									<Condition type="CAIConditionIncidentSeverity">
+										<MinSeverity>High</MinSeverity>
+							        </Condition>
+									<Condition type="CDispatchConditionDistanceToClosestTown">
+										<MaxDistance value="4500.00"/>
+									</Condition>
+								</Conditions>
+							</Condition>
+							<Name>RidersWildernessHigh</Name>
+						</PhaseOption>
+						
+						<!-- Medium Severity / Rural / 500 / 80 -->
+						<PhaseOption>
+							<Condition type="CDispatchConditionDistanceToClosestTown">
+								<MaxDistance value="500.00"/>
+							</Condition>
+							<Name>RidersRuralMed</Name>
+						</PhaseOption>
+						
+						<!-- Medium Severity / Wilderness / 2500 / 140 -->
+						<PhaseOption>
+							<Condition type="CDispatchConditionDistanceToClosestTown">
+								<MaxDistance value="4500.00"/>
+							</Condition>
+							<Name>K9Wilderness</Name>
+						</PhaseOption>
+					</NextPhases>
+				</Phase>
+				
+				<!-- Phase: RidersRural / Medium Severity / 500 / 80 -->
+				<Phase>
+					<Name>RidersRuralMed</Name> <!-- 2(3 at max) -->
+					<SpawnDelay value="80.00"/>
+					
+					<DispatchPeds>
+						<DispatchPedGroups>
+							<DispatchGroup>
+								<Preset>RiderRuralFoothills</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+						</DispatchPedGroups>
+						<GreedyAcquireCondition type="CAIConditionReferenced">
+							<Name>SHOULD_GRAB_AVAILABLE_DISPATCH_PED</Name>
+						</GreedyAcquireCondition>
+					</DispatchPeds>
+				
+					<PhaseEndConditions>
+						<Condition type="CAIConditionReferenced">
+							<Name>DISPATCH_LOW_SEVERITY_ESCALATION_WILDERNESS</Name>
+						</Condition>
+					</PhaseEndConditions>
+					
+					<NextPhases>
+						<PhaseOption>
+							<Name>RidersRuralHigh</Name>
+						</PhaseOption>
+					</NextPhases>	
+				</Phase>
+				
+				<!-- Phase: K9-Wilderness / Medium Severity / 2500 / 140 -->
+				<Phase>
+					<Name>K9Wilderness</Name> <!-- 1/3 -->
+					<SpawnDelay value="140.00"/>
+					
+					<DispatchPeds>
+						<DispatchPedGroups>
+							<DispatchGroup>
+								<Preset>PoliceDog</Preset>
+								<MinNumPeds value="2"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionRandom">
+										<Chances value="0.15f"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderRuralMountains</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+						</DispatchPedGroups>
+						<GreedyAcquireCondition type="CAIConditionReferenced">
+							<Name>SHOULD_GRAB_AVAILABLE_DISPATCH_PED</Name>
+						</GreedyAcquireCondition>
+					</DispatchPeds>
+				
+					<PhaseEndConditions>
+						<Condition type="CAIConditionReferenced">
+							<Name>DISPATCH_RESPONSE_FINISHED_WILDERNESS</Name>
+						</Condition>
+					</PhaseEndConditions>
+					
+					<NextPhases>
+						<!-- End Phase? -->
+					</NextPhases>	
+				</Phase>
+				
+				<!-- Phase: RidersRural / High Severity / 500 / 60 -->
+				<Phase>
+					<Name>RidersRuralHigh</Name> <!-- 4/6 -->
+					<SpawnDelay value="60.00"/>
+					
+					<DispatchPeds>
+						<DispatchPedGroups>
+							<DispatchGroup>
+								<Preset>LawLeaderRuralFoothills</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="1"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<Preset>RiderFoothills</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="3"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionWantedLevel">
+										<WantedLevelLowerBound value="3"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderFoothillsDefaultCarbine</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionWantedLevel">
+										<WantedLevelLowerBound value="4"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderFoothillsShotgun</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionWantedLevel">
+										<WantedLevelLowerBound value="4"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderFoothillsSniper</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="1"/>
+							</DispatchGroup>
+						</DispatchPedGroups>
+						<GreedyAcquireCondition type="CAIConditionReferenced">
+							<Name>SHOULD_GRAB_AVAILABLE_DISPATCH_PED</Name>
+						</GreedyAcquireCondition>
+					</DispatchPeds>
+					
+					<PhaseEndConditions>
+						<Condition type="CAIConditionReferenced">
+							<Name>DISPATCH_RESPONSE_FINISHED_WILDERNESS</Name>
+						</Condition>
+					</PhaseEndConditions>
+					
+					<NextPhases>
+						
+					</NextPhases>
+				</Phase>
+				
+				<!-- Phase: Riders-Wilderness / High Severity / 2500 / 140 -->
+				<Phase>
+					<Name>RidersWildernessHigh</Name> <!-- 6/10 -->
+					<SpawnDelay value="140.00"/>
+					
+					<DispatchPeds>
+						<DispatchPedGroups>
+							<DispatchGroup>
+								<Preset>PoliceDog</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<Preset>LawLeaderRuralMountains</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="1"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<Preset>RiderMountains</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="3"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionWantedLevel">
+										<WantedLevelLowerBound value="3"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderMountainsCarbine</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionWantedLevel">
+										<WantedLevelLowerBound value="4"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderMountainsShotgun</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionWantedLevel">
+										<WantedLevelLowerBound value="4"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderMountainsSniper</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="1"/>
+							</DispatchGroup>
+						</DispatchPedGroups>
+						<GreedyAcquireCondition type="CAIConditionReferenced">
+							<Name>SHOULD_GRAB_AVAILABLE_DISPATCH_PED</Name>
+						</GreedyAcquireCondition>
+					</DispatchPeds>
+					
+					<PhaseEndConditions>
+						<Condition type="CAIConditionReferenced">
+							<Name>DISPATCH_RESPONSE_FINISHED_WILDERNESS</Name>
+						</Condition>
+					</PhaseEndConditions>
+					
+					<NextPhases>
+					    <!-- End Response -->
+					</NextPhases>
+				</Phase>
+				
+				<!-- Phase: Random Patrol Group -->
+				<Phase>
+					<Name>RandomPatrol</Name> <!-- 1+5/+dogs -->
+					<SpawnDelay value="10.00"/>
+					
+					<DispatchPeds>
+						<DispatchPedGroups>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionRandom">
+										<Chances value="0.3f"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>PoliceDog</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionRandom">
+										<Chances value="0.8f"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderRuralFoothills</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionRandom">
+										<Chances value="0.5f"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderMountains</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="1"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionRandom">
+										<Chances value="0.3f"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderRuralFoothillsProfessional</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="1"/>
+							</DispatchGroup>
+						</DispatchPedGroups>
+						<GreedyAcquireCondition type="CAIConditionReferenced">
+							<Name>SHOULD_GRAB_AVAILABLE_DISPATCH_PED</Name>
+						</GreedyAcquireCondition>
+					</DispatchPeds>
+				
+					<PhaseEndConditions>
+						<Condition type="CAIConditionReferenced">
+							<Name>DISPATCH_RESPONSE_FINISHED_WILDERNESS</Name>
+						</Condition>
+					</PhaseEndConditions>
+					
+					<NextPhases>
+						<!-- End Phase -->
+					</NextPhases>
+				</Phase>
+			</DispatchPhases>
+		</BountyDispatch>
+	</BountyResponses>
+	<CleanUpDispatchPedPresets>
+		<Item>RiderRuralMountainsProfessional</Item>
+		<Item>RiderRuralFoothills</Item> <!-- V -->
+		<Item>RiderRuralMountains</Item>
+		<Item>LawLeaderRuralFoothills</Item>
+		<Item>LawLeaderRuralMountains</Item>
+		<Item>RiderFoothills</Item>
+		<Item>RiderMountains</Item>
+		<Item>RiderFoothillsDefaultCarbine</Item>
+		<Item>RiderMountainsCarbine</Item>
+		<Item>RiderFoothillsShotgun</Item>
+		<Item>RiderMountainsShotgun</Item>
+		<Item>RiderFoothillsSniper</Item>
+		<Item>RiderMountainsSniper</Item>
+		<Item>RiderRuralFoothillsProfessional</Item>
+	</CleanUpDispatchPedPresets>
+</CDispatchData>

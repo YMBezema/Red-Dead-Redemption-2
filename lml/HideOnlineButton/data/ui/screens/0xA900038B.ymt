@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<UIStackPanel>
+  <Name>ROOT_INDEX</Name>
+  <UseLayoutEngine value="true"/>
+  <LayoutParams type="rage__LayoutParamInstanceAsset">
+    <params>
+      <horizontalAlignment>HALIGN_LEFT</horizontalAlignment>
+      <verticalAlignment>VALIGN_TOP</verticalAlignment>
+      <heightContentMode>CONTENT_MODE_AUTO</heightContentMode>
+      <widthContentMode>CONTENT_MODE_AUTO</widthContentMode>
+    </params>
+  </LayoutParams>
+  <SpecializedLayoutParams>
+    <Item type="rage__SpecializedParamInstanceAsset">
+      <params type="rage__StackPanelParams">
+        <orientation>PANEL_ORIENT_VERTICAL</orientation>
+        <padding value="-10"/>
+      </params>
+    </Item>
+  </SpecializedLayoutParams>
+  <BehaviorSet>
+    <Behaviors>
+      <Item type="uiScreenBehavior">
+        <Screen>
+          <ID>pause_root_index</ID>
+        </Screen>
+      </Item>
+      <Item type="uiScreenNavigationBehavior">
+        <NavData>
+          <Flags>NAV_FLAGS_WRAPPING_Y</Flags>
+        </NavData>
+      </Item>
+      <Item type="uiScreenHotkeyBehavior">
+        <Name>selectable</Name>
+        <FlowOp>
+          <Link>exit_to_game</Link>
+        </FlowOp>
+        <Message>fwuiInputMessageBack</Message>
+        <HintText>IB_BACK</HintText>
+      </Item>
+      <Item type="uiBehaviorDataBindingBehavior">
+        <MemberBindingLinks>
+          <Item>
+            <MemberPath>
+              <Path>photoMode.StartEnabled</Path>
+              <PathType>PATH_LOCAL</PathType>
+            </MemberPath>
+            <BindingSetup>
+              <Path>ScriptDatastoreRoot.bEnablePauseMenuPhotoMode</Path>
+              <PathType>PATH_ABSOLUTE</PathType>
+            </BindingSetup>
+          </Item>
+          <Item>
+            <MemberPath>
+              <Path>photoMode.HintVisible</Path>
+              <PathType>PATH_LOCAL</PathType>
+            </MemberPath>
+            <BindingSetup>
+              <Path>ScriptDatastoreRoot.bPauseMenuPhotoModeVisible</Path>
+              <PathType>PATH_ABSOLUTE</PathType>
+            </BindingSetup>
+          </Item>
+        </MemberBindingLinks>
+      </Item>
+      <Item type="uiScreenHotkeyBehavior">
+        <Name>photoMode</Name>
+        <Message>uiInputMessagePhotoMode</Message>
+        <HintText>CAM_CONG_PM</HintText>
+        <ScriptEventOp>
+          <EventChannel>PAUSE_MENU</EventChannel>
+          <HashParameter>PAUSE_UI_PHOTO_MODE</HashParameter>
+          <IncludeBindingContext value="true"/>
+        </ScriptEventOp>
+      </Item>
+    </Behaviors>
+  </BehaviorSet>
+  <Instancing>
+    <Item type="UITemplateInstancingItem">
+      <Type>pause_list_item</Type>
+      <Properties>
+        <Item type="SF_String">
+          <Name>Label</Name>
+          <Value>PM_SCR_MAP</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>Link</Name>
+          <Value>to_map</Value>
+        </Item>
+      </Properties>
+      <Bindings>
+        <Item>
+          <PropertyKey>ImageBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.mapAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+          <Converter type="rage__fwuiBoolValueConversion">
+            <Invert value="true"/>
+          </Converter>
+        </Item>
+        <Item>
+          <PropertyKey>EnabledBinding</PropertyKey>
+          <MemberName>Enabled</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.mapAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+      </Bindings>
+    </Item>
+    <Item type="UITemplateInstancingItem">
+      <Type>pause_list_item</Type>
+      <Properties>
+        <Item type="SF_String">
+          <Name>Label</Name>
+          <Value>PM_SCR_HUB</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>Link</Name>
+          <Value>to_hub</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>ScriptSelectEventHash</Name>
+          <Value>PAUSE_MENU_HUB_ROOT_SCRIPT_EVENT</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>ScriptEventSelectUIChannel</Name>
+          <Value>PAUSE_MENU</Value>
+        </Item>
+      </Properties>
+      <Bindings>
+        <Item>
+          <PropertyKey>NotificationBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>ScriptDatastoreRoot.pause_menu_root.hub_new_star_visible</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+        <Item>
+          <PropertyKey>ImageBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.hubAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+          <Converter type="rage__fwuiBoolValueConversion">
+            <Invert value="true"/>
+          </Converter>
+        </Item>
+        <Item>
+          <PropertyKey>VisibleBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>sessionInfo.isMultiplayer</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+        <Item>
+          <PropertyKey>EnabledBinding</PropertyKey>
+          <MemberName>Enabled</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.hubAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+      </Bindings>
+    </Item>
+    <Item type="UITemplateInstancingItem">
+      <Type>pause_list_item</Type>
+      <Properties>
+        <Item type="SF_String">
+          <Name>Label</Name>
+          <Value>PM_SCR_HELP</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>Link</Name>
+          <Value>to_help</Value>
+        </Item>
+      </Properties>
+      <Bindings>
+        <Item>
+          <PropertyKey>ImageBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.helpAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+          <Converter type="rage__fwuiBoolValueConversion">
+            <Invert value="true"/>
+          </Converter>
+        </Item>
+        <Item>
+          <PropertyKey>EnabledBinding</PropertyKey>
+          <MemberName>Enabled</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.helpAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+      </Bindings>
+    </Item>
+    <Item type="UITemplateInstancingItem">
+      <Type>pause_list_item</Type>
+      <Properties>
+        <Item type="SF_String">
+          <Name>Label</Name>
+          <Value>PM_SCR_PROG</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>Link</Name>
+          <Value>to_progress</Value>
+        </Item>
+      </Properties>
+      <Bindings>
+        <Item>
+          <PropertyKey>NotificationBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>ScriptDatastoreRoot.pause_menu_root.progress_new_star_visible</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+        <Item>
+          <PropertyKey>ImageBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.progressAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+          <Converter type="rage__fwuiBoolValueConversion">
+            <Invert value="true"/>
+          </Converter>
+        </Item>
+        <Item>
+          <PropertyKey>EnabledBinding</PropertyKey>
+          <MemberName>Enabled</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.progressAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+      </Bindings>
+    </Item>
+    <Item type="UITemplateInstancingItem">
+      <Type>pause_list_item</Type>
+      <Properties>
+        <Item type="SF_String">
+          <Name>Label</Name>
+          <Value>PM_SCR_ABIL</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>Link</Name>
+          <Value>to_abilities</Value>
+        </Item>
+      </Properties>
+      <Bindings>
+        <Item>
+          <PropertyKey>ImageBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>ScriptDatastoreRoot.ability_card_data.allowMenuAccess</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+          <Converter type="rage__fwuiBoolValueConversion">
+            <Invert value="true"/>
+          </Converter>
+        </Item>
+        <Item>
+          <PropertyKey>VisibleBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>sessionInfo.isMultiplayer</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+        <Item>
+          <PropertyKey>EnabledBinding</PropertyKey>
+          <MemberName>Enabled</MemberName>
+          <Setup>
+            <Path>ScriptDatastoreRoot.ability_card_data.allowMenuAccess</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+      </Bindings>
+    </Item>
+    <Item type="UITemplateInstancingItem">
+      <Type>pause_list_item</Type>
+      <Properties>
+        <Item type="SF_String">
+          <Name>Label</Name>
+          <Value>PM_SCR_PLYR</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>Link</Name>
+          <Value>to_stats</Value>
+        </Item>
+      </Properties>
+      <Bindings>
+        <Item>
+          <PropertyKey>ImageBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.statsAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+          <Converter type="rage__fwuiBoolValueConversion">
+            <Invert value="true"/>
+          </Converter>
+        </Item>
+        <Item>
+          <PropertyKey>EnabledBinding</PropertyKey>
+          <MemberName>Enabled</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.statsAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+      </Bindings>
+    </Item>
+    <Item type="UITemplateInstancingItem">
+      <Type>pause_list_item</Type>
+      <Properties>
+        <Item type="SF_String">
+          <Name>Label</Name>
+          <Value>PM_SCR_GAME</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>Link</Name>
+          <Value>to_game</Value>
+        </Item>
+      </Properties>
+      <Bindings>
+        <Item>
+          <PropertyKey>NotificationBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>sessionInfo.singleplayerUnlockedDuringMPSession</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+        <Item>
+          <PropertyKey>ImageBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.storyAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+          <Converter type="rage__fwuiBoolValueConversion">
+            <Invert value="true"/>
+          </Converter>
+        </Item>
+        <Item>
+          <PropertyKey>EnabledBinding</PropertyKey>
+          <MemberName>Enabled</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.storyAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+      </Bindings>
+    </Item>
+    <Item type="UITemplateInstancingItem">
+      <Type>pause_list_item</Type>
+      <Properties>
+        <Item type="SF_String">
+          <Name>Label</Name>
+          <Value>PM_SCR_STORE</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>Link</Name>
+          <Value>to_store</Value>
+        </Item>
+      </Properties>
+      <Bindings>
+        <Item>
+          <PropertyKey>ImageBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.storeAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+          <Converter type="rage__fwuiBoolValueConversion">
+            <Invert value="true"/>
+          </Converter>
+        </Item>
+        <Item>
+          <PropertyKey>VisibleBinding</PropertyKey>
+          <MemberName>Visible</MemberName>
+          <Setup>
+            <Path>sessionInfo.isMultiplayer</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+        <Item>
+          <PropertyKey>EnabledBinding</PropertyKey>
+          <MemberName>Enabled</MemberName>
+          <Setup>
+            <Path>ui_apps.pause_menu.storeAvailable</Path>
+            <PathType>PATH_ABSOLUTE</PathType>
+          </Setup>
+        </Item>
+      </Bindings>
+    </Item>
+    <Item type="UITemplateInstancingItem">
+      <Type>pause_list_item</Type>
+      <Properties>
+        <Item type="SF_String">
+          <Name>Label</Name>
+          <Value>PM_SCR_SET</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>Link</Name>
+          <Value>to_settings</Value>
+        </Item>
+      </Properties>
+    </Item>
+    <Item platform="pc" type="UITemplateInstancingItem">
+      <Type>pause_list_item</Type>
+      <Properties>
+        <Item type="SF_String">
+          <Name>Label</Name>
+          <Value>PM_QUIT_GAME</Value>
+        </Item>
+        <Item type="SF_HText">
+          <Name>Link</Name>
+          <Value>quit_game</Value>
+        </Item>
+      </Properties>
+    </Item>
+  </Instancing>
+</UIStackPanel>

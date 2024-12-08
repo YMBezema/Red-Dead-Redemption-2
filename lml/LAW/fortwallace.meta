@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>	
+<CDispatchData>
+	<BountyResponses>
+		<BountyDispatch>
+			<Name>LAW_LOCAL_FORT_WALLACE</Name>
+			<RandomWeight value="1.0" />
+			<RequiredRegion>LAW_REGION_FORT_WALLACE</RequiredRegion>
+			<RequiredCooldowns>
+				<Item>DefaultCooldown</Item>
+			</RequiredCooldowns>
+			<DispatchPhases>
+				
+				<!-- Phase: REINFORCEMENTS -->
+				<Phase>
+					<Name>USArmy</Name>
+					<SpawnDelay value="80.00"/>
+					
+					<DispatchPeds>
+						<DispatchPedGroups>
+							<DispatchGroup>
+								<Preset>ArmyRider</Preset>
+								<MinNumPeds value="3"/>
+								<MaxNumPeds value="6"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionWantedLevel">
+								        <WantedLevelLowerBound value="4"/>
+							        </Condition>
+								</SelectionConditions>
+								<Preset>ArmyRider</Preset>
+								<MinNumPeds value="4"/>
+								<MaxNumPeds value="6"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionWantedLevel">
+								        <WantedLevelLowerBound value="3"/>
+							        </Condition>
+								</SelectionConditions>
+								<Preset>ArmyLeader</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="1"/>
+							</DispatchGroup>
+						</DispatchPedGroups>
+						<GreedyAcquireCondition type="CAIConditionReferenced">
+							<Name>SHOULD_GRAB_AVAILABLE_DISPATCH_PED</Name>
+						</GreedyAcquireCondition>
+					</DispatchPeds>
+					
+					<PhaseEndConditions>
+						<Condition type="CAIConditionPedsRemainingInCurrentIncident">
+							<UpperBound value="2"/>
+						</Condition>
+					</PhaseEndConditions>
+					
+					<NextPhases>
+						<!-- Random Patrol Group -->
+						<PhaseOption>
+							<Condition type="CAIConditionRandom">
+								<Chances value="0.15f"/>
+							</Condition>
+							<Name>RandomPatrol</Name>
+						</PhaseOption>
+						<!-- ArmyWagon -->
+						<PhaseOption>
+							<Name>USArmyWagon</Name>
+						</PhaseOption>
+					</NextPhases>
+				</Phase>
+				
+				<!-- Phase: ARMY WAGON -->
+				<Phase>
+					<Name>USArmyWagon</Name>
+					<SpawnDelay value="10.00"/>
+					
+					<DispatchPeds>
+						<DispatchPedGroups>
+							<DispatchGroup>
+								<Preset>ArmyWagonHMG</Preset>
+								<MinNumPeds value="3"/>
+								<MaxNumPeds value="3"/>
+							</DispatchGroup>
+						</DispatchPedGroups>
+						<GreedyAcquireCondition type="CAIConditionReferenced">
+							<Name>SHOULD_GRAB_AVAILABLE_DISPATCH_PED</Name>
+						</GreedyAcquireCondition>
+					</DispatchPeds>
+					
+					<PhaseEndConditions>
+						<Condition type="CAIConditionReferenced">
+							<Name>DISPATCH_RESPONSE_FINISHED_WILDERNESS</Name>
+						</Condition>
+					</PhaseEndConditions>
+					
+					<NextPhases>
+					<!-- Random Patrol Group -->
+						<PhaseOption>
+							<Condition type="CAIConditionRandom">
+								<Chances value="0.15f"/>
+							</Condition>
+							<Name>RandomPatrol</Name>
+						</PhaseOption>
+					</NextPhases>
+				</Phase>
+				
+				<!-- Phase: Random Patrol Group -->
+				<Phase>
+					<Name>RandomPatrol</Name> <!-- 1+5/+dogs -->
+					<SpawnDelay value="10.00"/>
+					
+					<DispatchPeds>
+						<DispatchPedGroups>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionRandom">
+										<Chances value="0.3f"/>
+									</Condition>
+								</SelectionConditions>
+								<Preset>PoliceDog</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<Preset>RiderRuralFoothillsProfessional</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="1"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionRandom">
+										<Chances value="0.8f"/> <!-- 0.45 -->
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderRuralFoothills</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="2"/>
+							</DispatchGroup>
+							<DispatchGroup>
+								<SelectionConditions>
+									<Condition type="CAIConditionRandom">
+										<Chances value="0.5f"/> <!-- 0.4 -->
+									</Condition>
+								</SelectionConditions>
+								<Preset>RiderFoothills</Preset>
+								<MinNumPeds value="1"/>
+								<MaxNumPeds value="1"/>
+							</DispatchGroup>
+						</DispatchPedGroups>
+						<GreedyAcquireCondition type="CAIConditionReferenced">
+							<Name>SHOULD_GRAB_AVAILABLE_DISPATCH_PED</Name>
+						</GreedyAcquireCondition>
+					</DispatchPeds>
+				
+					<PhaseEndConditions>
+						<Condition type="CAIConditionReferenced">
+							<Name>DISPATCH_RESPONSE_FINISHED_WILDERNESS</Name>
+						</Condition>
+					</PhaseEndConditions>
+					
+					<NextPhases>
+						<!-- ArmyWagon -->
+						<PhaseOption>
+							<Condition type="CAIConditionWantedLevel">
+								<WantedLevelLowerBound value="4"/>
+							</Condition>
+							<Name>USArmyWagon</Name>
+						</PhaseOption>
+					</NextPhases>
+				</Phase>
+			</DispatchPhases>
+		</BountyDispatch>
+	</BountyResponses>
+	<CleanUpDispatchPedPresets>
+		<Item>RiderRuralFoothills</Item>
+		<Item>RiderFoothills</Item>
+		<Item>RiderRuralFoothillsProfessional</Item>
+		<Item>ArmyLeader</Item>
+		<Item>ArmyRider</Item>
+	</CleanUpDispatchPedPresets>
+</CDispatchData>

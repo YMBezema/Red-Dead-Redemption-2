@@ -1069,7 +1069,7 @@
               <MeleeExecutionDismemberment value="-1.00000000" />
               <DismembermentRanges />
               <ImpulseMultiplier value="-1.00000000" />
-              <NmShotTuningSet />
+              <NmShotTuningSet>AMMO_EXPRESS</NmShotTuningSet> <!-- W.E.R.O Modified -->
               <RecoilShakeHash />
               <RecoilShakeHashFirstPerson />
               <RecoilShakeAmplitude value="-1.00000000" />
@@ -1147,17 +1147,92 @@
             <ForceHitPed value="25.00000000" />
             <ForceHitVehicle value="750.00000000" />
             <ForceHitFlyingHeli value="3000.00000000" />
-            <OverrideForces>
+            <OverrideForces> <!-- W.E.R.O OverrideForce Values Modified -->
               <Item>
-                <BoneTag>ID_SKEL_HEAD</BoneTag>
-                <ForceFront value="50.00000000" />
-                <ForceBack value="50.00000000" />
-              </Item>
-              <Item>
-                <BoneTag>ID_SKEL_NECK2</BoneTag>
-                <ForceFront value="50.00000000" />
-                <ForceBack value="50.00000000" />
-              </Item>
+              <BoneTag>ID_SKEL_HEAD</BoneTag>
+              <ForceFront value="30.000000" />
+              <ForceBack value="50.000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_NECK2</BoneTag>
+              <ForceFront value="35.00000000" />
+              <ForceBack value="45.00000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_NECK</BoneTag>
+              <ForceFront value="100.000000" />
+              <ForceBack value="50.000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_SPINE2</BoneTag>
+              <ForceFront value="60.000000" />
+              <ForceBack value="80.000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_R_CLAVICLE</BoneTag>
+              <ForceFront value="50.000000" />
+              <ForceBack value="50.000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_L_CLAVICLE</BoneTag>
+              <ForceFront value="50.000000" />
+              <ForceBack value="50.000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_SPINE3</BoneTag>
+              <ForceFront value="50.000000" />
+              <ForceBack value="50.000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_L_THIGH</BoneTag>
+              <ForceFront value="50.000000" />
+              <ForceBack value="50.000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_R_THIGH</BoneTag>
+              <ForceFront value="50.000000" />
+              <ForceBack value="50.000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_L_HAND</BoneTag>
+              <ForceFront value="40.00000000" />
+              <ForceBack value="40.00000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_R_HAND</BoneTag>
+              <ForceFront value="50.00000000" />
+              <ForceBack value="50.00000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_L_FOREARM</BoneTag>
+              <ForceFront value="50.00000000" />
+              <ForceBack value="50.00000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_R_FOREARM</BoneTag>
+              <ForceFront value="50.00000000" />
+              <ForceBack value="50.00000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_L_FOOT</BoneTag>
+              <ForceFront value="50.00000000" />
+              <ForceBack value="50.00000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_R_FOOT</BoneTag>
+              <ForceFront value="50.00000000" />
+              <ForceBack value="50.00000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_L_CALF</BoneTag>
+              <ForceFront value="50.00000000" />
+              <ForceBack value="50.00000000" />
+            </Item>
+            <Item>
+              <BoneTag>ID_SKEL_R_CALF</BoneTag>
+              <ForceFront value="50.00000000" />
+              <ForceBack value="50.00000000" />
+            </Item>
             </OverrideForces>
             <ForceMaxStrengthMult value="1.00000000" />
             <ForceFalloffRangeStart value="0.00000000" />
@@ -1362,13 +1437,13 @@
           <WeaponNM>
             <KnockdownCount value="3" />
             <KillshotImpulseScale value="1.20000000" />
-            <NmShotTuningSet>REVOLVER</NmShotTuningSet>
-            <NmHeadShotTuningSet>HEADSHOT</NmHeadShotTuningSet>
-            <NmNeckShotTuningSet>NECKSHOT</NmNeckShotTuningSet>
+            <NmShotTuningSet>Revolver_Navy</NmShotTuningSet> <!-- W.E.R.O Modified -->
+            <NmHeadShotTuningSet>HEADSHOT_NAVY</NmHeadShotTuningSet> <!-- W.E.R.O Modified -->
+            <NmNeckShotTuningSet>NECKSHOT_NAVY</NmNeckShotTuningSet> <!-- W.E.R.O Modified -->
             <NmChestShotTuningSet />
-            <NmBackShotTuningSet>BACKSHOT</NmBackShotTuningSet>
-            <NmArmShotTuningSet>ARMSHOT</NmArmShotTuningSet>
-            <NmLegShotTuningSet>LEGSHOT</NmLegShotTuningSet>
+            <NmBackShotTuningSet>BACKSHOT_NAVY</NmBackShotTuningSet> <!-- W.E.R.O Modified -->
+            <NmArmShotTuningSet>ARMSHOT_NAVY</NmArmShotTuningSet> <!-- W.E.R.O Modified -->
+            <NmLegShotTuningSet>LEGSHOT_NAVY</NmLegShotTuningSet> <!-- W.E.R.O Modified -->
           </WeaponNM>
           <PrimaryHandBlackboardString>RIGHT_HAND_SMALL</PrimaryHandBlackboardString>
           <SupportingHandBlackboardString />

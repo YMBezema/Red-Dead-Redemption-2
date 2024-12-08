@@ -24971,7 +24971,7 @@
           <AmmoFlags />
           <WeaponType>WEAPON_PISTOL_VOLCANIC</WeaponType>
           <RewardHash>REWARD_AMMO_PISTOL</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_PISTOL</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="0.25000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -25033,7 +25033,7 @@
           <AmmoFlags />
           <WeaponType>WEAPON_PISTOL_VOLCANIC</WeaponType>
           <RewardHash>REWARD_AMMO_PISTOL_EXPRESS</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_EXPRESS</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="0.25000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -25095,8 +25095,8 @@
           <AmmoFlags />
           <WeaponType>WEAPON_PISTOL_VOLCANIC</WeaponType>
           <RewardHash>REWARD_AMMO_PISTOL_HIGH_VELOCITY</RewardHash>
-          <NmTuningSet />
-          <ImpulseMultiplier value="1.00000000" />
+		  <NmTuningSet>AMMO_HIGHVELOCITY</NmTuningSet> <!-- W.E.R.O Modified -->
+	      <ImpulseMultiplier value="0.50000000"/> <!-- W.E.R.O Modified -->
           <SkinPenetration value="0.25000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
           <DeadeyeDrainModifier value="0.00000000" />
@@ -25126,7 +25126,7 @@
           <AmmoFlags />
           <WeaponType>WEAPON_REVOLVER_CATTLEMAN</WeaponType>
           <RewardHash>REWARD_AMMO_REVOLVER</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_REVOLVER</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="0.22000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -25188,8 +25188,8 @@
           <AmmoFlags />
           <WeaponType>WEAPON_REVOLVER_CATTLEMAN</WeaponType>
           <RewardHash>REWARD_AMMO_REVOLVER_EXPRESS</RewardHash>
-          <NmTuningSet />
-          <ImpulseMultiplier value="1.00000000" />
+		  <NmTuningSet>AMMO_EXPRESS</NmTuningSet> <!-- W.E.R.O Modified -->	
+          <ImpulseMultiplier value="3.50000000"/> <!-- W.E.R.O Modified -->
           <SkinPenetration value="0.22000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
           <DeadeyeDrainModifier value="0.00000000" />
@@ -25250,8 +25250,8 @@
           <AmmoFlags />
           <WeaponType>WEAPON_REVOLVER_CATTLEMAN</WeaponType>
           <RewardHash>REWARD_AMMO_REVOLVER_HIGH_VELOCITY</RewardHash>
-          <NmTuningSet />
-          <ImpulseMultiplier value="1.00000000" />
+	      <NmTuningSet>Ammo_HighVelocity</NmTuningSet> <!-- W.E.R.O Modified -->
+		  <ImpulseMultiplier value="0.50000000"/> <!-- W.E.R.O Modified -->
           <SkinPenetration value="0.22000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
           <DeadeyeDrainModifier value="0.00000000" />
@@ -25281,7 +25281,7 @@
           <AmmoFlags>0x1D9C17F1 0xB973DC9B</AmmoFlags>
           <WeaponType>WEAPON_RIFLE_BOLTACTION</WeaponType>
           <RewardHash>REWARD_AMMO_RIFLE</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_RIFLE</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="1.00000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -25343,7 +25343,7 @@
           <AmmoFlags>0x1D9C17F1 0xB973DC9B</AmmoFlags>
           <WeaponType>WEAPON_RIFLE_BOLTACTION</WeaponType>
           <RewardHash>REWARD_AMMO_RIFLE_EXPRESS</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_RIFLE_EXPRESS</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="1.00000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -25405,8 +25405,8 @@
           <AmmoFlags>0x1D9C17F1 0xB973DC9B</AmmoFlags>
           <WeaponType>WEAPON_RIFLE_BOLTACTION</WeaponType>
           <RewardHash>REWARD_AMMO_RIFLE_HIGH_VELOCITY</RewardHash>
-          <NmTuningSet />
-          <ImpulseMultiplier value="1.00000000" />
+          <NmTuningSet>Ammo_HighVelocity</NmTuningSet> <!-- W.E.R.O Modified -->
+		  <ImpulseMultiplier value="1.00000000"/> <!-- W.E.R.O Modified -->
           <SkinPenetration value="1.00000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
           <DeadeyeDrainModifier value="0.00000000" />
@@ -25436,7 +25436,7 @@
           <AmmoFlags />
           <WeaponType>WEAPON_RIFLE_VARMINT</WeaponType>
           <RewardHash>REWARD_AMMO_RIFLE_22</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_RIFLE_22</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="0.15000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -25467,7 +25467,7 @@
           <AmmoFlags />
           <WeaponType>WEAPON_REPEATER_CARBINE</WeaponType>
           <RewardHash>REWARD_AMMO_REPEATER</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_REPEATER</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="0.75000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -25529,7 +25529,7 @@
           <AmmoFlags />
           <WeaponType>WEAPON_REPEATER_CARBINE</WeaponType>
           <RewardHash>REWARD_AMMO_REPEATER_EXPRESS</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_EXPRESS</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="0.75000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -25591,8 +25591,8 @@
           <AmmoFlags />
           <WeaponType>WEAPON_REPEATER_CARBINE</WeaponType>
           <RewardHash>REWARD_AMMO_REPEATER_HIGH_VELOCITY</RewardHash>
-          <NmTuningSet />
-          <ImpulseMultiplier value="1.00000000" />
+		  <NmTuningSet>AMMO_HIGHVELOCITY</NmTuningSet>
+		  <ImpulseMultiplier value="0.20000000"/> <!-- W.E.R.O Modified -->
           <SkinPenetration value="0.75000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
           <DeadeyeDrainModifier value="0.00000000" />
@@ -25622,7 +25622,7 @@
           <AmmoFlags>0x1D9C17F1</AmmoFlags>
           <WeaponType>WEAPON_SHOTGUN_SEMIAUTO</WeaponType>
           <RewardHash>REWARD_AMMO_SHOTGUN</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_SHOTGUN</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="0.50000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -25684,7 +25684,7 @@
           <AmmoFlags>0x1D9C17F1</AmmoFlags>
           <WeaponType>WEAPON_SHOTGUN_SEMIAUTO</WeaponType>
           <RewardHash>REWARD_AMMO_SHOTGUN_SLUG</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>BuckShot_Slug</NmTuningSet>
           <ImpulseMultiplier value="8.00000000" />
           <SkinPenetration value="0.50000000" />
           <BleedOutTimeMultiplier value="0.50000000" />
@@ -25746,7 +25746,7 @@
           <AmmoFlags>0x43D91F2A 0x376BC3CF</AmmoFlags>
           <WeaponType>WEAPON_BOW</WeaponType>
           <RewardHash>REWARD_AMMO_ARROW</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_ARROW</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="4.00000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -35459,7 +35459,7 @@
           <AmmoFlags>FixedAfterExplosion 0x43D91F2A 0x376BC3CF</AmmoFlags>
           <WeaponType>WEAPON_BOW</WeaponType>
           <RewardHash>REWARD_AMMO_ARROW_FIRE</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_ARROW_FIRE</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="4.00000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -35719,7 +35719,7 @@
           <AmmoFlags>0x43D91F2A 0x376BC3CF</AmmoFlags>
           <WeaponType>WEAPON_BOW</WeaponType>
           <RewardHash>REWARD_AMMO_ARROW_SMALL_GAME</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_ARROW_SMALL_GAME</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="4.00000000" />
           <BleedOutTimeMultiplier value="1.00000000" />
@@ -35979,7 +35979,7 @@
           <AmmoFlags>0x43D91F2A 0x376BC3CF</AmmoFlags>
           <WeaponType>WEAPON_BOW</WeaponType>
           <RewardHash>REWARD_AMMO_ARROW_POISON</RewardHash>
-          <NmTuningSet />
+          <NmTuningSet>AMMO_ARROW_POISON</NmTuningSet>
           <ImpulseMultiplier value="1.00000000" />
           <SkinPenetration value="4.00000000" />
           <BleedOutTimeMultiplier value="1.00000000" />

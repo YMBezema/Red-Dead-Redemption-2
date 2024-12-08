@@ -1,0 +1,1985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CTaskDataInfoManager>
+  <aTaskData>
+    <Item type="CTaskDataInfo">
+      <Name>STANDARD_PED</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="6.000000" />
+          <VelTolerance2 value="0.200000" />
+          <AngVelTolerance2 value="0.200000" />
+          <InternalVelTolerance2 value="0.100000" />
+          <MotionlessTicks value="15" />
+          <AsleepTicks value="15" />
+          <WritheRate value="3.000000" />
+          <WritheMagnitude value="2.000000" />
+          <WritheDuration value="4.000000" />
+          <RelaxDuration value="0.400000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="4.000000" />
+          <VelTolerance2 value="0.200000" />
+          <AngVelTolerance2 value="0.200000" />
+          <InternalVelTolerance2 value="0.100000" />
+          <MotionlessTicks value="15" />
+          <AsleepTicks value="15" />
+          <WritheRate value="3.000000" />
+          <WritheMagnitude value="2.000000" />
+          <WritheDuration value="4.000000" />
+          <RelaxDuration value="0.200000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>wander</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="45.000000" />
+      <ExtendedScenarioAttractionDistance value="80.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>IgnorePavementCheckWhenLeavingScenarios CanBeShoved CanBeTalkedTo</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Human</Base>
+        <OnMount>HumanOnMount</OnMount>
+        <InVehicle>HumanInVehicle</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>ALLIGATOR</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="10.000000" />
+      <ExtendedScenarioAttractionDistance value="10.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="30.000000" />
+      <UnalertedRandomTimeResting value="30.000000" />
+      <UnalertedMinTimeBetweenRests value="30.000000" />
+      <UnalertedRandomTimeBetweenRests value="30.000000" />
+      <Flags>DisableIsOutOfWater DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableNonStandardDamageTypes DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation DontInfluenceWantedLevel DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DontActivateRagdollUntilDead DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Alligator</Base>
+        <OnMount>Alligator</OnMount>
+        <InVehicle>Alligator</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>ALLIGATOR_SMALL</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="10.000000" />
+      <ExtendedScenarioAttractionDistance value="10.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="30.000000" />
+      <UnalertedRandomTimeResting value="30.000000" />
+      <UnalertedMinTimeBetweenRests value="30.000000" />
+      <UnalertedRandomTimeBetweenRests value="30.000000" />
+      <Flags>DisableIsOutOfWater DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableNonStandardDamageTypes DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation DontInfluenceWantedLevel DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DontActivateRagdollUntilDead DisableWeaponUse PreventNipAttacks</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Alligator</Base>
+        <OnMount>Alligator</OnMount>
+        <InVehicle>Alligator</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Armadillo</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Armadillo</Base>
+        <OnMount>Armadillo</OnMount>
+        <InVehicle>Armadillo</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>snake</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="3.500000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="3.500000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Snake</Base>
+        <OnMount>Snake</OnMount>
+        <InVehicle>Snake</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>FROG</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Frog</Base>
+        <OnMount>Frog</OnMount>
+        <InVehicle>Frog</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>beaver</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Beaver</Base>
+        <OnMount>Beaver</OnMount>
+        <InVehicle>Beaver</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Bird</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="100.000000" />
+      <ExtendedScenarioAttractionDistance value="100.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>CodeDrivenIdleTurns DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Bird</Base>
+        <OnMount>Bird</OnMount>
+        <InVehicle>Bird</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>BIRD_WITH_GROUND_FLEE</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="100.000000" />
+      <ExtendedScenarioAttractionDistance value="100.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>CodeDrivenIdleTurns DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Bird_with_ground_flee</Base>
+        <OnMount>Bird_with_ground_flee</OnMount>
+        <InVehicle>Bird_with_ground_flee</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>BOAR</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="4.000000" />
+          <WritheMagnitude value="2.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="2.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Boar</Base>
+        <OnMount>Boar</OnMount>
+        <InVehicle>Boar</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>BOBCAT</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Bobcat</Base>
+        <OnMount>Bobcat</OnMount>
+        <InVehicle>Bobcat</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>BUFFALO</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DontActivateRagdollUntilDead DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Buffalo</Base>
+        <OnMount>Buffalo</OnMount>
+        <InVehicle>Buffalo</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Cat</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Cat</Base>
+        <OnMount>Cat</OnMount>
+        <InVehicle>Cat</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>CRAB</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Crab</Base>
+        <OnMount>Crab</OnMount>
+        <InVehicle>Crab</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Dog</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableEvasiveStep DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse PermitMissionPedHeadTracking PermitPotentialWalkedIntoFromBehind</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Dog</Base>
+        <OnMount>Dog</OnMount>
+        <InVehicle>Dog</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>DONKEY</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.300000" />
+      <FleeStyleSets>
+        <Base>Donkey</Base>
+        <OnMount>Donkey</OnMount>
+        <InVehicle>Donkey</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>BEAR</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DontInfluenceWantedLevel DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DontActivateRagdollUntilDead DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Bear</Base>
+        <OnMount>Bear</OnMount>
+        <InVehicle>Bear</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Bearblack</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DontInfluenceWantedLevel DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DontActivateRagdollUntilDead DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>BearBlack</Base>
+        <OnMount>BearBlack</OnMount>
+        <InVehicle>BearBlack</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>COUGAR</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.100000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.100000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DontInfluenceWantedLevel DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Cougar</Base>
+        <OnMount>Cougar</OnMount>
+        <InVehicle>Cougar</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>COYOTE</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Coyote</Base>
+        <OnMount>Coyote</OnMount>
+        <InVehicle>Coyote</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>RABBIT</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Rabbit</Base>
+        <OnMount>Rabbit</OnMount>
+        <InVehicle>Rabbit</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>HORSE</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.200000" />
+          <AngVelTolerance2 value="0.200000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.200000" />
+          <AngVelTolerance2 value="0.200000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_HORSE</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse PermitMissionPedHeadTracking OnlyAmbientlyHeadTrackAtSlowGaits</Flags>
+      <CapsuleRadiusForAvoidance value="0.500000" />
+      <FleeStyleSets>
+        <Base>Horse</Base>
+        <OnMount>Horse</OnMount>
+        <InVehicle>Horse</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>IGUANA</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Iguana</Base>
+        <OnMount>Iguana</OnMount>
+        <InVehicle>Iguana</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Fish</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="10.000000" />
+      <ExtendedScenarioAttractionDistance value="10.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableCower DisableIntimidated DisableVehicleUsage DisableMountUsage DisableNonStandardDamageTypes DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation DontInfluenceWantedLevel DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios ApplyExtraHeadingChangesInFishLocomotion DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Fish</Base>
+        <OnMount>Fish</OnMount>
+        <InVehicle>Fish</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Wolf</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.100000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.500000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_WOLF</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DontInfluenceWantedLevel DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DontActivateRagdollUntilDead DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Wolf</Base>
+        <OnMount>Wolf</OnMount>
+        <InVehicle>Wolf</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>CHICKEN</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableCower DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Chicken</Base>
+        <OnMount>Chicken</OnMount>
+        <InVehicle>Chicken</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>shark</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="10.000000" />
+      <ExtendedScenarioAttractionDistance value="10.000000" />
+      <SurfaceSwimmingDepthOffset value="0.200000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableCower DisableIntimidated DisableVehicleUsage DisableMountUsage DisableNonStandardDamageTypes DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation DontInfluenceWantedLevel DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios AlignPitchToWavesInFishLocomotion DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Shark</Base>
+        <OnMount>Shark</OnMount>
+        <InVehicle>Shark</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>DEER</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_DEER</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Deer</Base>
+        <OnMount>Deer</OnMount>
+        <InVehicle>Deer</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>ELK</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_DEER</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Elk</Base>
+        <OnMount>Elk</OnMount>
+        <InVehicle>Elk</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Moose</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_DEER</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Moose</Base>
+        <OnMount>Moose</OnMount>
+        <InVehicle>Moose</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Cow</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.200000" />
+          <AngVelTolerance2 value="0.300000" />
+          <InternalVelTolerance2 value="0.400000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.200000" />
+          <AngVelTolerance2 value="0.300000" />
+          <InternalVelTolerance2 value="0.400000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_COW</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Cow</Base>
+        <OnMount>Cow</OnMount>
+        <InVehicle>Cow</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Pig</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="4.000000" />
+          <WritheMagnitude value="2.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_COW</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Pig</Base>
+        <OnMount>Pig</OnMount>
+        <InVehicle>Pig</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Possum</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Possum</Base>
+        <OnMount>Possum</OnMount>
+        <InVehicle>Possum</InVehicle>
+      </FleeStyleSets>
+    </Item>
+	<Item type="CTaskDataInfo">
+      <Name>PRONGHORN</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_DEER</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Pronghorn</Base>
+        <OnMount>Pronghorn</OnMount>
+        <InVehicle>Pronghorn</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>GOAT</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.400000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_COW</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Goat</Base>
+        <OnMount>Goat</OnMount>
+        <InVehicle>Goat</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>SHEEP</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_COW</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Sheep</Base>
+        <OnMount>Sheep</OnMount>
+        <InVehicle>Sheep</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>Fox</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.000000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Fox</Base>
+        <OnMount>Fox</OnMount>
+        <InVehicle>Fox</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>QUAIL</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="2.000000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Quail</Base>
+        <OnMount>Quail</OnMount>
+        <InVehicle>Quail</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>RACCOON</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Raccoon</Base>
+        <OnMount>Raccoon</OnMount>
+        <InVehicle>Raccoon</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>RAM</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="true" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_DEER</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Ram</Base>
+        <OnMount>Ram</OnMount>
+        <InVehicle>Ram</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>RAT</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="0.750000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="0.500000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Rat</Base>
+        <OnMount>Rat</OnMount>
+        <InVehicle>Rat</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>TURKEY</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="1.500000" />
+          <VelTolerance2 value="0.400000" />
+          <AngVelTolerance2 value="1.000000" />
+          <InternalVelTolerance2 value="1.000000" />
+          <MotionlessTicks value="5" />
+          <AsleepTicks value="5" />
+          <WritheRate value="2.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="1.000000" />
+          <RelaxDuration value="0.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.500000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Turkey</Base>
+        <OnMount>Turkey</OnMount>
+        <InVehicle>Turkey</InVehicle>
+      </FleeStyleSets>
+    </Item>
+    <Item type="CTaskDataInfo">
+      <Name>TURTLE</Name>
+      <RagdollInfo>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+        <Item>
+          <Duration value="3.000000" />
+          <VelTolerance2 value="0.300000" />
+          <AngVelTolerance2 value="0.400000" />
+          <InternalVelTolerance2 value="0.500000" />
+          <MotionlessTicks value="20" />
+          <AsleepTicks value="10" />
+          <WritheRate value="1.000000" />
+          <WritheMagnitude value="1.000000" />
+          <WritheDuration value="2.000000" />
+          <RelaxDuration value="1.000000" />
+          <DisableSelfCollision value="false" />
+        </Item>
+      </RagdollInfo>
+      <TaskWanderConditionalAnimsGroup>WANDER_ANIMAL</TaskWanderConditionalAnimsGroup>
+      <ScenarioAttractionDistance value="30.000000" />
+      <ExtendedScenarioAttractionDistance value="30.000000" />
+      <SurfaceSwimmingDepthOffset value="0.900000" />
+      <UnalertedMinTimeResting value="0.000000" />
+      <UnalertedRandomTimeResting value="0.000000" />
+      <UnalertedMinTimeBetweenRests value="0.000000" />
+      <UnalertedRandomTimeBetweenRests value="0.000000" />
+      <Flags>DisableCover DisableIntimidated DisableVehicleUsage DisableMountUsage DisableUseScenariosWithNoModelSet DisableWallHitAnimation DisablePotentialBlastResponse DisablePotentialToBeWalkedIntoResponse DisableMeleeIntroAnimation PlayNudgeAnimationForBumps DisableBraceForImpact IgnorePavementCheckWhenLeavingScenarios DisableEvasiveStep FleeFromCombatWhenTargetIsInVehicle DisableWeaponUse</Flags>
+      <CapsuleRadiusForAvoidance value="0.600000" />
+      <FleeStyleSets>
+        <Base>Turtle</Base>
+        <OnMount>Turtle</OnMount>
+        <InVehicle>Turtle</InVehicle>
+      </FleeStyleSets>
+    </Item>
+  </aTaskData>
+  <DefaultSet ref="STANDARD_PED" />
+</CTaskDataInfoManager>

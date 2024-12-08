@@ -1,0 +1,236 @@
+<EasyInstall>
+	<Name>LAW</Name>
+	<Author>SerjRozov</Author>
+	<Version>1.0</Version>
+	<Link />
+	<Metadata />
+	<Resources>
+		<Resource>
+			<!-- BOUNTY_HUNTERS -->
+			<FileReplacement>
+				<GamePath>update:/common/data/dispatchresponses/wilderness/bountyhunters.meta</GamePath>
+				<FilePath>bountyhunters.meta</FilePath>
+			</FileReplacement>
+			<!-- CRIMES -->
+			<FileReplacement>
+				<GamePath>update:/common/data/ai/crimeinformation.meta</GamePath>
+				<FilePath>crimeinformation.meta</FilePath>
+			</FileReplacement>
+			<!-- COMBAT_BEHAVIOUR -->
+			<FileReplacement>
+				<GamePath>update:/common/data/ai/combatbehaviour.meta</GamePath>
+				<FilePath>combatbehaviour.meta</FilePath>
+			</FileReplacement>
+			<!-- DISPATCH -->
+			<FileReplacement>
+		        <GamePath>update:/common/data/dispatch.meta</GamePath>
+		        <FilePath>dispatch.meta</FilePath>
+            </FileReplacement>
+			<!-- PERCEPTION -->
+			<FileReplacement>
+				<GamePath>common:/data/pedperception.meta</GamePath>
+				<FilePath>pedperception.meta</FilePath>
+			</FileReplacement>
+			<!-- TRAINROBBERY -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/custom/trainrobbery.meta</GamePath>
+				<FilePath>trainrobbery.meta</FilePath>
+			</FileReplacement>
+<!-- A -->	<!-- ANNESBURG -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/towns/annesburg.meta</GamePath>
+				<FilePath>annesburg.meta</FilePath>
+			</FileReplacement>
+<!-- B -->	<!-- BLACKWATER -->
+			<FileReplacement>
+				<GamePath>update:/common/data/dispatchresponses/towns/blackwater.meta</GamePath>
+				<FilePath>blackwater.meta</FilePath>
+			</FileReplacement>
+			<!-- BLACKWATER_MAIN -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/towns/blackwatermaingame.meta</GamePath>
+				<FilePath>blackwatermaingame.meta</FilePath>		
+			</FileReplacement>
+			<!-- BEECHERS_HOPE -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/beechershope.meta</GamePath>
+				<FilePath>beechershope.meta</FilePath>
+			</FileReplacement>
+			<!-- BRAITHWAITE_MANOR -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/braithwaitemanor.meta</GamePath>
+				<FilePath>braithwaitemanor.meta</FilePath>
+			</FileReplacement>
+			<!-- BAYOU_NWA -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/bayounwa.meta</GamePath>
+				<FilePath>bayounwa.meta</FilePath>
+			</FileReplacement>
+			<!-- BLUEGILL_MARSH -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/bluegillmarsh.meta</GamePath>
+				<FilePath>bluegillmarsh.meta</FilePath>
+			</FileReplacement>
+			<!-- BIG_VALLEY -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/bigvalley.meta</GamePath>
+				<FilePath>bigvalley.meta</FilePath>
+			</FileReplacement>
+<!-- C -->	<!-- CORNWALL -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/cornwall.meta</GamePath>
+				<FilePath>cornwall.meta</FilePath>
+			</FileReplacement>
+			<!-- CUMBERLAND_FOREST -->
+			<FileReplacement>
+				<GamePath>update:/common/data/dispatchresponses/wilderness/cumberlandforest.meta</GamePath>
+				<FilePath>cumberlandforest.meta</FilePath>
+			</FileReplacement>
+			<!-- CALIGA_HALL -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/caligahall.meta</GamePath>
+				<FilePath>caligahall.meta</FilePath>
+			</FileReplacement>
+<!-- E -->	<!-- EMERALD_RANCH  -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/emeraldranch.meta</GamePath>
+				<FilePath>emeraldranch.meta</FilePath>
+			</FileReplacement>
+<!-- F -->	<!-- FORT_WALLACE -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/fortwallace.meta</GamePath>
+				<FilePath>fortwallace.meta</FilePath>
+			</FileReplacement>
+<!-- G -->	<!-- GREAT_PLAINS -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/greatplains.meta</GamePath>
+				<FilePath>greatplains.meta</FilePath>
+			</FileReplacement>
+			<!-- GREAT_PLAINS_MAIN -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/greatplainsmaingame.meta</GamePath>
+				<FilePath>greatplainsmaingame.meta</FilePath>
+			</FileReplacement>
+			<!-- GRIZZLIES -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/grizzlies.meta</GamePath>
+				<FilePath>grizzlies.meta</FilePath>
+			</FileReplacement>
+<!-- H -->	<!-- HEARTLANDS -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/heartlands.meta</GamePath>
+				<FilePath>heartlands.meta</FilePath>
+			</FileReplacement>
+<!-- L -->	<!-- LAGRAS -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/lagras.meta</GamePath>
+				<FilePath>lagras.meta</FilePath>
+			</FileReplacement>			
+<!-- M -->	<!-- MANZANITA_POST -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/manzanitapost.meta</GamePath>
+				<FilePath>manzanitapost.meta</FilePath>
+			</FileReplacement>
+			<!-- MANZANITA_POST_MAIN -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/manzanitapostmaingame.meta</GamePath>
+				<FilePath>manzanitapostmaingame.meta</FilePath>
+			</FileReplacement>
+			<!-- MCFARLANES_RANCH-->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/macfarlanesranch.meta</GamePath>
+				<FilePath>macfarlanesranch.meta</FilePath>
+			</FileReplacement>
+<!-- O -->	<!-- OLD_MAP -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/oldmap.meta</GamePath>
+				<FilePath>oldmap.meta</FilePath>
+			</FileReplacement>
+			<!-- OLD_MAP_MAIN -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/oldmapmaingame.meta</GamePath>
+				<FilePath>oldmapmaingame.meta</FilePath>
+			</FileReplacement>
+<!-- P -->	<!-- PRONGHORN_RANCH-->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/pronghornranch.meta</GamePath>
+				<FilePath>pronghornranch.meta</FilePath>
+			</FileReplacement>
+<!-- R -->	<!-- RHODES -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/towns/rhodes.meta</GamePath>
+				<FilePath>rhodes.meta</FilePath>		
+			</FileReplacement>
+			<!-- RHODES_LOCKDOWN -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/towns/rhodeslockdown.meta</GamePath>
+				<FilePath>rhodeslockdown.meta</FilePath>		
+			</FileReplacement>
+			<!-- ROANOKE_RIDGE -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/roanokeridge.meta</GamePath>
+				<FilePath>roanokeridge.meta</FilePath>
+			</FileReplacement>
+			<!-- RIDGEWOOD_FARM -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/ridgewoodfarm.meta</GamePath>
+				<FilePath>ridgewoodfarm.meta</FilePath>
+			</FileReplacement>
+<!-- S -->	<!-- SAINT_DENIS -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/towns/saintdenis.meta</GamePath>
+				<FilePath>saintdenis.meta</FilePath>				
+			</FileReplacement>
+			<!-- SAINT_DENIS_RURAL -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/towns/saintdenisrural.meta</GamePath>
+				<FilePath>saintdenisrural.meta</FilePath>			
+			</FileReplacement>
+			<!-- STRAWBERRY -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/towns/strawberry.meta</GamePath>
+				<FilePath>strawberry.meta</FilePath>			
+			</FileReplacement>
+			<!-- SCARLETT_MEADOWS -->
+			<FileReplacement>
+				<GamePath>update:/common/data/dispatchresponses/wilderness/scarlettmeadows.meta</GamePath>
+				<FilePath>scarlettmeadows.meta</FilePath>			
+			</FileReplacement>
+<!-- T -->	<!-- TALLTREES -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/talltrees.meta</GamePath>
+				<FilePath>talltrees.meta</FilePath>
+			</FileReplacement>
+			<!-- TALLTREES_MAIN -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/wilderness/talltreesmaingame.meta</GamePath>
+				<FilePath>talltreesmaingame.meta</FilePath>
+			</FileReplacement>
+			<!-- TUMBLEWEED -->
+			<FileReplacement>
+				<GamePath>update:/common/data/dispatchresponses/towns/tumbleweed.meta</GamePath>
+				<FilePath>tumbleweed.meta</FilePath>
+			</FileReplacement>
+			<!-- THIEVESLANDING_MAIN -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/settlements/thieveslandingmaingame.meta</GamePath>
+				<FilePath>thieveslandingmaingame.meta</FilePath>
+			</FileReplacement>
+<!-- V -->	<!-- VALENTINE -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/towns/valentine.meta</GamePath>
+				<FilePath>valentine.meta</FilePath>
+			</FileReplacement>
+			<!-- VALENTINE_LOCKDOWN -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/towns/valentinelockdown.meta</GamePath>
+				<FilePath>valentinelockdown.meta</FilePath>		
+			</FileReplacement>
+			<!-- VALENTINE_JAILBREAK -->
+			<FileReplacement>
+				<GamePath>common:/data/dispatchresponses/towns/valentinejailbreak.meta</GamePath>
+				<FilePath>valentinejailbreak.meta</FilePath>		
+			</FileReplacement>
+		</Resource>
+	</Resources>
+</EasyInstall>
