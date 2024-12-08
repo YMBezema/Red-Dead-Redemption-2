@@ -1,182 +1,183 @@
-2024-12-07 22:18:54 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:116: Log initialized
-2024-12-07 22:18:54 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:117: Lenny's Mod Loader Beta Test Version 0.6.8470.31280 - Compiled on Mar 11 2023 17:22:44
-2024-12-07 22:18:54 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:122: Running RDR2
-2024-12-07 22:18:54 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:97: Game File Version: 1.0.1491.50
-2024-12-07 22:18:55 INFO  D:\GTA V\vfs\vfs\vfs\Hooking\Hooking.cpp:44: Found hooking memory at 7ff78e320000
-2024-12-07 22:18:55 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:147: HookFunction::RunAll(): done
-2024-12-07 22:18:55 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:132: Init done
-2024-12-07 22:19:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/gamepad_icons_pc.ytd
-2024-12-07 22:19:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/pm_settings_controls.ytd
-2024-12-07 22:19:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/widgets/filter.ymt
-2024-12-07 22:19:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/screens/landing_sp.ymt
-2024-12-07 22:19:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/flow/landing_launcher_flow.ymt
-2024-12-07 22:19:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/content.xml
-2024-12-07 22:19:08 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/catalog_sp.ymt
-2024-12-07 22:19:08 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/ambientpedmodelsets.meta
-2024-12-07 22:19:08 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/lootconfigdata.meta
-2024-12-07 22:19:08 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_items_matrix.meta
-2024-12-07 22:19:08 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_reward.meta
-2024-12-07 22:19:08 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_ped.meta
-2024-12-07 22:19:08 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_itemgroups.meta
-2024-12-07 22:19:09 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/pdo v2.0 extended features/pdodr/physicstasks.ymt
-2024-12-07 22:19:09 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred.xml
-2024-12-07 22:19:09 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_fat.xml
-2024-12-07 22:19:09 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_short.xml
-2024-12-07 22:19:09 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_skinny.xml
-2024-12-07 22:19:09 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_very_large.xml
-2024-12-07 22:19:09 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_very_small.xml
-2024-12-07 22:19:09 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/wilma.xml
-2024-12-07 22:19:10 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/projdecal.ymt
-2024-12-07 22:19:10 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/disable enemy radar/blipdata.ymt
-2024-12-07 22:19:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/crimeinformation.meta
-2024-12-07 22:19:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/taskdata.meta
-2024-12-07 22:19:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pedperception.meta
-2024-12-07 22:19:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxaniminfo.ymt
-2024-12-07 22:19:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxpedinfo.ymt
-2024-12-07 22:19:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/pm_settings_controls.ytd
-2024-12-07 22:19:30 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/hideonlinebutton/data/ui/screens/0xa900038b.ymt
-2024-12-07 22:19:34 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/metapeds.ymt
-2024-12-07 22:19:39 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxbloodinfo.ymt
-2024-12-07 22:19:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/ped accuracy fix low enemy accuracy/pedaccuracy.meta
-2024-12-07 22:19:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/decalinfo.ymt
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/dispatch.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bayounwa.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bigvalley.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bluegillmarsh.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bountyhunters.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cumberlandforest.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplains.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplainsmaingame.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/grizzlies.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/heartlands.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmap.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmapmaingame.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/roanokeridge.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/scarlettmeadows.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltrees.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltreesmaingame.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/annesburg.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwater.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwatermaingame.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodes.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodeslockdown.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenis.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenisrural.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/strawberry.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/tumbleweed.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentine.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinelockdown.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinejailbreak.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/beechershope.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/braithwaitemanor.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/caligahall.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cornwall.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/emeraldranch.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/fortwallace.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/lagras.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/macfarlanesranch.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapost.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapostmaingame.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pronghornranch.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/ridgewoodfarm.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/thieveslandingmaingame.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/trainrobbery.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapons.ymt
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/003_weaponcomponents.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents_1899.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_doubleaction_gambler.ymt
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_repeater_evans.ymt
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_lemat.ymt
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_pistol_m1899.ymt
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/loadouts.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/combatbehaviour.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/damagecleanlinessdata.meta
-2024-12-07 22:19:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
-2024-12-07 22:19:42 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
-2024-12-07 22:19:42 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
-2024-12-07 22:19:42 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
-2024-12-07 22:19:42 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
-2024-12-07 22:19:42 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
-2024-12-07 22:19:42 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
-2024-12-07 22:19:42 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_navy.ymt
-2024-12-07 22:19:42 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
-2024-12-07 22:19:43 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_rifle_elephant.ymt
-2024-12-07 22:19:43 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
-2024-12-07 22:19:43 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
-2024-12-07 22:19:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
-2024-12-07 22:19:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
-2024-12-07 22:19:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
-2024-12-07 22:19:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
-2024-12-07 22:19:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
-2024-12-07 22:19:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
-2024-12-07 22:19:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
-2024-12-07 22:19:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
-2024-12-07 22:19:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
-2024-12-07 22:19:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/decalinfo.ymt
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/dispatch.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bayounwa.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bigvalley.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bluegillmarsh.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bountyhunters.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cumberlandforest.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplains.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplainsmaingame.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/grizzlies.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/heartlands.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmap.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmapmaingame.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/roanokeridge.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/scarlettmeadows.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltrees.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltreesmaingame.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/annesburg.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwater.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwatermaingame.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodes.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodeslockdown.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenis.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenisrural.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/strawberry.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/tumbleweed.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentine.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinelockdown.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinejailbreak.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/beechershope.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/braithwaitemanor.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/caligahall.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cornwall.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/emeraldranch.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/fortwallace.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/lagras.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/macfarlanesranch.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapost.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapostmaingame.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pronghornranch.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/ridgewoodfarm.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/thieveslandingmaingame.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/trainrobbery.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents.meta
-2024-12-07 22:19:53 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapons.ymt
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/003_weaponcomponents.meta
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents_1899.meta
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_doubleaction_gambler.ymt
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_repeater_evans.ymt
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_lemat.ymt
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_pistol_m1899.ymt
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/loadouts.meta
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/combatbehaviour.meta
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/damagecleanlinessdata.meta
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
-2024-12-07 22:19:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
-2024-12-07 22:19:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
-2024-12-07 22:19:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
-2024-12-07 22:19:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_navy.ymt
-2024-12-07 22:19:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
-2024-12-07 22:19:56 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_rifle_elephant.ymt
-2024-12-07 22:19:56 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
-2024-12-07 22:19:56 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
+2024-12-08 10:01:12 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:116: Log initialized
+2024-12-08 10:01:12 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:117: Lenny's Mod Loader Beta Test Version 0.6.8470.31280 - Compiled on Mar 11 2023 17:22:44
+2024-12-08 10:01:12 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:122: Running RDR2
+2024-12-08 10:01:12 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:97: Game File Version: 1.0.1491.50
+2024-12-08 10:01:12 INFO  D:\GTA V\vfs\vfs\vfs\Hooking\Hooking.cpp:44: Found hooking memory at 7ff612ab0000
+2024-12-08 10:01:12 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:147: HookFunction::RunAll(): done
+2024-12-08 10:01:12 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:132: Init done
+2024-12-08 10:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/stutter fix/gameconfig.xml
+2024-12-08 10:01:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/gamepad_icons_pc.ytd
+2024-12-08 10:01:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/pm_settings_controls.ytd
+2024-12-08 10:01:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/widgets/filter.ymt
+2024-12-08 10:01:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/screens/landing_sp.ymt
+2024-12-08 10:01:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/flow/landing_launcher_flow.ymt
+2024-12-08 10:01:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/content.xml
+2024-12-08 10:01:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/catalog_sp.ymt
+2024-12-08 10:01:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/ambientpedmodelsets.meta
+2024-12-08 10:01:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_items_matrix.meta
+2024-12-08 10:01:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/lootconfigdata.meta
+2024-12-08 10:01:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_reward.meta
+2024-12-08 10:01:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_ped.meta
+2024-12-08 10:01:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_itemgroups.meta
+2024-12-08 10:01:24 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/pdo v2.0 extended features/pdodr/physicstasks.ymt
+2024-12-08 10:01:24 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred.xml
+2024-12-08 10:01:24 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_fat.xml
+2024-12-08 10:01:24 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_short.xml
+2024-12-08 10:01:24 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_skinny.xml
+2024-12-08 10:01:24 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_very_large.xml
+2024-12-08 10:01:24 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_very_small.xml
+2024-12-08 10:01:24 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/wilma.xml
+2024-12-08 10:01:24 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/projdecal.ymt
+2024-12-08 10:01:25 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/disable enemy radar/blipdata.ymt
+2024-12-08 10:02:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/crimeinformation.meta
+2024-12-08 10:02:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/taskdata.meta
+2024-12-08 10:02:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pedperception.meta
+2024-12-08 10:02:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxaniminfo.ymt
+2024-12-08 10:02:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxpedinfo.ymt
+2024-12-08 10:02:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/pm_settings_controls.ytd
+2024-12-08 10:02:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/hideonlinebutton/data/ui/screens/0xa900038b.ymt
+2024-12-08 10:02:31 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/metapeds.ymt
+2024-12-08 10:02:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxbloodinfo.ymt
+2024-12-08 10:02:36 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/ped accuracy fix low enemy accuracy/pedaccuracy.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/decalinfo.ymt
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/dispatch.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bayounwa.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bigvalley.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bluegillmarsh.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bountyhunters.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cumberlandforest.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplains.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplainsmaingame.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/grizzlies.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/heartlands.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmap.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmapmaingame.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/roanokeridge.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/scarlettmeadows.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltrees.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltreesmaingame.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/annesburg.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwater.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwatermaingame.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodes.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodeslockdown.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenis.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenisrural.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/strawberry.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/tumbleweed.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentine.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinelockdown.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinejailbreak.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/beechershope.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/braithwaitemanor.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/caligahall.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cornwall.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/emeraldranch.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/fortwallace.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/lagras.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/macfarlanesranch.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapost.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapostmaingame.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pronghornranch.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/ridgewoodfarm.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/thieveslandingmaingame.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/trainrobbery.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapons.ymt
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/003_weaponcomponents.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents_1899.meta
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_doubleaction_gambler.ymt
+2024-12-08 10:02:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_repeater_evans.ymt
+2024-12-08 10:02:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_lemat.ymt
+2024-12-08 10:02:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_pistol_m1899.ymt
+2024-12-08 10:02:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/loadouts.meta
+2024-12-08 10:02:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/combatbehaviour.meta
+2024-12-08 10:02:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/damagecleanlinessdata.meta
+2024-12-08 10:02:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
+2024-12-08 10:02:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
+2024-12-08 10:02:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
+2024-12-08 10:02:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
+2024-12-08 10:02:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
+2024-12-08 10:02:39 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
+2024-12-08 10:02:39 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
+2024-12-08 10:02:39 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_navy.ymt
+2024-12-08 10:02:39 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
+2024-12-08 10:02:39 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_rifle_elephant.ymt
+2024-12-08 10:02:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
+2024-12-08 10:02:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
+2024-12-08 10:02:49 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
+2024-12-08 10:02:49 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
+2024-12-08 10:02:49 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
+2024-12-08 10:02:49 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
+2024-12-08 10:02:49 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
+2024-12-08 10:02:49 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
+2024-12-08 10:02:49 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
+2024-12-08 10:02:49 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
+2024-12-08 10:02:49 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
+2024-12-08 10:02:49 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/decalinfo.ymt
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/dispatch.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bayounwa.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bigvalley.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bluegillmarsh.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bountyhunters.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cumberlandforest.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplains.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplainsmaingame.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/grizzlies.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/heartlands.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmap.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmapmaingame.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/roanokeridge.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/scarlettmeadows.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltrees.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltreesmaingame.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/annesburg.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwater.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwatermaingame.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodes.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodeslockdown.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenis.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenisrural.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/strawberry.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/tumbleweed.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentine.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinelockdown.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinejailbreak.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/beechershope.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/braithwaitemanor.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/caligahall.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cornwall.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/emeraldranch.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/fortwallace.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/lagras.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/macfarlanesranch.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapost.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapostmaingame.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pronghornranch.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/ridgewoodfarm.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/thieveslandingmaingame.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/trainrobbery.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapons.ymt
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/003_weaponcomponents.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents_1899.meta
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_doubleaction_gambler.ymt
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_repeater_evans.ymt
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_lemat.ymt
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_pistol_m1899.ymt
+2024-12-08 10:02:50 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/loadouts.meta
+2024-12-08 10:02:51 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/combatbehaviour.meta
+2024-12-08 10:02:51 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/damagecleanlinessdata.meta
+2024-12-08 10:02:51 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
+2024-12-08 10:02:51 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
+2024-12-08 10:02:51 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
+2024-12-08 10:02:51 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
+2024-12-08 10:02:51 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
+2024-12-08 10:02:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
+2024-12-08 10:02:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
+2024-12-08 10:02:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_navy.ymt
+2024-12-08 10:02:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
+2024-12-08 10:02:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_rifle_elephant.ymt
+2024-12-08 10:02:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
+2024-12-08 10:02:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml

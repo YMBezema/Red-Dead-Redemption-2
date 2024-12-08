@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsManager>
   <Mods>
+    <Mod folder="Stutter Fix">
+      <Name>GameConfig</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
     <Mod folder="HideOnlineButton">
       <Name>Remove Online Button</Name>
       <Enabled>true</Enabled>
@@ -75,6 +81,7 @@
     </Mod>
   </Mods>
   <LoadOrder>
+    <Mod>Stutter Fix</Mod>
     <Mod>HideOnlineButton</Mod>
     <Mod>PS Buttons Dualsense</Mod>
     <Mod>W.E.R.O (Default Reaction Time (1.2 seconds))</Mod>
