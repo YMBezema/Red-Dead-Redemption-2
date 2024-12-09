@@ -277,8 +277,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="5" />
-          <Max value="125" />
+		  <Min value="1" />
+          <Max value="100" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -290,8 +290,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="5" />
-          <Max value="150" />
+		  <Min value="1" />
+          <Max value="125" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -303,8 +303,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="5" />
-          <Max value="250" />
+		  <Min value="1" />
+          <Max value="225" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -317,7 +317,7 @@
         <Item>
           <Name>CURRENCY_CASH</Name>
 		  <Min value="50" />
-          <Max value="350" />
+          <Max value="400" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>

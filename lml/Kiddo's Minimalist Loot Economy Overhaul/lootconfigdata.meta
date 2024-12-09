@@ -886,7 +886,10 @@
           <LookAngle value="180.000000" />
           <SharedUseContextTag>press_vs_hold_loot_use_tag</SharedUseContextTag>
         </Item>
-<!--         <Item>
+        
+		
+		
+		<!-- <Item>
           <Type>QuickBehavior</Type>
           <TextId>TAKE_AMMO</TextId>
           <DisabledTextId />
@@ -898,7 +901,10 @@
           <ActivationAngle value="180.000000" />
           <LookAngle value="180.000000" />
           <SharedUseContextTag />
-        </Item> -->
+        </Item>
+		-->
+		
+		
       </PromptTable>
       <Flags>UseAmmoLootingInputs AddOffset IsASubStringTable UsePedStatHashNameSubstring PromptRingMatchesLootingProgress HiddenQuickBehavior</Flags>
       <PromptSubString />
@@ -17346,7 +17352,8 @@
     </Item>
     <Item key="WEAPON_AMMO_LOOT_DATA">
       <Actions>
-       <!--  <Item>
+	  <!--
+        <Item>
           <Name>LOOT_AMMO_INSTANT</Name>
           <NextAction />
           <NextSkipActions />
@@ -17395,7 +17402,8 @@
           <FakeStaticFrameFilter />
           <LootComponentOnTarget>Generic0</LootComponentOnTarget>
           <Flags>IsCarryingLootAction RecalculateAnimSceneOriginIfNotValid UseForceAnimsceneOrigin BlockCodePrompts</Flags>
-        </Item> -->
+        </Item>
+		-->
       </Actions>
       <PoseThreshold value="-1.000000" />
       <ActionScoringWeightTable>GENERIC_SKINNING_ACTION_SCORING_WEIGHTS</ActionScoringWeightTable>
@@ -28481,7 +28489,9 @@
   <LootQuickAnimDataSets>
     <Item key="WEAPON_AMMO_LOOT_DATA">
       <Actions>
-        <!-- <Item>
+	  
+	  <!--
+        <Item>
           <Name>LOOT_AMMO_INSTANT</Name>
           <EntryClipSet />
           <EntryBlendData>
@@ -28509,7 +28519,9 @@
             <AimingBlendOutDuration value="0.225000" />
           </BlendDurations>
           <Flags>WeaponLootAmmoOnly PartialLootAction</Flags>
-        </Item> -->
+        </Item>
+		-->
+		
       </Actions>
       <ClipSetId />
       <ValidationBlendOutSet />
@@ -47794,7 +47806,7 @@
     <PeriodToPerformGroundAndWaterHeightProbes value="0.750000" />
     <RootAboveGroundPromptWeight value="1.000000" />
     <StackedWeightDistance value="5.000000" />
-    <MaxDeadRagdollVelocityToBeLootable value="0.800000" />
+    <MaxDeadRagdollVelocityToBeLootable value="0.700000" />
     <LootableReProbeForGroundAndWaterDisplacementTolerance value="0.001000" />
     <LocalPlayerPromptSearchDistance value="3.000000" />
     <PromptSizeScalingMaxPlayerSpeed value="6.000000" />
@@ -47815,15 +47827,15 @@
 
     <DefaultLootPromptHoldDuration>SHORT_TIMED_EVENT</DefaultLootPromptHoldDuration>
     <DefaultSaddleTransferHoldDuration>SHORT_TIMED_EVENT</DefaultSaddleTransferHoldDuration>
-    <ChanceUseNoLootAnimVariationIfTargetWasRobbedNoOffer value="0.5" />
-    <ChanceUseNoLootAnimVariationIfTargetWasRobbedHasOffered value="0.5" />
+    <ChanceUseNoLootAnimVariationIfTargetWasRobbedNoOffer value="0.1" />
+    <ChanceUseNoLootAnimVariationIfTargetWasRobbedHasOffered value="0.25" />
     <ResetAgitationForSaddleTransfer value="true" />
     <LootForEquippedWeaponsAndAmmoTunables>
-      <RandomChanceApplyLootForEquippedWeaponsAndAmmo value="1.0000000" />
+      <RandomChanceApplyLootForEquippedWeaponsAndAmmo value="1.000000" />
       <MinRandomPercentageOfClipSizeForEquippedWeaponsAndAmmoLoot value="0.100000" />
       <MaxRandomPercentageOfClipSizeForEquippedWeaponsAndAmmoLoot value="0.900000" />
       <MinAmmoForLootClipSize value="2" />
-      <MaxAmmoForLootClipSize value="5" />
+      <MaxAmmoForLootClipSize value="4" />
       <MaxWeaponsToConsiderForEquippedWeaponsAndAmmoLoot value="1" />
 	  <SpecialVisibleSlotItems>
 		<Item>

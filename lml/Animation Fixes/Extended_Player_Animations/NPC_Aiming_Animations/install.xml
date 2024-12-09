@@ -1,0 +1,27 @@
+<EasyInstall>
+ <Name>NPC Aiming Animations</Name>
+ <Author>iAbokai</Author>
+ <Version>2.5.1</Version>
+ <Link>https://www.nexusmods.com/reddeadredemption2/mods/1420</Link>
+ <Metadata/>
+ <Resources>
+  <Resource>
+   <FileReplacement>
+    <GamePath>update:/common/packs/base/data/ai/weaponanimations/injured.meta</GamePath>
+    <FilePath>injured.meta</FilePath>
+   </FileReplacement>
+   <FileReplacement>
+    <GamePath>update:/common/packs/base/data/ai/weaponanimations/gang.meta</GamePath>
+    <FilePath>gang.meta</FilePath>
+   </FileReplacement>
+   <FileReplacement>
+    <GamePath>update:/common/packs/base/data/ai/weaponanimations/cowboy.meta</GamePath>
+    <FilePath>cowboy.meta</FilePath>
+   </FileReplacement>
+   <FileReplacement>
+    <GamePath>update:/common/data/ai/aimposedata.meta</GamePath>
+    <FilePath>aimposedata.meta</FilePath>
+   </FileReplacement>
+  </Resource>
+ </Resources>
+</EasyInstall>

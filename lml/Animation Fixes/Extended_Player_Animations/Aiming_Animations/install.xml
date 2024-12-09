@@ -1,0 +1,15 @@
+<EasyInstall>
+ <Name>Aiming Animations</Name>
+ <Author>iAbokai</Author>
+ <Version>2.5.1</Version>
+ <Link>https://www.nexusmods.com/reddeadredemption2/mods/1420</Link>
+ <Metadata></Metadata>
+ <Resources>
+  <Resource>
+   <FileReplacement>
+    <GamePath>update:/x64/packs/base/data/metapeds.ymt</GamePath>
+    <FilePath>metapeds.ymt</FilePath>
+   </FileReplacement>
+  </Resource>
+ </Resources>
+</EasyInstall>

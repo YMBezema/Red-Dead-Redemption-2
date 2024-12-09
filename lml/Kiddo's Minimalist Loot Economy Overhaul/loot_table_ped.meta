@@ -1591,12 +1591,12 @@
 		</Item>
 		<Item>
 		  <Name>TOBACCO_ITEMS_PED</Name>
-		  <Rate value=".20" />
+		  <Rate value=".15" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>CHEAP_JEWELRY_ITEMS_PED</Name>
-		  <Rate value=".10" />
+		  <Rate value=".15" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1615,8 +1615,13 @@
 		  <Type>Item</Type>
 		</Item>
 		<Item>
+		  <Name>KIT_GUN_OIL</Name>
+		  <Rate value=".05" />
+		  <Type>Item</Type>
+		</Item>
+		<Item>
 		  <Name>REWARD_GANG</Name>
-		  <Rate value=".45" />
+		  <Rate value=".40" />
 		  <Type>Table</Type>
 		</Item>
 	 </Entries>
@@ -1648,7 +1653,7 @@
       <Entries>
 		<Item>
 		  <Name>HERBS</Name>
-		  <Rate value=".25" />
+		  <Rate value=".30" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1658,22 +1663,22 @@
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_SNAKE_OIL_USED</Name>
-		  <Rate value=".10" />
+		  <Rate value=".05" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>ALCOHOL_ITEMS_CHEAP</Name>
-		  <Rate value=".10" />
+		  <Rate value=".05" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>TOBACCO_ITEMS_PED</Name>
-		  <Rate value=".20" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>THROWABLE_AMMO</Name>
-		  <Rate value=".10" />
+		  <Rate value=".05" />
 		  <Type>Ammo</Type>
 		</Item>
 		<Item>
@@ -1683,7 +1688,7 @@
         </Item>
 		<Item>
 		  <Name>REWARD_GANG</Name>
-		  <Rate value=".15" />
+		  <Rate value=".20" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -1694,7 +1699,7 @@
       <Entries>
 		<Item>
           <Name>HEALTH_AND_DEADEYE_BASIC</Name>
-		  <Rate value=".15" />
+		  <Rate value=".10" />
           <Type>Table</Type>
         </Item>
 		<Item>
@@ -1724,7 +1729,7 @@
 		</Item>
 		<Item>
 		  <Name>REWARD_PED_SMALL</Name>
-		  <Rate value=".30" />
+		  <Rate value=".35" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>

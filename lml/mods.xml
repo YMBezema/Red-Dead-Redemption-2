@@ -1,8 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsManager>
   <Mods>
-    <Mod folder="Stutter Fix">
-      <Name>GameConfig</Name>
+    <Mod folder="Animation Fixes/Extended_Player_Animations/Aiming_Animations">
+      <Name>Aiming Animations</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Animation Fixes/Serve Spoon Fix">
+      <Name>Serving Spoon Fix</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Gun_Metal_Rework">
+      <Name>Gun_Metal_Rework</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Unknown error FFFFFFFF Fix 3.1">
+      <Name>Unknown error ffffffff Memory Fix</Name>
       <Enabled>true</Enabled>
       <Overwrite>false</Overwrite>
       <DisabledGroups />
@@ -61,6 +79,18 @@
       <Overwrite>false</Overwrite>
       <DisabledGroups />
     </Mod>
+    <Mod folder="Animation Fixes/Extended_Player_Animations">
+      <Name>Extended Player Animations</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Animation Fixes/Extended_Player_Animations/NPC_Aiming_Animations">
+      <Name>NPC Aiming Animations</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
     <Mod folder="LAW">
       <Name>LAW</Name>
       <Enabled>true</Enabled>
@@ -81,7 +111,10 @@
     </Mod>
   </Mods>
   <LoadOrder>
-    <Mod>Stutter Fix</Mod>
+    <Mod>Animation Fixes/Extended_Player_Animations/Aiming_Animations</Mod>
+    <Mod>Animation Fixes/Serve Spoon Fix</Mod>
+    <Mod>Gun_Metal_Rework</Mod>
+    <Mod>Unknown error FFFFFFFF Fix 3.1</Mod>
     <Mod>HideOnlineButton</Mod>
     <Mod>PS Buttons Dualsense</Mod>
     <Mod>W.E.R.O (Default Reaction Time (1.2 seconds))</Mod>
@@ -91,6 +124,8 @@
     <Mod>Online Content Unlocker</Mod>
     <Mod>Kiddo's Minimalist Loot Economy Overhaul</Mod>
     <Mod>Realistic_Loadouts v2.4</Mod>
+    <Mod>Animation Fixes/Extended_Player_Animations</Mod>
+    <Mod>Animation Fixes/Extended_Player_Animations/NPC_Aiming_Animations</Mod>
     <Mod>LAW</Mod>
     <Mod>Realistic_Weapon_Rebalance</Mod>
     <Mod>PDO v2.0 Extended Features</Mod>

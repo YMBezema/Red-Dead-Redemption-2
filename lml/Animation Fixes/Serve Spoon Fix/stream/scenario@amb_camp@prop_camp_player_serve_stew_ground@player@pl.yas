@@ -1,0 +1,4600 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<fwAnimSceneData>
+  <sceneOrigin>
+    <matrix content="matrix34">
+      -1.00000000	0.00000000	0.00000000 -664.84080000
+      0.00000000	-1.00000000	0.00000000 98.04120000	
+      0.00000000	0.00000000	1.00000000 0.01342700
+    </matrix>
+  </sceneOrigin>
+  <entities>
+    <Item key="P_SPOONMID01X_PH_R_HAND" type="0x44DEE094">
+      <toolData type="NULL" />
+      <conditions type="NULL" />
+      <evaluationType>0xBAFBD7EA</evaluationType>
+      <debugModelName>P_SPOONMID01X</debugModelName>
+      <UNK_MEMBER_0xDC110A02 type="NULL" />
+      <optional value="false" />
+      <transient value="false" />
+      <overrideLifeTime value="false" />
+      <UNK_MEMBER_0x03EFD81F type="NULL" />
+      <UNK_MEMBER_0xE825C15F value="false" />
+      <createEntity value="false" />
+      <physicalFlags>0xB5B052E6</physicalFlags>
+      <linkedEntity>
+        <entityId />
+      </linkedEntity>
+      <weaponName/>
+      <objectFlags/>
+    </Item>
+    <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0x44DEE094">
+      <toolData type="NULL" />
+      <conditions type="NULL" />
+      <evaluationType>0xBAFBD7EA</evaluationType>
+      <debugModelName>P_BOWL04X_STEW</debugModelName>
+      <UNK_MEMBER_0xDC110A02 type="NULL" />
+      <optional value="false" />
+      <transient value="false" />
+      <overrideLifeTime value="false" />
+      <UNK_MEMBER_0x03EFD81F type="NULL" />
+      <UNK_MEMBER_0xE825C15F value="false" />
+      <createEntity value="false" />
+      <physicalFlags />
+      <linkedEntity>
+        <entityId />
+      </linkedEntity>
+      <weaponName />
+      <objectFlags />
+    </Item>
+    <Item key="PED" type="0x64D97283">
+      <toolData type="NULL" />
+      <conditions type="NULL" />
+      <evaluationType>0xBAFBD7EA</evaluationType>
+      <debugModelName>PLAYER_ZERO</debugModelName>
+      <UNK_MEMBER_0xDC110A02 type="NULL" />
+      <optional value="false" />
+      <transient value="false" />
+      <overrideLifeTime value="false" />
+      <UNK_MEMBER_0x03EFD81F type="NULL" />
+      <UNK_MEMBER_0xE825C15F value="false" />
+      <createEntity value="false" />
+      <physicalFlags />
+      <linkedEntity>
+        <entityId />
+      </linkedEntity>
+      <leadIns />
+      <initialInventory>
+        <inventory />
+      </initialInventory>
+      <pedFlags />
+      <outfit />
+      <subOutfit />
+      <UNK_MEMBER_0xFF8220B9 type="NULL" />
+    </Item>
+    <Item key="P_SPOON01X_PH_R_HAND" type="0x44DEE094">
+      <toolData type="NULL" />
+      <conditions type="NULL" />
+      <evaluationType>0xBAFBD7EA</evaluationType>
+      <debugModelName>P_SPOON01X</debugModelName>
+      <UNK_MEMBER_0xDC110A02 type="NULL" />
+      <optional value="false" />
+      <transient value="false" />
+      <overrideLifeTime value="false" />
+      <UNK_MEMBER_0x03EFD81F type="NULL" />
+      <UNK_MEMBER_0xE825C15F value="false" />
+      <createEntity value="false" />
+      <physicalFlags />
+      <linkedEntity>
+        <entityId />
+      </linkedEntity>
+      <weaponName />
+      <objectFlags />
+    </Item>
+    <Item key="0x71079D70" type="0x9B9E7F24">
+      <toolData type="NULL" />
+      <conditions type="NULL" />
+      <evaluationType>0xBAFBD7EA</evaluationType>
+      <UNK_MEMBER_0x91B14099 />
+      <UNK_MEMBER_0x62ADE224>0x41144274</UNK_MEMBER_0x62ADE224>
+      <UNK_MEMBER_0xA5E7A3A7>0xF2D9AB71</UNK_MEMBER_0xA5E7A3A7>
+      <UNK_MEMBER_0x2BA84559 />
+    </Item>
+  </entities>
+  <sections>
+    <Item key="WALK_EXIT_WITHPROP_RIGHT" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="7.85000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_RIGHT</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.50000000" />
+            <blendOutDuration value="0.75000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.60000100" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_RIGHT_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.60000100" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_RIGHT_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.60000100" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>0xB7254B21</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.06666700" />
+            <endTime value="0.06666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.70000000" />
+            <endTime value="0.70000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xFC72849D</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.96666700" />
+            <endTime value="0.96666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xFC72849D</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="1.20000000" />
+            <endTime value="1.20000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x5A499BE2</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.20000000" />
+            <endTime value="2.20000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.60000000" />
+            <endTime value="2.60000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="3.16666700" />
+            <endTime value="3.16666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD5FEBAD6</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="4.46666700" />
+            <endTime value="4.46666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x0AB1D812</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.01727900" y="0.44269900" z="0.48977600" />
+          <startRot x="0.29285400" y="-0.39522700" z="0.24157800" w="0.83646400" />
+          <startTime value="0.00000000" />
+          <endPos x="0.66532500" y="0.46045100" z="0.73410900" />
+          <endRot x="0.70722100" y="0.02219000" z="0.70638900" w="-0.01897200" />
+          <endTime value="8.60000100" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.03584200" y="0.06148500" z="0.72366500" />
+          <startRot x="-0.05527300" y="-0.01074200" z="0.42619700" w="0.90287600" />
+          <startTime value="0.00000000" />
+          <endPos x="3.36365300" y="0.09194900" z="1.07535400" />
+          <endRot x="0.10752500" y="0.02885300" z="-0.67419000" w="0.73011900" />
+          <endTime value="8.60000100" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.00000000" y="0.00000000" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="2.42634600" y="-0.02531100" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="-0.70711000" w="0.70710400" />
+          <endTime value="7.85000000" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.08678000" y="0.16799100" z="0.79053200" />
+          <startRot x="0.02808400" y="-0.17032400" z="0.30970400" w="0.93503200" />
+          <startTime value="0.00000000" />
+          <endPos x="3.33677700" y="-0.07820500" z="1.10815900" />
+          <endRot x="-0.00955400" y="-0.08944600" z="-0.77103000" w="0.63041300" />
+          <endTime value="8.60000100" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="MAIN" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events />
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="-1.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="-1.00000000" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="-1.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="-1.00000000" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="-1.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="-1.00000000" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="-1.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="-1.00000000" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="WALK_EXIT_WITHPROP_LEFT" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="7.68333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_LEFT</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.50000000" />
+            <blendOutDuration value="0.75000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.43333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_LEFT_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.43333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_LEFT_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.43333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>0x2CABEE2C</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.06666700" />
+            <endTime value="0.06666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.70000000" />
+            <endTime value="0.70000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xFC72849D</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.96666700" />
+            <endTime value="0.96666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xFC72849D</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="1.20000000" />
+            <endTime value="1.20000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x5A499BE2</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.20000000" />
+            <endTime value="2.20000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.60000000" />
+            <endTime value="2.60000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="3.33333300" />
+            <endTime value="3.33333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD5FEBAD6</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="4.60000000" />
+            <endTime value="4.60000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x0AB1D812</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.01727900" y="0.44269900" z="0.48977600" />
+          <startRot x="0.29285400" y="-0.39522700" z="0.24157800" w="0.83646400" />
+          <startTime value="0.00000000" />
+          <endPos x="0.66532500" y="0.46045100" z="0.73419300" />
+          <endRot x="0.70722100" y="0.02219000" z="0.70638900" w="-0.01897200" />
+          <endTime value="8.43333300" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.03586600" y="0.06146000" z="0.72366500" />
+          <startRot x="-0.05527300" y="-0.01074200" z="0.42619700" w="0.90287600" />
+          <startTime value="0.00000000" />
+          <endPos x="-2.28003500" y="-0.25383100" z="1.01282700" />
+          <endRot x="-0.01887000" y="-0.05807900" z="0.64725100" w="0.75982700" />
+          <endTime value="8.43333300" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.00000000" y="0.00000000" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="-1.29628000" y="-0.20355100" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.70710700" w="0.70710700" />
+          <endTime value="7.68333300" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.08675600" y="0.16796600" z="0.79053300" />
+          <startRot x="0.02808400" y="-0.17032400" z="0.30970400" w="0.93503200" />
+          <startTime value="0.00000000" />
+          <endPos x="-2.22934900" y="-0.10688200" z="1.09399900" />
+          <endRot x="0.10689600" y="-0.18543200" z="0.53815400" w="0.81521700" />
+          <endTime value="8.43333300" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="BASE" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="0.26666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@BASE</clipDictionaryName>
+              <clipName>BASE_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="0.26666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@BASE</clipDictionaryName>
+              <clipName>BASE_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="0.26666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@BASE</clipDictionaryName>
+              <clipName>BASE_SERVESPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="0.26666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@BASE</clipDictionaryName>
+              <clipName>BASE</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.01725100" y="0.44270600" z="0.48977300" />
+          <startRot x="0.29285400" y="-0.39522700" z="0.24157800" w="0.83646400" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.01725100" y="0.44270600" z="0.48977300" />
+          <endRot x="0.29285400" y="-0.39522700" z="0.24157800" w="0.83646400" />
+          <endTime value="0.26666700" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.03581000" y="0.06151600" z="0.72366600" />
+          <startRot x="-0.05527300" y="-0.01074300" z="0.42619700" w="0.90287700" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.03581000" y="0.06151600" z="0.72366600" />
+          <endRot x="-0.05527300" y="-0.01074300" z="0.42619700" w="0.90287700" />
+          <endTime value="0.26666700" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.00000000" y="0.00000000" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.00000000" y="0.00000000" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <endTime value="0.26666700" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.08675600" y="0.16796600" z="0.79053300" />
+          <startRot x="0.02808400" y="-0.17032400" z="0.30970400" w="0.93503200" />
+          <startTime value="0.00000000" />
+          <endPos x="0.08675600" y="0.16796600" z="0.79053300" />
+          <endRot x="0.02808400" y="-0.17032400" z="0.30970400" w="0.93503200" />
+          <endTime value="0.26666700" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="0x47325FBB" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="2.93333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_LF</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.75000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="2.43333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.75000000" />
+            <blendOutDuration value="0.50000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="2.93333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.75000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="2.93333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_SERVESPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="1.43333300" />
+            <endTime value="1.43333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD9AC3839</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.63333300" />
+            <endTime value="2.63333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.67981100" y="0.70901800" z="0.73570600" />
+          <startRot x="-0.00313300" y="-0.71360300" z="-0.01366700" w="0.70041000" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.01718800" y="0.68267000" z="0.48969300" />
+          <endRot x="0.29282400" y="-0.39521600" z="0.24163800" w="0.83646300" />
+          <endTime value="2.93333300" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="0.41667900" y="0.25473300" z="1.12321600" />
+          <startRot x="-0.00218700" y="0.01735300" z="-0.00390000" w="0.99983900" />
+          <startTime value="0.00000000" />
+          <endPos x="0.19025500" y="0.39635800" z="0.92889800" />
+          <endRot x="-0.08633501" y="-0.04809700" z="0.21374900" w="0.97187700" />
+          <endTime value="2.43333300" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.50645300" y="-0.08713300" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.00000000" y="0.00000000" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <endTime value="2.93333300" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.57688100" y="0.21943600" z="1.18578200" />
+          <startRot x="0.00273100" y="-0.15616300" z="-0.13214300" w="0.97884800" />
+          <startTime value="0.00000000" />
+          <endPos x="0.08686200" y="0.40797800" z="0.79045900" />
+          <endRot x="0.02805800" y="-0.17037000" z="0.30969400" w="0.93502700" />
+          <endTime value="2.93333300" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="STAND_ENTER_BACK_RF_PF" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="4.50000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_RF_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="4.50000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_RF_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="4.50000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_RF_SERVESPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x77D474BD">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="4.50000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_RF</clipName>
+            </clip>
+            <UNK_MEMBER_0x0466501F />
+            <ikFlags />
+            <animFlags />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <UNK_MEMBER_0xCF7629F7>0x71ED0E49</UNK_MEMBER_0xCF7629F7>
+            <UNK_MEMBER_0x3D52FE70 value="true" />
+            <DisableCollision value="false" />
+            <UNK_MEMBER_0x46D81EF7 value="false" />
+            <UNK_MEMBER_0xE2C50156>0xFDCFE97F</UNK_MEMBER_0xE2C50156>
+            <UNK_MEMBER_0x4818D683>0x393ED7A2</UNK_MEMBER_0x4818D683>
+            <UNK_MEMBER_0x2CB4CD95 value="-1.00000000" />
+            <UNK_MEMBER_0x1E4F3DD3 value="-1.00000000" />
+            <UNK_MEMBER_0x11D372C8 value="-1.00000000" />
+            <UNK_MEMBER_0xC4B73095 value="0.00000000" />
+            <offsetTime value="0.00000000" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="1.80000000" />
+            <endTime value="1.80000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x90B2ED60</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.80000000" />
+            <endTime value="2.80000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD9AC3839</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="4.13333300" />
+            <endTime value="4.13333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.66535100" y="0.46051800" z="0.73412000" />
+          <startRot x="0.70724390" y="0.02228600" z="0.70636300" w="-0.01896300" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.01721600" y="0.44273900" z="0.48978400" />
+          <endRot x="0.29289300" y="-0.39521000" z="0.24156200" w="0.83646300" />
+          <endTime value="4.50000000" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="0.59856200" y="0.10550700" z="0.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="-0.02223200" w="0.99975300" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.03575100" y="0.06145000" z="0.72365800" />
+          <endRot x="-0.05526500" y="-0.01072300" z="0.42615800" w="0.90289500" />
+          <endTime value="4.50000000" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.35000000" y="-0.50000000" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.00002600" y="0.00000000" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <endTime value="4.50000000" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.75508800" y="0.06416700" z="0.06794100" />
+          <startRot x="0.00392900" y="-0.17295400" z="-0.15027600" w="0.97339000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.08678400" y="0.16785700" z="0.79045600" />
+          <endRot x="0.02806800" y="-0.17030100" z="0.30973700" w="0.93502500" />
+          <endTime value="4.50000000" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="0x5956754A" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="2.93333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.75000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="2.43333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_LF</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.75000000" />
+            <blendOutDuration value="0.50000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="2.93333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.75000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="2.93333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_SERVESPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="1.43333300" />
+            <endTime value="1.43333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD9AC3839</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.76666700" />
+            <endTime value="2.76666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.67981100" y="0.70901800" z="0.73570600" />
+          <startRot x="-0.00313300" y="-0.71360300" z="-0.01366700" w="0.70041000" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.01718800" y="0.68267000" z="0.48969300" />
+          <endRot x="0.29282400" y="-0.39521600" z="0.24163800" w="0.83646300" />
+          <endTime value="2.93333300" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="0.41667900" y="0.25473300" z="1.12321600" />
+          <startRot x="-0.00218700" y="0.01735300" z="-0.00390000" w="0.99983900" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.03588600" y="0.30149800" z="0.72363300" />
+          <endRot x="-0.05522200" y="-0.01075000" z="0.42622700" w="0.90286500" />
+          <endTime value="2.93333300" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.50645300" y="-0.08713300" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.21346400" y="-0.00868800" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <endTime value="2.43333300" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.57688100" y="0.21943600" z="1.18578200" />
+          <startRot x="0.00273100" y="-0.15616300" z="-0.13214300" w="0.97884800" />
+          <startTime value="0.00000000" />
+          <endPos x="0.08686200" y="0.40797800" z="0.79045900" />
+          <endRot x="0.02805800" y="-0.17037000" z="0.30969400" w="0.93502700" />
+          <endTime value="2.93333300" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="WALK_EXIT_WITHPROP_BACKLEFT" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="7.85000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_BACKLEFT</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.50000000" />
+            <blendOutDuration value="0.75000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.60000100" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_BACKLEFT_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.60000100" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_BACKLEFT_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.60000100" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>0x928D4BD0</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.06666700" />
+            <endTime value="0.06666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.70000000" />
+            <endTime value="0.70000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x5A499BE2</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.96666700" />
+            <endTime value="0.96666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xFC72849D</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.20000000" />
+            <endTime value="2.20000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.60000000" />
+            <endTime value="2.60000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="3.23333300" />
+            <endTime value="3.23333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD5FEBAD6</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="4.73333300" />
+            <endTime value="4.73333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x0AB1D812</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.01727900" y="0.44269900" z="0.48977600" />
+          <startRot x="0.29285400" y="-0.39522700" z="0.24157800" w="0.83646400" />
+          <startTime value="0.00000000" />
+          <endPos x="0.66523000" y="0.46045100" z="0.73419400" />
+          <endRot x="0.70722100" y="0.02219000" z="0.70639000" w="-0.01897200" />
+          <endTime value="8.60000100" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.03584500" y="0.06148100" z="0.72366500" />
+          <startRot x="-0.05527300" y="-0.01074300" z="0.42619700" w="0.90287600" />
+          <startTime value="0.00000000" />
+          <endPos x="-1.88611900" y="-1.98282400" z="1.02673900" />
+          <endRot x="0.02188000" y="-0.04184300" z="0.87200800" w="0.48720900" />
+          <endTime value="8.60000100" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.00000000" y="0.00000000" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="-1.06829500" y="-1.28679100" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.92604700" w="0.37740800" />
+          <endTime value="7.85000000" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.08677700" y="0.16798600" z="0.79053200" />
+          <startRot x="0.02808400" y="-0.17032400" z="0.30970400" w="0.93503200" />
+          <startTime value="0.00000000" />
+          <endPos x="-1.93997000" y="-1.83716900" z="1.10848200" />
+          <endRot x="0.18120300" y="-0.11549100" z="0.78537600" w="0.58052810" />
+          <endTime value="8.60000100" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="WALK_EXIT_WITHPROP_BACK" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.55000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_BACK</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.50000000" />
+            <blendOutDuration value="0.75000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="9.30000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_BACK_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="9.30000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>0x18132528</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="9.30000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_BACK_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.03333300" />
+            <endTime value="0.03333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.66666700" />
+            <endTime value="0.66666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x5A499BE2</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.93333300" />
+            <endTime value="0.93333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xFC72849D</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.16666700" />
+            <endTime value="2.16666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.56666700" />
+            <endTime value="2.56666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="3.20000000" />
+            <endTime value="3.20000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD5FEBAD6</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="4.70000000" />
+            <endTime value="4.70000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x0AB1D812</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.01727900" y="0.44269900" z="0.48977600" />
+          <startRot x="0.29285400" y="-0.39522700" z="0.24157800" w="0.83646400" />
+          <startTime value="0.00000000" />
+          <endPos x="0.66532400" y="0.46045000" z="0.73411100" />
+          <endRot x="0.70722000" y="0.02219000" z="0.70639000" w="-0.01897200" />
+          <endTime value="9.30000000" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.03581000" y="0.06151600" z="0.72366600" />
+          <startRot x="-0.05527300" y="-0.01074300" z="0.42619700" w="0.90287700" />
+          <startTime value="0.00000000" />
+          <endPos x="0.06524000" y="-3.28050800" z="1.10292300" />
+          <endRot x="-0.00859900" y="0.04499500" z="0.99807500" w="0.04180400" />
+          <endTime value="9.30000000" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.00000000" y="0.00000000" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.08398100" y="-2.25450200" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="1.00000000" w="0.00002100" />
+          <endTime value="8.55000000" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.08681200" y="0.16802200" z="0.79053300" />
+          <startRot x="0.02808400" y="-0.17032400" z="0.30970400" w="0.93503200" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.08990100" y="-3.22729000" z="1.16355600" />
+          <endRot x="0.15866600" y="0.04322600" z="0.97038700" w="0.17693300" />
+          <endTime value="9.30000000" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="STAND_ENTER_BACK_RF" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="4.50000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_RF_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="4.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_RF</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.75000000" />
+            <blendOutDuration value="0.50000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="4.50000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_RF_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="4.50000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_RF_SERVESPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="1.86666700" />
+            <endTime value="1.86666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x90B2ED60</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.86666700" />
+            <endTime value="2.86666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD9AC3839</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="4.20000000" />
+            <endTime value="4.20000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.66535100" y="0.46051800" z="0.73412000" />
+          <startRot x="0.70724390" y="0.02228600" z="0.70636300" w="-0.01896300" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.01721600" y="0.44273900" z="0.48978400" />
+          <endRot x="0.29289300" y="-0.39521000" z="0.24156200" w="0.83646300" />
+          <endTime value="4.50000000" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="0.59856200" y="0.10550700" z="0.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="-0.02223200" w="0.99975300" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.03575100" y="0.06145000" z="0.72365800" />
+          <endRot x="-0.05526500" y="-0.01072300" z="0.42615800" w="0.90289500" />
+          <endTime value="4.50000000" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.35000000" y="-0.50000000" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.04459700" y="-0.02258800" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <endTime value="4.00000000" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.75508800" y="0.06416700" z="0.06794100" />
+          <startRot x="0.00392900" y="-0.17295400" z="-0.15027600" w="0.97339000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.08678400" y="0.16785700" z="0.79045600" />
+          <endRot x="0.02806800" y="-0.17030100" z="0.30973700" w="0.93502500" />
+          <endTime value="4.50000000" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="0xAD80317A" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events />
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="-1.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="-1.00000000" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="-1.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="-1.00000000" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="-1.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="-1.00000000" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="-1.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="-1.00000000" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="STAND_EXIT_WITHPROP_FRONT" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="5.98333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_FRONT</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.50000000" />
+            <blendOutDuration value="0.75000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="6.73333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_FRONT_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="6.73333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>0xA1D0500F</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="6.73333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>0x6317AE4C</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.06666700" />
+            <endTime value="0.06666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.70000000" />
+            <endTime value="0.70000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x5A499BE2</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.96666700" />
+            <endTime value="0.96666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xFC72849D</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.20000000" />
+            <endTime value="2.20000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.60000000" />
+            <endTime value="2.60000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="3.23333300" />
+            <endTime value="3.23333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD5FEBAD6</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="4.30000000" />
+            <endTime value="4.30000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x0AB1D812</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.01727900" y="0.44269900" z="0.48977600" />
+          <startRot x="0.29285400" y="-0.39522700" z="0.24157800" w="0.83646400" />
+          <startTime value="0.00000000" />
+          <endPos x="0.66533300" y="0.46051700" z="0.73409300" />
+          <endRot x="0.70725500" y="0.02230600" z="0.70635000" w="-0.01904000" />
+          <endTime value="6.73333300" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.03581000" y="0.06151500" z="0.72366600" />
+          <startRot x="-0.05527300" y="-0.01074200" z="0.42619700" w="0.90287600" />
+          <startTime value="0.00000000" />
+          <endPos x="0.35946300" y="-0.06387000" z="1.05761300" />
+          <endRot x="-0.02783200" y="0.00289000" z="-0.10562500" w="0.99401200" />
+          <endTime value="6.73333300" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.00000000" y="0.00004200" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="-0.00006900" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.41548700" y="-0.37234900" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="-0.00006900" w="1.00000000" />
+          <endTime value="5.98333300" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.08675600" y="0.16796600" z="0.79053200" />
+          <startRot x="0.02808400" y="-0.17032400" z="0.30970400" w="0.93503200" />
+          <startTime value="0.00000000" />
+          <endPos x="0.50756900" y="-0.12689900" z="1.12742400" />
+          <endRot x="-0.03805200" y="-0.17340900" z="-0.22618300" w="0.95777000" />
+          <endTime value="6.73333300" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="0xB84D3D45" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x77D474BD">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="3.40000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_RF</clipName>
+            </clip>
+            <UNK_MEMBER_0x0466501F />
+            <ikFlags />
+            <animFlags />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <UNK_MEMBER_0xCF7629F7>0x5854782F</UNK_MEMBER_0xCF7629F7>
+            <UNK_MEMBER_0x3D52FE70 value="false" />
+            <DisableCollision value="false" />
+            <UNK_MEMBER_0x46D81EF7 value="false" />
+            <UNK_MEMBER_0xE2C50156>0xFDCFE97F</UNK_MEMBER_0xE2C50156>
+            <UNK_MEMBER_0x4818D683>0x393ED7A2</UNK_MEMBER_0x4818D683>
+            <UNK_MEMBER_0x2CB4CD95 value="-1.00000000" />
+            <UNK_MEMBER_0x1E4F3DD3 value="-1.00000000" />
+            <UNK_MEMBER_0x11D372C8 value="-1.00000000" />
+            <UNK_MEMBER_0xC4B73095 value="0.00000000" />
+            <offsetTime value="0.00000000" />
+          </Item>
+          <Item type="0xB27E6751">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="0.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="0.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <attachEntity>
+              <entityId>PED</entityId>
+            </attachEntity>
+            <attachOffset x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xF0B2D799 x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+            <UNK_MEMBER_0x42598F73 value="false" />
+            <attachBone>ID_PH_R_HAND</attachBone>
+            <action>0x6376976E</action>
+          </Item>
+          <Item type="0xB27E6751">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="0.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="0.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <attachEntity>
+              <entityId>PED</entityId>
+            </attachEntity>
+            <attachOffset x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xF0B2D799 x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+            <UNK_MEMBER_0x42598F73 value="false" />
+            <attachBone>ID_PH_L_HAND</attachBone>
+            <action>0x6376976E</action>
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="3.40000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_RF_SERVESPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="1.76666700" />
+            <endTime value="1.76666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD9AC3839</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="3.13333300" />
+            <endTime value="3.13333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.67981200" y="0.70901800" z="0.73570500" />
+          <startRot x="-0.00313200" y="-0.71360300" z="-0.01366700" w="0.70041000" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.01721500" y="0.68270500" z="0.48977400" />
+          <endRot x="0.29285500" y="-0.39522700" z="0.24157600" w="0.83646500" />
+          <endTime value="3.40000000" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="0.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="0.00000000" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.50645300" y="-0.08713300" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.00000000" y="0.00000000" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <endTime value="3.40000000" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="0.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="0.00000000" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="STAND_ENTER_BACK_LF_PF" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="5.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_SERVESPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x77D474BD">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="5.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_LF</clipName>
+            </clip>
+            <UNK_MEMBER_0x0466501F />
+            <ikFlags />
+            <animFlags />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <UNK_MEMBER_0xCF7629F7>0xF7F10F0B</UNK_MEMBER_0xCF7629F7>
+            <UNK_MEMBER_0x3D52FE70 value="true" />
+            <DisableCollision value="false" />
+            <UNK_MEMBER_0x46D81EF7 value="false" />
+            <UNK_MEMBER_0xE2C50156>0xFDCFE97F</UNK_MEMBER_0xE2C50156>
+            <UNK_MEMBER_0x4818D683>0x393ED7A2</UNK_MEMBER_0x4818D683>
+            <UNK_MEMBER_0x2CB4CD95 value="-1.00000000" />
+            <UNK_MEMBER_0x1E4F3DD3 value="-1.00000000" />
+            <UNK_MEMBER_0x11D372C8 value="-1.00000000" />
+            <UNK_MEMBER_0xC4B73095 value="0.00000000" />
+            <offsetTime value="0.00000000" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="5.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags />
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="5.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags />
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="1.76666700" />
+            <endTime value="1.76666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x90B2ED60</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="3.03333300" />
+            <endTime value="3.03333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD9AC3839</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="4.76666700" />
+            <endTime value="4.76666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.66535100" y="0.46051800" z="0.73412000" />
+          <startRot x="0.70724390" y="0.02228600" z="0.70636300" w="-0.01896300" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.01723700" y="0.44265600" z="0.48977700" />
+          <endRot x="0.29282300" y="-0.39524400" z="0.24162600" w="0.83645300" />
+          <endTime value="5.00000000" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="0.59856200" y="0.10550700" z="0.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="-0.02223200" w="0.99975300" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.03577500" y="0.06144900" z="0.72367800" />
+          <endRot x="-0.05526700" y="-0.01071800" z="0.42618700" w="0.90288200" />
+          <endTime value="5.00000000" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.35000000" y="-0.50000000" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.00001500" y="-0.00001500" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <endTime value="5.00000000" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.75508800" y="0.06416700" z="0.06794000" />
+          <startRot x="0.00392900" y="-0.17295400" z="-0.15027600" w="0.97339000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.08676900" y="0.16785900" z="0.79048000" />
+          <endRot x="0.02806900" y="-0.17030600" z="0.30975100" w="0.93502000" />
+          <endTime value="5.00000000" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="WALK_EXIT_WITHPROP_BACKRIGHT" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="7.81666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_BACKRIGHT</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.50000000" />
+            <blendOutDuration value="0.75000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.56666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_BACKRIGHT_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.56666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>EXIT_BACKRIGHT_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="8.56666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@WALK_EXIT_WITHPROP</clipDictionaryName>
+              <clipName>0x27276944</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.06666700" />
+            <endTime value="0.06666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.70000000" />
+            <endTime value="0.70000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x5A499BE2</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="0.96666700" />
+            <endTime value="0.96666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xFC72849D</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.20000000" />
+            <endTime value="2.20000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.60000000" />
+            <endTime value="2.60000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x161B94BD</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="3.23333300" />
+            <endTime value="3.23333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD5FEBAD6</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="4.23333300" />
+            <endTime value="4.23333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x0AB1D812</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.01727900" y="0.44269900" z="0.48977600" />
+          <startRot x="0.29285400" y="-0.39522700" z="0.24157800" w="0.83646400" />
+          <startTime value="0.00000000" />
+          <endPos x="0.66523000" y="0.46045100" z="0.73419400" />
+          <endRot x="0.70722100" y="0.02219000" z="0.70638900" w="-0.01897200" />
+          <endTime value="8.56666700" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="-0.03582600" y="0.06149900" z="0.72366600" />
+          <startRot x="-0.05527100" y="-0.01074500" z="0.42619000" w="0.90288000" />
+          <startTime value="0.00000000" />
+          <endPos x="2.79253700" y="-2.26120400" z="1.07843400" />
+          <endRot x="-0.05449200" y="0.00205300" z="0.90348500" w="-0.42513700" />
+          <endTime value="8.56666700" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.00000000" y="0.00000000" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="2.00080000" y="-1.56501100" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.92118400" w="-0.38912800" />
+          <endTime value="7.81666700" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.08679800" y="0.16800300" z="0.79053400" />
+          <startRot x="0.02808400" y="-0.17032700" z="0.30969700" w="0.93503300" />
+          <startTime value="0.00000000" />
+          <endPos x="2.65939500" y="-2.36343300" z="1.12905200" />
+          <endRot x="0.09933000" y="0.07557600" z="0.94631100" w="-0.29819000" />
+          <endTime value="8.56666700" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="0xE00BC4D8" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x77D474BD">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="2.93333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_LF</clipName>
+            </clip>
+            <UNK_MEMBER_0x0466501F />
+            <ikFlags />
+            <animFlags />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <UNK_MEMBER_0xCF7629F7>0x5D9FFC46</UNK_MEMBER_0xCF7629F7>
+            <UNK_MEMBER_0x3D52FE70 value="false" />
+            <DisableCollision value="false" />
+            <UNK_MEMBER_0x46D81EF7 value="false" />
+            <UNK_MEMBER_0xE2C50156>0xFDCFE97F</UNK_MEMBER_0xE2C50156>
+            <UNK_MEMBER_0x4818D683>0x393ED7A2</UNK_MEMBER_0x4818D683>
+            <UNK_MEMBER_0x2CB4CD95 value="-1.00000000" />
+            <UNK_MEMBER_0x1E4F3DD3 value="-1.00000000" />
+            <UNK_MEMBER_0x11D372C8 value="-1.00000000" />
+            <UNK_MEMBER_0xC4B73095 value="0.00000000" />
+            <offsetTime value="0.00000000" />
+          </Item>
+          <Item type="0xB27E6751">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="0.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="0.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <attachEntity>
+              <entityId>PED</entityId>
+            </attachEntity>
+            <attachOffset x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xF0B2D799 x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+            <UNK_MEMBER_0x42598F73 value="false" />
+            <attachBone>ID_PH_L_HAND</attachBone>
+            <action>0x6376976E</action>
+          </Item>
+          <Item type="0xB27E6751">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="0.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="0.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <attachEntity>
+              <entityId>PED</entityId>
+            </attachEntity>
+            <attachOffset x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xF0B2D799 x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+            <UNK_MEMBER_0x42598F73 value="false" />
+            <attachBone>ID_PH_R_HAND</attachBone>
+            <action>0x6376976E</action>
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="2.93333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER_WITHPROP</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_SERVESPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="1.40000000" />
+            <endTime value="1.40000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD9AC3839</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="2.76666700" />
+            <endTime value="2.76666700" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.67981100" y="0.70901800" z="0.73570600" />
+          <startRot x="-0.00313300" y="-0.71360300" z="-0.01366700" w="0.70041000" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.01718800" y="0.68267000" z="0.48969300" />
+          <endRot x="0.29282400" y="-0.39521600" z="0.24163800" w="0.83646300" />
+          <endTime value="2.93333300" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="0.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="0.00000000" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.50645300" y="-0.08713300" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.00000000" y="0.00000000" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <endTime value="2.93333300" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="1E10" y="1E10" z="1E10" />
+          <startRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <startTime value="0.00000000" />
+          <endPos x="1E10" y="1E10" z="1E10" />
+          <endRot x="1E10" y="1E10" z="1E10" w="1E10" />
+          <endTime value="0.00000000" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+    <Item key="STAND_ENTER_BACK_LF" type="0x64E8AC67">
+      <UNK_MEMBER_0xC618212A type="NULL" />
+      <UNK_MEMBER_0xBB18B485>
+        <entityId />
+      </UNK_MEMBER_0xBB18B485>
+      <UNK_MEMBER_0x47B47045 value="false" />
+      <loopCount value="1" />
+      <events>
+        <events>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>PED</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="4.50000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_LF</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.75000000" />
+            <blendOutDuration value="0.50000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="5.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_BOWL</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOON01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="5.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_SPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x0CB4F193">
+            <entity>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </entity>
+            <startTime value="0.00000000" />
+            <endTime value="5.00000000" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <clip>
+              <clipDictionaryName>AMB_CAMP@PROP_CAMP_PLAYER_SERVE_STEW@GROUND@PLAYER@STAND_ENTER</clipDictionaryName>
+              <clipName>ENTER_BACK_LF_SERVESPOON</clipName>
+            </clip>
+            <fpsClip>
+              <clipDictionaryName />
+              <clipName />
+            </fpsClip>
+            <animFlags>AF_NOT_INTERRUPTABLE 0xB46C05A7 0x3A00B430</animFlags>
+            <flags>TAF_NOT_INTERRUPTABLE 0x028D8D60 0xFD520F94</flags>
+            <ragdollBlockingFlags />
+            <ikFlags />
+            <aiFlags />
+            <physFlags />
+            <filter />
+            <fpsFilter />
+            <bodyDampingTemplate />
+            <blendInDuration value="0.00000000" />
+            <blendOutDuration value="0.00000000" />
+            <UNK_MEMBER_0xEB3388F4 value="-1.00000000" />
+            <offsetTime value="0.00000000" />
+            <rate value="1.00000000" />
+            <useSceneOrigin value="true" />
+            <UNK_MEMBER_0x1F1E9763 value="false" />
+            <UNK_MEMBER_0x03EFD81F type="NULL" />
+            <pApproach type="NULL" />
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="1.83333300" />
+            <endTime value="1.83333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_BOWL04X_STEW_PH_L_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x90B2ED60</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="3.03333300" />
+            <endTime value="3.03333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0xD9AC3839</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+          <Item type="0x5F78E379">
+            <entity>
+              <entityId>0x71079D70</entityId>
+            </entity>
+            <startTime value="4.83333300" />
+            <endTime value="4.83333300" />
+            <UNK_MEMBER_0x420E8F0C value="4.00000000" />
+            <pChildren type="NULL" />
+            <UNK_MEMBER_0xAB28F89C value="false" />
+            <state>0x9D9DEE9D</state>
+            <toolData type="NULL" />
+            <UNK_MEMBER_0x84B954E7>
+              <entityId />
+            </UNK_MEMBER_0x84B954E7>
+            <UNK_MEMBER_0x2A2B1433>
+              <entityId>P_SPOONMID01X_PH_R_HAND</entityId>
+            </UNK_MEMBER_0x2A2B1433>
+            <SoundPosition x="0.00000000" y="0.00000000" z="0.00000000" />
+            <UNK_MEMBER_0xB562C063 />
+            <UNK_MEMBER_0x1FE6F044>0x87D73532</UNK_MEMBER_0x1FE6F044>
+            <UNK_MEMBER_0x80626C51>FromEntity</UNK_MEMBER_0x80626C51>
+            <SoundType>OneShot</SoundType>
+          </Item>
+        </events>
+      </events>
+      <locationData>
+        <Item key="P_SPOONMID01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.66535100" y="0.46051800" z="0.73412000" />
+          <startRot x="0.70724390" y="0.02228600" z="0.70636300" w="-0.01896300" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.01723700" y="0.44265600" z="0.48977700" />
+          <endRot x="0.29282300" y="-0.39524400" z="0.24162600" w="0.83645300" />
+          <endTime value="5.00000000" />
+        </Item>
+        <Item key="P_BOWL04X_STEW_PH_L_HAND" type="0xAD5DFE3C">
+          <startPos x="0.59856200" y="0.10550700" z="0.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="-0.02223200" w="0.99975300" />
+          <startTime value="0.00000000" />
+          <endPos x="-0.03577500" y="0.06144900" z="0.72367800" />
+          <endRot x="-0.05526700" y="-0.01071800" z="0.42618700" w="0.90288200" />
+          <endTime value="5.00000000" />
+        </Item>
+        <Item key="PED" type="0xAD5DFE3C">
+          <startPos x="0.35000000" y="-0.50000000" z="1.00000000" />
+          <startRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.06136100" y="-0.04786300" z="1.00000000" />
+          <endRot x="0.00000000" y="0.00000000" z="0.00000000" w="1.00000000" />
+          <endTime value="4.50000000" />
+        </Item>
+        <Item key="P_SPOON01X_PH_R_HAND" type="0xAD5DFE3C">
+          <startPos x="0.75508800" y="0.06416700" z="0.06794000" />
+          <startRot x="0.00392900" y="-0.17295400" z="-0.15027600" w="0.97339000" />
+          <startTime value="0.00000000" />
+          <endPos x="0.08676900" y="0.16785900" z="0.79048000" />
+          <endRot x="0.02806900" y="-0.17030600" z="0.30975100" w="0.93502000" />
+          <endTime value="5.00000000" />
+        </Item>
+      </locationData>
+      <UNK_MEMBER_0x0696FE9E type="NULL" />
+    </Item>
+  </sections>
+  <playLists>
+    <Item key="0xAD80317A" type="0xA90B7F7E">
+      <sections>
+        <Item>STAND_ENTER_BACK_LF</Item>
+        <Item>BASE</Item>
+        <Item>STAND_EXIT_WITHPROP_FRONT</Item>
+        <Item>STAND_ENTER_BACK_RF</Item>
+        <Item>BASE</Item>
+        <Item>STAND_EXIT_WITHPROP_FRONT</Item>
+        <Item>0x5956754A</Item>
+        <Item>BASE</Item>
+        <Item>WALK_EXIT_WITHPROP_BACK</Item>
+        <Item>0x47325FBB</Item>
+        <Item>BASE</Item>
+        <Item>WALK_EXIT_WITHPROP_LEFT</Item>
+        <Item>0x5956754A</Item>
+        <Item>BASE</Item>
+        <Item>WALK_EXIT_WITHPROP_BACKLEFT</Item>
+        <Item>0x47325FBB</Item>
+        <Item>BASE</Item>
+        <Item>WALK_EXIT_WITHPROP_BACK</Item>
+        <Item>0x5956754A</Item>
+        <Item>BASE</Item>
+        <Item>WALK_EXIT_WITHPROP_BACKRIGHT</Item>
+        <Item>0x47325FBB</Item>
+        <Item>BASE</Item>
+        <Item>WALK_EXIT_WITHPROP_RIGHT</Item>
+        <Item>STAND_ENTER_BACK_LF_PF</Item>
+        <Item>STAND_ENTER_BACK_RF_PF</Item>
+        <Item>0xE00BC4D8</Item>
+        <Item>0xB84D3D45</Item>
+      </sections>
+    </Item>
+  </playLists>
+  <flags />
+  <version value="17" />
+  <jenniferInterrelationCollections>0xB418ED04</jenniferInterrelationCollections>
+  <toolData type="NULL" />
+  <compositeScenes />
+  <stateMachine>
+    <initialTransitions />
+    <states />
+    <editorData type="NULL" />
+  </stateMachine>
+  <UNK_MEMBER_0x8FB2F5A4>0xC2C06DAE</UNK_MEMBER_0x8FB2F5A4>
+  <UNK_MEMBER_0x0558B627 value="true" />
+</fwAnimSceneData>

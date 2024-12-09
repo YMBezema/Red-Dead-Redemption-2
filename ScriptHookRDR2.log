@@ -1,56 +1,58 @@
-[22:18:51] [INIT] Initializing ScriptHook for Red Dead Redemption 2
-[22:18:51] Build: Tue Jul 16 14:38:59 2024 Version: 1.9 Tester
-[22:18:51] [INIT] Loading config
-[22:18:57] [POOLS] Scanning all patterns...
-[22:18:57] [POOLS] Scanned all patterns
-[22:18:57] [THREADS] Scanning all patterns...
-[22:18:57] [THREADS] Scanned all patterns
-[22:18:57] [VARS] Scanning all patterns...
-[22:18:57] [VARS] Scanned all patterns
-[22:18:57] [INIT] Hooking functions...
-[22:18:57] [HOOKS] Created hook GtaThread::Run
-[22:18:57] [HOOKS] Created hook rage::scrThread::Reset
-[22:18:58] [HOOKS] Created hook rage::fwConfigManager::GetSizeOfPool
-[22:18:58] [HOOKS] Created hook ConvertThreadToFiber
-[22:18:58] [HOOKS] Created hook SetCursorPos
-[22:18:58] [HOOKS] Created hook graphics_commands::GetStreamedTextureFromTxd
-[22:18:58] [HOOKS] Created hook rage::fwTextStore::FindTextAndSlot
-[22:18:58] [INIT] Finished hooking functions
-[22:18:58] [HOOKS] Created hook vkAcquireNextImageKHR
-[22:18:58] [HOOKS] Created hook vkAcquireNextImage2KHR
-[22:18:58] [HOOKS] Created hook vkQueuePresentKHR
-[22:18:58] [HOOKS] Created hook vkCreateSwapchainKHR
-[22:18:58] [VULKAN] Finished hooking
-[22:19:8] [Pools] Extending CGameScriptHandler to 750
-[22:19:8] [Pools] Extending fwScriptGuid to 40000
-[22:19:8] [Pools] Extending CScriptEntityExtension to 10000
-[22:19:8] [Pools] Extending atDScriptObjectNode to 10000
-[22:20:17] [SCRIPTS] Incrementing capacity of Stacks with size 1024 by 26
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Bandit_Hideouts.asi with Id 48
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CampAnywhere.asi with Id 49
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Cards.asi with Id 50
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CombatExperience.asi with Id 51
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CoresRegenOverTime1.0.asi with Id 52
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CriticalHits.asi with Id 53
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CutDialogueEnhanced.asi with Id 54
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DSX.asi with Id 55
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DumpThatCargo1.1.asi with Id 56
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DumpThatCargo1.1.asi with Id 57
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\FastWalk.asi with Id 58
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\GatlingWagons.asi with Id 59
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Hard.asi with Id 60
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\horseHolster.asi with Id 61
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\LessMoney.asi with Id 62
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\NoAutoReloadEver.asi with Id 63
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\NoHolstering.asi with Id 64
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Outfits.asi with Id 65
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\PedDamageOverhaul.asi with Id 66
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Rampage.asi with Id 67
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Softer.asi with Id 68
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\StashThatLantern2.8.asi with Id 69
-[22:20:17] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\TieYourLasso.asi with Id 70
-[22:20:17] [SCRIPTS] Starting audiotest thread for ScriptHook::LuaManager::QueueTick with Id 71
-[22:20:17] [SCRIPTS] Starting audiotest thread for ScriptHook::LuaManager::GeneralTick with Id 72
-[22:20:17] [SCRIPTS] Starting audiotest thread for ScriptHook::Interface::ScriptTick with Id 73
-[22:20:18] [Lua Manager] Failed to find any scripts in the folder: scripts/
-[22:23:56] [Error] [Invoker] Error executing native 0x89F5E7ADECCCB49C at 0x7FF787F3DE80
+[13:52:6] [Core] ScriptHookRDR2 initializing...
+[13:52:13] [Core] Window -> found
+[13:52:13] [Core] Patterns -> scanning...
+[13:52:13] [Patterns] Found GAS
+[13:52:14] [Patterns] Found CSG
+[13:52:14] [Patterns] Found SMT
+[13:52:14] [Patterns] Found PPE
+[13:52:14] [Patterns] Found OPE
+[13:52:14] [Patterns] Found VPE
+[13:52:14] [Patterns] Found PUPE
+[13:52:14] [Patterns] Found BPE
+[13:52:14] [Patterns] Found VOCPE
+[13:52:14] [Patterns] Found VOBPE
+[13:52:14] [Patterns] Found VOSPE
+[13:52:14] [Patterns] Found CPE
+[13:52:14] [Patterns] Found CTI
+[13:52:14] [Patterns] Found RST
+[13:52:14] [Patterns] Found RSTU
+[13:52:14] [Patterns] Found STRR
+[13:52:14] [Patterns] Found CRPO
+[13:52:14] [Patterns] Found NCL
+[13:52:14] [Patterns] Found GLT
+[13:52:14] [Patterns] Found GEA
+[13:52:14] [Patterns] Found GSP
+[13:52:14] [Patterns] Found SIRP
+[13:52:14] [Patterns] Found RSGP
+[13:52:14] [Patterns] Found GRCDL
+[13:52:14] [Patterns] Found scripts_commands::CommandShutdownLoadingScreen
+[13:52:14] [Core] Patterns -> found
+[13:52:14] [Core] Waiting for Natives...
+[13:52:14] [Core] Natives -> registered
+[13:52:14] [Core] Hooks -> initializing
+[13:52:14] [Core] Hooks -> created
+[13:52:14] [Vulkan] Hooked!
+[13:54:23] [Scripts] Reloading Scripts due to save game load.
+[13:54:23] [Core] Unloading scripts -> finished
+[13:54:23] [Script] Bandit_Hideouts -> loaded
+[13:54:23] [Script] CampAnywhere -> loaded
+[13:54:23] [Script] CombatExperience -> loaded
+[13:54:23] [Script] CoresRegenOverTime1.0 -> loaded
+[13:54:23] [Script] CriticalHits -> loaded
+[13:54:23] [Script] DSX -> loaded
+[13:54:23] [Script] DumpThatCargo1.1 -> loaded
+[13:54:23] [Script] FastWalk -> loaded
+[13:54:23] [Script] GatlingWagons -> loaded
+[13:54:23] [Script] Hard -> loaded
+[13:54:23] [Script] horseHolster -> loaded
+[13:54:23] [Script] Injury -> loaded
+[13:54:23] [Script] LessMoney -> loaded
+[13:54:23] [Script] NoAutoReloadEver -> loaded
+[13:54:23] .\NoHitmarker.asi has no dependency, skipping!
+[13:54:23] [Script] NoHolstering -> loaded
+[13:54:23] [Script] Outfits -> loaded
+[13:54:23] [Script] PedDamageOverhaul -> loaded
+[13:54:23] [Script] Softer -> loaded
+[13:54:23] [Script] StashThatLantern2.8 -> loaded
+[13:54:23] [Script] TieYourLasso -> loaded
+[13:54:23] .\vfs.asi has no dependency, skipping!
