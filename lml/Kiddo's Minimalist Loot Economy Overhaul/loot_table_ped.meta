@@ -1591,12 +1591,12 @@
 		</Item>
 		<Item>
 		  <Name>TOBACCO_ITEMS_PED</Name>
-		  <Rate value=".15" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>CHEAP_JEWELRY_ITEMS_PED</Name>
-		  <Rate value=".15" />
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1611,11 +1611,6 @@
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_MOONSHINE</Name>
-		  <Rate value=".05" />
-		  <Type>Item</Type>
-		</Item>
-		<Item>
-		  <Name>KIT_GUN_OIL</Name>
 		  <Rate value=".05" />
 		  <Type>Item</Type>
 		</Item>
@@ -1704,7 +1699,7 @@
         </Item>
 		<Item>
 		  <Name>TOBACCO_ITEMS_PED</Name>
-		  <Rate value=".15" />
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1723,13 +1718,13 @@
 		  <Type>Item</Type>
 		</Item>
 		<Item>
-		  <Name>THROWABLE_AMMO</Name>
+		  <Name>ALCOHOL_ITEMS</Name>
 		  <Rate value=".05" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>REWARD_PED_SMALL</Name>
-		  <Rate value=".35" />
+		  <Rate value=".40" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -1740,11 +1735,11 @@
       <Entries>
 		<Item>
           <Name>HEALTH_AND_DEADEYE_BASIC</Name>
-		  <Rate value=".15" />
+		  <Rate value=".10" />
           <Type>Table</Type>
         </Item>
 		<Item>
-		  <Name>TOBACCO_ITEMS</Name>
+		  <Name>TOBACCO_AND_ALCOHOL</Name>
 		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
@@ -1755,11 +1750,11 @@
 		</Item>
 		<Item>
 		  <Name>KIT_GUN_OIL</Name>
-		  <Rate value=".05" />
+		  <Rate value=".10" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
-		  <Name>ALCOHOL_ITEMS</Name>
+		  <Name>HORSE_CONSUMABLES_BASIC</Name>
 		  <Rate value=".05" />
 		  <Type>Table</Type>
 		</Item>
@@ -1775,13 +1770,13 @@
       <Type>ContinuousLinearDrop</Type>
       <Entries>
 		<Item>
-		  <Name>PED_LOOT_TYPE_HIREDGUN</Name>
+		  <Name>PED_LOOT_TYPE_GUNHOLDER</Name>
 		  <Rate value="1.0" />
 		  <RewardCondition ref="PLAYER_HAS_NEUTRAL_HONOR" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
-		  <Name>PED_LOOT_TYPE_HIREDGUN</Name>
+		  <Name>PED_LOOT_TYPE_GUNHOLDER</Name>
 		  <Rate value="1.0" />
 		  <RewardCondition ref="PLAYER_HAS_HIGH_HONOR" />
 		  <Type>Table</Type>

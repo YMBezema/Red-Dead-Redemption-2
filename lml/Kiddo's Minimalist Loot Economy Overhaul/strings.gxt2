@@ -1,0 +1,137 @@
+[Ammo Descriptions]
+
+#Revolver
+
+	Express
+	0xFBD68BCE = Provides incredible stopping power. Contains 20 bullets.
+	High Velocity
+	0xF6DFD981 = Improved range and target penetration. Contains 20 bullets.
+	Standard
+	0xE14435DC = Designed for reliability and consistency. Contains 20 Bullets.
+
+	AMMO_REVOLVER = Revolver Bullets
+
+	AMMO_REVOLVER_EXPRESS = Revolver Bullets - Express
+
+	AMMO_REVOLVER_HIGH_VELOCITY = Revolver Bullets - High Velocity
+
+#Pistol
+
+	Express
+	0x1AADB2C9 = Provides incredible stopping power. Contains 20 bullets.
+	High Velocity
+	0x44108FCA = Improved range and target penetration. Contains 20 bullets.
+	Standard
+	0x35D0EBB0 = Designed for reliability and consistency. Contains 20 bullets.
+
+	AMMO_PISTOL = Pistol Bullets
+
+	AMMO_PISTOL_EXPRESS = Pistol Bullets - Express
+
+	AMMO_PISTOL_HIGH_VELOCITY = Pistol Bullets - High Velocity
+
+#Repeater
+
+	Express
+	0xB6F13F6B = Provides incredible stopping power. Contains 20 cartridges.
+	High Velocity
+	0xBE9B6E42 = Improved range and target penetration. Contains 20 cartridges.
+	Standard
+	0x1B977235 = Designed for reliability and consistency. Contains 20 cartridges.
+
+	AMMO_REPEATER = Repeater Cartridges
+
+	AMMO_REPEATER_EXPRESS = Repeater Cartridges - Express
+
+	AMMO_REPEATER_HIGH_VELOCITY = Repeater Cartridges - High Velocity
+
+#Rifle
+
+	Express
+	0x41035D44 = Provides incredible stopping power. Contains 10 cartridges.
+	High Velocity
+	0xE2D03D88 = Improved range and target penetration. Contains 10 cartridges.
+	Standard
+	0xF7465D7D = Designed for reliability and consistency. Contains 10 cartridges.
+
+	AMMO_RIFLE = Rifle Cartridges
+
+	AMMO_RIFLE_EXPRESS = Rifle Cartridges - Express
+
+	AMMO_RIFLE_HIGH_VELOCITY = Rifle Cartridges - High Velocity
+
+#Shotgun
+	
+	Slug
+	0x5B4E4710 = Slugged ammunition which fires a single powerful projectile. Contains 10 slugs.
+	Standard
+	0x21DCEDB2 = Regular buckshot ammunition. Contains 10 shells.
+
+	AMMO_SHOTGUN = Shotgun Shells
+
+	AMMO_SHOTGUN_SLUG = Shotgun Slugs
+
+#Varmint
+
+	Standard
+	0xD3D81D5A = Designed for hunting small game without damaging pelts. Contains 10 cartridges.
+
+	AMMO_22 = .22 Varmint Cartridges
+
+
+# FRIENDS
+
+	0xE3750B47 = KRAMER'S
+
+	CONSUMABLE_CIGARETTE_BOX_CATALOGUEDESC = Kramer's Cigarettes are the smoother, healthier smoke. Enjoyed on a balcony or porch with a sprinkle of devils lettuce. Contains 5 cigarettes and a collectible cigarette card.
+
+	0x0C3B3E31 = KIDDO'S
+
+	CONSUMABLE_CIGARETTE_BOX_CHEAP_CATALOGUEDESC = Kiddo's Cigarettes are perfectly mild and rich, or dry and arid depending on how often you lie to yourself. Contains 10 cigarettes.
+
+	0xA15E75E3 = MOORE'S
+
+	CONSUMABLE_CIGAR_CATALOGUEDESC = Moore's Premium blend domestic brand cigars. A suberb tobacco for a divine night in the hot tub with the boys.
+
+	0x9E810871 = BIG JIM'S
+
+	CONSUMABLE_CHEWING_TOBACCO_CATALOGUEDESC = Big Jim's Chewing Tobacco. Taste it! Chew it! Spit it! A gentlemanly pleasure that can even be shared with a prostitute.
+
+	0x240FFBBA = BRYANT'S
+
+	CONSUMABLE_COCAINE_CHEWING_GUM_CATALOGUEDESC = Corum Bryant's Cocaine Chewing Gum stimulates and invigorates. Cures indigestion, apathy and monotony. Definately don't put it in your bum.
+
+	0x4E2361EF = KELLY'S
+
+	CONSUMABLE_COFFEE_GNDS_REG_CATALOGUEDESC = Kelly O'Brien's iconic rich and full bodied ground coffee. Great for staying up all night on a creative bender, or for fending off night terrors.
+
+#Potent Tonics
+
+	CONSUMABLE_POTENT_TONIC_DESC = Fortifies moderately.
+
+	0xF53B62D3 = Fortifies moderately.
+
+	CONSUMABLE_POTENT_MEDICINE_DESC = Fortifies moderately.
+
+	CONSUMABLE_POTENT_SNAKE_OIL_DESC = Fortifies moderately.
+
+#Regular Tonics
+
+	CONSUMABLE_TONIC_DESC = Fortifies slightly.
+
+	CONSUMABLE_RESTORATIVE_DESC = Fortifies slightly.
+
+	CONSUMABLE_MEDICINE_DESC = Fortifies slightly.
+
+	CONSUMABLE_SNAKE_OIL_DESC = Fortifies slightly.
+
+#Special Tonics
+
+	0xEDFF6C96 = Fortifies greatly.
+
+	0x52955C67 = Fortifies greatly.
+
+	0x3BADCF7E = Fortifies greatly.
+
+	0x52F3F7F2 = Fortifies greatly.
+	

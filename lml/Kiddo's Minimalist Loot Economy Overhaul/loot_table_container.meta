@@ -179,7 +179,7 @@
 	  <Entries>
 		<Item>
 		  <Name>HEALTH_AND_DEADEYE_BASIC</Name>
-		  <Rate value=".50" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
 	  </Entries>
@@ -518,12 +518,12 @@
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_TONIC</Name>
-		  <Rate value=".00" />
+		  <Rate value=".25" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_SNAKE_OIL</Name>
-		  <Rate value="0.50" />
+		  <Rate value="0.25" />
 		  <Type>Item</Type>
 		</Item>
 	  </Entries>
@@ -539,12 +539,12 @@
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_POTENT_SNAKE_OIL</Name>
-		  <Rate value="0.75" />
+		  <Rate value="0.50" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_POTENT_TONIC</Name>
-		  <Rate value="0.00" />
+		  <Rate value="0.25" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -677,22 +677,22 @@
 	  <Entries>
 		<Item>
 		  <Name>CONTAINER_LOOT_AMMO</Name>
-		  <Rate value=".30" />
+		  <Rate value=".50" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>ALCOHOL_ITEMS</Name>
-		  <Rate value=".15" />
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>DEADEYE_ITEMS</Name>
-		  <Rate value=".10" />
+		  <Rate value=".20" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>HEALTH_ITEMS</Name>
-		  <Rate value=".10" />
+		  <Rate value=".20" />
 		  <Type>Table</Type>
 		</Item>
 	  </Entries>
@@ -703,22 +703,22 @@
 	  <Entries>
 	    <Item>
 		  <Name>CONTAINER_LOOT_DYNAMITE</Name>
-		  <Rate value=".1" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>DEADEYE_ITEMS</Name>
-		  <Rate value=".15" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>HEALTH_ITEMS</Name>
-		  <Rate value=".10" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>CONTAINER_LOOT_AMMO</Name>
-		  <Rate value=".30" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 	  </Entries>
@@ -729,12 +729,12 @@
 	  <Entries>
 		<Item>
 		  <Name>MONEY_COINPURSE</Name>
-		  <Rate value=".20" />
+		  <Rate value=".50" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_SNAKE_OIL</Name>
-		  <Rate value=".10" />
+		  <Rate value=".50" />
 		  <Type>Item</Type>
 		</Item>
 	  </Entries>
@@ -745,7 +745,7 @@
       <Entries>
 	  	<Item>
 		  <Name>MONEY_COINPURSE</Name>
-		  <Rate value=".10" />
+		  <Rate value=".50" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -828,7 +828,7 @@
 		</Item>
 		<Item>
 		  <Name>AMMO_PISTOL_AMMOBOX</Name>
-		  <Rate value=".10" />
+		  <Rate value=".20" />
           <Type>Ammo</Type>
 		</Item>
 	    <Item>
@@ -838,7 +838,7 @@
 		</Item>
 		<Item>
 		  <Name>AMMO_REVOLVER_AMMOBOX</Name>
-		  <Rate value=".20" />
+		  <Rate value=".10" />
           <Type>Ammo</Type>
 		</Item>
 		<Item>
@@ -1117,12 +1117,12 @@
 		</Item>
 		<Item>
 		  <Name>MONEY_COINPURSE</Name>
-		  <Rate value="0.20" />
+		  <Rate value="0.25" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CIGARETTE_BOX_CHEAP</Name>
-		  <Rate value="0.20" />
+		  <Rate value="0.25" />
           <Type>Item</Type>
 		</Item>
       </Entries>
@@ -1253,7 +1253,7 @@
 	  <Entries>
 		<Item>
 		  <Name>MONEY_COINPURSE</Name>
-		  <Rate value=".15" />
+		  <Rate value=".20" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -1263,27 +1263,22 @@
 		</Item>
 		<Item>
 		  <Name>ALCOHOL_ITEMS</Name>
-		  <Rate value=".05" />
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>TOBACCO_ITEMS</Name>
-		  <Rate value=".15" />
+		  <Rate value=".10" />
           <Type>Table</Type>
 		</Item>
 	    <Item>
 		  <Name>FOOD_ITEMS_SNACK</Name>
-		  <Rate value=".10" />
+		  <Rate value=".15" />
           <Type>Table</Type>
 		</Item>
 		<Item>
-		  <Name>CONTAINER_LOOT_AMMO</Name>
-		  <Rate value=".20" />
-		  <Type>Table</Type>
-		</Item>
-		<Item>
 		  <Name>HORSE_CONSUMABLES</Name>
-		  <Rate value=".15" />
+		  <Rate value=".40" />
 		  <Type>Table</Type>
 		</Item>
 	  </Entries>
@@ -1294,7 +1289,7 @@
 	  <Entries>
 		<Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="10" />
+		  <Min value="1" />
           <Max value="100" />
           <Rate value="1"/>
           <Type>Money</Type>
@@ -1307,8 +1302,8 @@
 	  <Entries>
 		<Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="50" />
-          <Max value="250" />
+		  <Min value="5" />
+          <Max value="175" />
           <Rate value="1"/>
           <Type>Money</Type>
         </Item>
@@ -1320,8 +1315,8 @@
 	  <Entries>
 		<Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="250" />
-          <Max value="400" />
+		  <Min value="5" />
+          <Max value="300" />
           <Rate value="1"/>
           <Type>Money</Type>
         </Item>
@@ -1333,23 +1328,23 @@
       <Entries>
 		<Item>
 		  <Name>CONSUMABLE_COCAINE_CHEWING_GUM</Name>
-		  <Rate value=".20" />
-		  <Type>Item</Type>
-		</Item>
-		<Item>
-		  <Name>CONSUMABLE_COCAINE_CHEWING_GUM_USED</Name>
 		  <Rate value=".00" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
+		  <Name>CONSUMABLE_COCAINE_CHEWING_GUM_USED</Name>
+		  <Rate value=".10" />
+		  <Type>Item</Type>
+		</Item>
+		<Item>
 		  <Name>CONSUMABLE_CHEWING_TOBACCO</Name>
-		  <Rate value=".20" />
+		  <Rate value=".00" />
 		  <RewardCondition ref="LOOTED_PED_IS_MALE" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CHEWING_TOBACCO_USED</Name>
-		  <Rate value=".00" />
+		  <Rate value=".10" />
 		  <RewardCondition ref="LOOTED_PED_IS_MALE" />
 		  <Type>Item</Type>
 		</Item>
@@ -1360,7 +1355,7 @@
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_SNAKE_OIL_USED</Name>
-		  <Rate value=".20" />
+		  <Rate value=".10" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -1376,15 +1371,14 @@
 		  <Type>Item</Type>
 		</Item>
 		<Item>
-		  <Name>CONSUMABLE_MOONSHINE</Name>
-		  <Rate value=".00" />
-		  <RewardCondition ref="LOOTED_PED_IS_MALE" />
+		  <Name>CONSUMABLE_CIGARETTE_BOX_CHEAP</Name>
+		  <Rate value=".10" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
-		  <Name>CONSUMABLE_CIGARETTE_BOX_CHEAP</Name>
-		  <Rate value=".20" />
-		  <Type>Item</Type>
+		  <Name>CHEAP_JEWELRY_ITEMS_PED</Name>
+		  <Rate value=".30" />
+		  <Type>Table</Type>
 		</Item>
 	 </Entries>
     </Item>
@@ -1439,34 +1433,29 @@
       <Entries>
 		<Item>
 		  <Name>EXPENSIVE_JEWELRY_ITEMS_PED</Name>
-		  <Rate value=".30" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>NORMAL_JEWELRY_ITEMS_PED</Name>
-		  <Rate value=".40" />
-		  <Type>Table</Type>
-		</Item>
-		<Item>
-		  <Name>POTENT_MEDS</Name>
-		  <Rate value=".10" />
+		  <Rate value=".50" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_BRANDY</Name>
-		  <Rate value=".05" />
+		  <Rate value=".10" />
 		  <RewardCondition ref="LOOTED_PED_IS_MALE" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CIGARETTE_BOX_USED</Name>
-		  <Rate value=".05" />
+		  <Rate value=".00" />
 		  <RewardCondition ref="LOOTED_PED_IS_MALE" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CIGAR</Name>
-		  <Rate value=".05" />
+		  <Rate value=".10" />
 		  <RewardCondition ref="LOOTED_PED_IS_MALE" />
 		  <Type>Item</Type>
 		</Item>
@@ -1483,7 +1472,7 @@
 		</Item>
 		<Item>
 		  <Name>SPECIAL_ITEM_HUMAN_ROBBERY_AFFLUENCE_POOR</Name>
-		  <Rate value=".25" />
+		  <Rate value=".50" />
 		  <Type>Table</Type>
 		</Item>
 	  </Entries>
@@ -1499,7 +1488,7 @@
 		</Item>
 		<Item>
 		  <Name>SPECIAL_ITEM_HUMAN_ROBBERY_AFFLUENCE_AVERAGE</Name>
-		  <Rate value=".35" />
+		  <Rate value=".50" />
 		  <Type>Table</Type>
 		</Item>
 	  </Entries>

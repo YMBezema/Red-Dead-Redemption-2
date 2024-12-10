@@ -1,58 +1,73 @@
-[13:52:6] [Core] ScriptHookRDR2 initializing...
-[13:52:13] [Core] Window -> found
-[13:52:13] [Core] Patterns -> scanning...
-[13:52:13] [Patterns] Found GAS
-[13:52:14] [Patterns] Found CSG
-[13:52:14] [Patterns] Found SMT
-[13:52:14] [Patterns] Found PPE
-[13:52:14] [Patterns] Found OPE
-[13:52:14] [Patterns] Found VPE
-[13:52:14] [Patterns] Found PUPE
-[13:52:14] [Patterns] Found BPE
-[13:52:14] [Patterns] Found VOCPE
-[13:52:14] [Patterns] Found VOBPE
-[13:52:14] [Patterns] Found VOSPE
-[13:52:14] [Patterns] Found CPE
-[13:52:14] [Patterns] Found CTI
-[13:52:14] [Patterns] Found RST
-[13:52:14] [Patterns] Found RSTU
-[13:52:14] [Patterns] Found STRR
-[13:52:14] [Patterns] Found CRPO
-[13:52:14] [Patterns] Found NCL
-[13:52:14] [Patterns] Found GLT
-[13:52:14] [Patterns] Found GEA
-[13:52:14] [Patterns] Found GSP
-[13:52:14] [Patterns] Found SIRP
-[13:52:14] [Patterns] Found RSGP
-[13:52:14] [Patterns] Found GRCDL
-[13:52:14] [Patterns] Found scripts_commands::CommandShutdownLoadingScreen
-[13:52:14] [Core] Patterns -> found
-[13:52:14] [Core] Waiting for Natives...
-[13:52:14] [Core] Natives -> registered
-[13:52:14] [Core] Hooks -> initializing
-[13:52:14] [Core] Hooks -> created
-[13:52:14] [Vulkan] Hooked!
-[13:54:23] [Scripts] Reloading Scripts due to save game load.
-[13:54:23] [Core] Unloading scripts -> finished
-[13:54:23] [Script] Bandit_Hideouts -> loaded
-[13:54:23] [Script] CampAnywhere -> loaded
-[13:54:23] [Script] CombatExperience -> loaded
-[13:54:23] [Script] CoresRegenOverTime1.0 -> loaded
-[13:54:23] [Script] CriticalHits -> loaded
-[13:54:23] [Script] DSX -> loaded
-[13:54:23] [Script] DumpThatCargo1.1 -> loaded
-[13:54:23] [Script] FastWalk -> loaded
-[13:54:23] [Script] GatlingWagons -> loaded
-[13:54:23] [Script] Hard -> loaded
-[13:54:23] [Script] horseHolster -> loaded
-[13:54:23] [Script] Injury -> loaded
-[13:54:23] [Script] LessMoney -> loaded
-[13:54:23] [Script] NoAutoReloadEver -> loaded
-[13:54:23] .\NoHitmarker.asi has no dependency, skipping!
-[13:54:23] [Script] NoHolstering -> loaded
-[13:54:23] [Script] Outfits -> loaded
-[13:54:23] [Script] PedDamageOverhaul -> loaded
-[13:54:23] [Script] Softer -> loaded
-[13:54:23] [Script] StashThatLantern2.8 -> loaded
-[13:54:23] [Script] TieYourLasso -> loaded
-[13:54:23] .\vfs.asi has no dependency, skipping!
+// RDR 2 SCRIPT HOOK (build Feb  9 2023, v1.0.1491.17)
+//     (C) Alexander Blade 2019-2023
+[12:06:22] INIT: Started
+[12:06:22] INIT: Success, game version is VER_AUTO
+[12:06:22] INIT: Registering script 'CampAnywhere.asi' (0x00007FFFF0D45100)
+[12:06:22] INIT: Registering script 'CombatExperience.asi' (0x00007FFFF05B5850)
+[12:06:22] INIT: Registering script 'CoresRegenOverTime1.0.asi' (0x00007FF80E8C14F0)
+[12:06:22] INIT: Registering script 'DSX.asi' (0x00007FFFEBC19BB0)
+[12:06:22] INIT: Registering script 'DumpThatCargo1.1.asi' (0x00007FF812651BC0)
+[12:06:22] INIT: Registering additional script thread 'DumpThatCargo1.1.asi' (0x00007FF812651000)
+[12:06:22] INIT: Registering script 'FastWalk.asi' (0x00007FF812601850)
+[12:06:22] INIT: Registering script 'GatlingWagons.asi' (0x00007FF804F91BD0)
+[12:06:22] INIT: Registering script 'Hard.asi' (0x00007FFFF98E1290)
+[12:06:22] INIT: Registering script 'horseHolster.asi' (0x00007FF8044D1230)
+[12:06:22] INIT: Registering script 'Injury.asi' (0x00007FFFF0CD4B00)
+[12:06:23] INIT: Registering script 'LessMoney.asi' (0x00007FF803C21470)
+[12:06:23] INIT: Registering script 'NoAutoReloadEver.asi' (0x00007FFFF9E6FB40)
+[12:06:23] INIT: Registering script 'NoHolstering.asi' (0x00007FFFFC281CE0)
+[12:06:23] INIT: Registering script 'Outfits.asi' (0x00007FFFFB5B1D00)
+[12:06:23] INIT: Registering script 'PedDamageOverhaul.asi' (0x00007FFFECEC21F0)
+[12:06:23] INIT: Registering script 'Softer.asi' (0x00007FFFF97F12B0)
+[12:06:23] INIT: Registering script 'StashThatLantern2.8.asi' (0x00007FFFFB181410)
+[12:06:23] INIT: Registering script 'TieYourLasso.asi' (0x00007FFFF6BA88C0)
+[12:06:26] INIT: Registering script '_Bandit_Hideouts.asi' (0x00007FFFDB314940)
+[12:06:26] INIT: Registering script '_CriticalHit.asi' (0x00007FFFF6A211B0)
+[12:06:38] INIT: Pool 1 extended
+[12:06:38] INIT: Pool 2 extended
+[12:06:38] INIT: Pool 3 extended
+[12:06:38] INIT: Pool 4 extended
+[12:07:36] CORE: Creating threads
+[12:07:36] CORE: Created 22 threads (including control)
+[12:07:36] CORE: Waiting to launch 'CampAnywhere.asi' (0x00007FFFF0D45100), id 31
+[12:07:36] CORE: Waiting to launch 'CombatExperience.asi' (0x00007FFFF05B5850), id 32
+[12:07:36] CORE: Waiting to launch 'CoresRegenOverTime1.0.asi' (0x00007FF80E8C14F0), id 33
+[12:07:36] CORE: Waiting to launch 'DSX.asi' (0x00007FFFEBC19BB0), id 34
+[12:07:36] CORE: Waiting to launch 'DumpThatCargo1.1.asi' (0x00007FF812651000), id 35
+[12:07:36] CORE: Waiting to launch 'DumpThatCargo1.1.asi' (0x00007FF812651BC0), id 36
+[12:07:36] CORE: Waiting to launch 'FastWalk.asi' (0x00007FF812601850), id 37
+[12:07:36] CORE: Waiting to launch 'GatlingWagons.asi' (0x00007FF804F91BD0), id 38
+[12:07:36] CORE: Waiting to launch 'Hard.asi' (0x00007FFFF98E1290), id 39
+[12:07:36] CORE: Waiting to launch 'horseHolster.asi' (0x00007FF8044D1230), id 40
+[12:07:36] CORE: Waiting to launch 'Injury.asi' (0x00007FFFF0CD4B00), id 41
+[12:07:36] CORE: Waiting to launch 'LessMoney.asi' (0x00007FF803C21470), id 42
+[12:07:36] CORE: Waiting to launch 'NoAutoReloadEver.asi' (0x00007FFFF9E6FB40), id 43
+[12:07:36] CORE: Waiting to launch 'NoHolstering.asi' (0x00007FFFFC281CE0), id 44
+[12:07:36] CORE: Waiting to launch 'Outfits.asi' (0x00007FFFFB5B1D00), id 45
+[12:07:36] CORE: Waiting to launch 'PedDamageOverhaul.asi' (0x00007FFFECEC21F0), id 46
+[12:07:36] CORE: Waiting to launch 'Softer.asi' (0x00007FFFF97F12B0), id 47
+[12:07:36] CORE: Waiting to launch 'StashThatLantern2.8.asi' (0x00007FFFFB181410), id 48
+[12:07:36] CORE: Waiting to launch 'TieYourLasso.asi' (0x00007FFFF6BA88C0), id 49
+[12:07:36] CORE: Waiting to launch '_Bandit_Hideouts.asi' (0x00007FFFDB314940), id 50
+[12:07:36] CORE: Waiting to launch '_CriticalHit.asi' (0x00007FFFF6A211B0), id 51
+[12:07:51] CORE: Launching main() for 'CampAnywhere.asi' (0x00007FFFF0D45100), id 31
+[12:07:51] CORE: Launching main() for 'CombatExperience.asi' (0x00007FFFF05B5850), id 32
+[12:07:51] CORE: Launching main() for 'CoresRegenOverTime1.0.asi' (0x00007FF80E8C14F0), id 33
+[12:07:51] CORE: Launching main() for 'DSX.asi' (0x00007FFFEBC19BB0), id 34
+[12:07:51] CORE: Launching main() for 'DumpThatCargo1.1.asi' (0x00007FF812651000), id 35
+[12:07:51] CORE: Launching main() for 'DumpThatCargo1.1.asi' (0x00007FF812651BC0), id 36
+[12:07:51] CORE: Launching main() for 'FastWalk.asi' (0x00007FF812601850), id 37
+[12:07:51] CORE: Launching main() for 'GatlingWagons.asi' (0x00007FF804F91BD0), id 38
+[12:07:51] CORE: Launching main() for 'Hard.asi' (0x00007FFFF98E1290), id 39
+[12:07:51] CORE: Launching main() for 'horseHolster.asi' (0x00007FF8044D1230), id 40
+[12:07:51] CORE: Launching main() for 'Injury.asi' (0x00007FFFF0CD4B00), id 41
+[12:07:51] CORE: Launching main() for 'LessMoney.asi' (0x00007FF803C21470), id 42
+[12:07:51] CORE: Launching main() for 'NoAutoReloadEver.asi' (0x00007FFFF9E6FB40), id 43
+[12:07:51] CORE: Launching main() for 'NoHolstering.asi' (0x00007FFFFC281CE0), id 44
+[12:07:51] CORE: Launching main() for 'Outfits.asi' (0x00007FFFFB5B1D00), id 45
+[12:07:51] CORE: Launching main() for 'PedDamageOverhaul.asi' (0x00007FFFECEC21F0), id 46
+[12:07:51] CORE: Launching main() for 'Softer.asi' (0x00007FFFF97F12B0), id 47
+[12:07:51] CORE: Launching main() for 'StashThatLantern2.8.asi' (0x00007FFFFB181410), id 48
+[12:07:51] CORE: Launching main() for 'TieYourLasso.asi' (0x00007FFFF6BA88C0), id 49
+[12:07:51] CORE: Launching main() for '_Bandit_Hideouts.asi' (0x00007FFFDB314940), id 50
+[12:07:51] CORE: Launching main() for '_CriticalHit.asi' (0x00007FFFF6A211B0), id 51

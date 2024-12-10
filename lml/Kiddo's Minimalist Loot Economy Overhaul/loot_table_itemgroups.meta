@@ -19,14 +19,14 @@
 	    <Item>
 		  <Name>AMMO_REVOLVER</Name>
 		  <Min value="2" />
-          <Max value="4" />
+          <Max value="5" />
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
 		<Item>
 		  <Name>AMMO_PISTOL</Name>
           <Min value="2" />
-          <Max value="4" />
+          <Max value="5" />
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
@@ -39,7 +39,7 @@
 	    <Item>
 		  <Name>AMMO_REVOLVER</Name>
 		  <Min value="2" />
-          <Max value="4" />
+          <Max value="5" />
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
@@ -52,21 +52,21 @@
 	    <Item>
 		  <Name>AMMO_RIFLE</Name>
 		  <Min value="2" />
-          <Max value="4" />
+          <Max value="5" />
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
 		<Item>
 		  <Name>AMMO_SHOTGUN</Name>
           <Min value="2" />
-          <Max value="4" />
+          <Max value="5" />
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
 		<Item>
 		  <Name>AMMO_REPEATER</Name>
           <Min value="2" />
-          <Max value="4" />
+          <Max value="5" />
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
@@ -78,7 +78,7 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_ARROW</Name>
-		  <Min value="2" />
+		  <Min value="1" />
           <Max value="3" />
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
@@ -150,7 +150,7 @@
 		  <Type>Table</Type>
 		</Item>
 		<Item>
-		  <Name>ALCOHOL_ITEMS_CHEAP</Name>
+		  <Name>ALCOHOL_ITEMS</Name>
 		  <Rate value=".05" />
 		  <Type>Table</Type>
 		</Item>
@@ -303,7 +303,7 @@
       <Entries>
 		<Item>
 		  <Name>PROVISION_RING_PLATINUM</Name>
-		  <Rate value=".15" />
+		  <Rate value=".05" />
           <Type>Item</Type>
 		</Item>
 		<Item>
@@ -345,7 +345,7 @@
 		</Item>
 		<Item>
 		  <Name>PROVISION_NECKLACE_GOLD</Name>
-		  <Rate value=".25" />
+		  <Rate value=".20" />
 		  <RewardCondition ref="LOOTED_PED_IS_FEMALE" />
           <Type>Item</Type>
 		</Item>
@@ -359,7 +359,7 @@
 		</Item>
 		<Item>
 		  <Name>PROVISION_BRACELET_GOLD</Name>
-		  <Rate value=".35" />
+		  <Rate value=".30" />
 		  <RewardCondition ref="LOOTED_PED_IS_FEMALE" />
           <Type>Item</Type>
 		</Item>
@@ -505,7 +505,7 @@
 		  <Name>PROVISION_EARRING_GOLD</Name>
 		  <Min value="1" />
           <Max value="2" />
-		  <Rate value=".10" />
+		  <Rate value=".15" />
 		  <RewardCondition ref="LOOTED_PED_IS_FEMALE" />
           <Type>Item</Type>
 		</Item>
@@ -541,7 +541,7 @@
 		</Item>
 	  	<Item>
 		  <Name>PROVISION_NECKLACE_SILVER</Name>
-		  <Rate value=".35" />
+		  <Rate value=".30" />
 		  <Type>Item</Type>
 		  <RewardCondition ref="LOOTED_PED_IS_FEMALE" />
 		</Item>
@@ -687,12 +687,12 @@
 		</Item>
 		<Item>
 		  <Name>PROVISION_RING_SILVER</Name>
-		  <Rate value=".30" />
+		  <Rate value=".25" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>PROVISION_GOLDRING</Name>
-		  <Rate value=".05" />
+		  <Rate value=".10" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -702,12 +702,12 @@
 		</Item>
 		<Item>
 		  <Name>PROVISION_BUCKLE_SILVER</Name>
-		  <Rate value=".35" />
+		  <Rate value=".30" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>PROVISION_BUCKLE_GOLD</Name>
-		  <Rate value=".05" />
+		  <Rate value=".10" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -796,7 +796,7 @@
 		</Item>
 	    <Item>
 		  <Name>CONSUMABLE_SNAKE_OIL_USED</Name>
-		  <Rate value=".60" />
+		  <Rate value=".55" />
           <Type>Item</Type>
 		</Item>
 		<Item>
@@ -806,7 +806,7 @@
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_RESTORATIVE_USED</Name>
-		  <Rate value=".15" />
+		  <Rate value=".05" />
           <Type>Item</Type>
 		</Item>
 	    <Item>
@@ -817,7 +817,7 @@
 		</Item>
 	    <Item>
 		  <Name>CONSUMABLE_CHEWING_TOBACCO_USED</Name>
-		  <Rate value=".00" />
+		  <Rate value=".10" />
 		  <RewardCondition ref="LOOTED_PED_IS_MALE" />
           <Type>Item</Type>
 		</Item>
@@ -1024,12 +1024,12 @@
 		  <Type>Item</Type>
 		</Item>
 		<Item>
-		  <Name>CONSUMABLE_CIGARETTE_BOX_CHEAP</Name>
+		  <Name>CONSUMABLE_CIGARETTE_BOX_CHEAP_USED</Name>
 		  <Rate value=".50" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
-		  <Name>CONSUMABLE_CHEWING_TOBACCO</Name>
+		  <Name>CONSUMABLE_CHEWING_TOBACCO_USED</Name>
 		  <Rate value=".25" />
 		  <Type>Item</Type>
 		</Item>
@@ -1091,17 +1091,17 @@
 		  <Name>CONSUMABLE_CIGARETTE_BOX_CHEAP_USED</Name>
 		  <Min value="1" />
           <Max value="1" />
-		  <Rate value=".40" />
+		  <Rate value=".30" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CIGAR</Name>
-		  <Rate value=".10" />
+		  <Rate value=".30" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CHEWING_TOBACCO_USED</Name>
-		  <Rate value=".10" />
+		  <Rate value=".00" />
 		  <Type>Item</Type>
 		</Item>
 	    <Item>
@@ -1559,7 +1559,7 @@
 		  <Name>CONSUMABLE_HERB_CURRANT</Name>
 		  <Min value="1"/>
           <Max value="1"/>
-		  <Rate value=".10" />
+		  <Rate value=".15" />
           <Type>Collectible</Type>
 		</Item>
 	  	<Item>
@@ -1580,7 +1580,8 @@
 		  <Name>CONSUMABLE_HERB_SAGE</Name>
 		  <Min value="1"/>
           <Max value="1"/>
-		  <Rate value=".15" />
+		  <Rate value=".10" />
+		  <RewardCondition ref="AT_BGV_OR_CML_GRZ_ROA_SCM" />
           <Type>Collectible</Type>
 		</Item>
 	  	<Item>
@@ -1595,6 +1596,7 @@
 		  <Min value="1"/>
           <Max value="1"/>
 		  <Rate value=".10" />
+		  <RewardCondition ref="AT_BGV_OR_CML_HRT_SCM" />
           <Type>Collectible</Type>
 		</Item>
 	  	<Item>
@@ -1609,6 +1611,7 @@
 		  <Min value="1"/>	
           <Max value="1"/>
 		  <Rate value=".10" />
+		  <RewardCondition ref="AT_BGV_OR_HRT_SCM" />
           <Type>Collectible</Type>
 		</Item>
 	 </Entries>
@@ -1741,7 +1744,7 @@
 	    <Item>
 		  <Name>AMMO_REVOLVER</Name>
 		  <Min value="2"/>
-          <Max value="10"/>
+          <Max value="5"/>
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
@@ -1766,8 +1769,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_REVOLVER_HIGH_VELOCITY</Name>
-		  <Min value="10"/>
-          <Max value="10"/>
+		  <Min value="20"/>
+          <Max value="20"/>
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
@@ -1793,7 +1796,7 @@
 	    <Item>
 		  <Name>AMMO_PISTOL</Name>
 		  <Min value="2"/>
-          <Max value="10"/>
+          <Max value="5"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1805,8 +1808,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_PISTOL_EXPRESS</Name>
-		  <Min value="10"/>
-          <Max value="10"/>
+		  <Min value="20"/>
+          <Max value="20"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1818,8 +1821,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_PISTOL_HIGH_VELOCITY</Name>
-		  <Min value="10"/>
-          <Max value="10"/>
+		  <Min value="20"/>
+          <Max value="20"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1831,8 +1834,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_RIFLE</Name>
-		  <Min value="20"/>
-          <Max value="20"/>
+		  <Min value="10"/>
+          <Max value="10"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1845,7 +1848,7 @@
 	    <Item>
 		  <Name>AMMO_RIFLE</Name>
 		  <Min value="2"/>
-          <Max value="10"/>
+          <Max value="5"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1897,7 +1900,7 @@
 	    <Item>
 		  <Name>AMMO_REPEATER</Name>
 		  <Min value="2"/>
-          <Max value="10"/>
+          <Max value="5"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1909,8 +1912,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_REPEATER_EXPRESS</Name>
-		  <Min value="10"/>
-          <Max value="10"/>
+		  <Min value="20"/>
+          <Max value="20"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1922,8 +1925,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_REPEATER_HIGH_VELOCITY</Name>
-		  <Min value="10"/>
-          <Max value="10"/>
+		  <Min value="20"/>
+          <Max value="20"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1935,8 +1938,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_SHOTGUN</Name>
-		  <Min value="18"/>
-          <Max value="18"/>
+		  <Min value="10"/>
+          <Max value="10"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1949,7 +1952,7 @@
 	    <Item>
 		  <Name>AMMO_SHOTGUN</Name>
 		  <Min value="2"/>
-          <Max value="10"/>
+          <Max value="5"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>

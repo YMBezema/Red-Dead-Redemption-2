@@ -1,11 +1,14 @@
 <EasyInstall>
-    <Name>Kiddo's Minimalist Loot Economy Overhaul 1.71</Name>
+    <Name>Kiddo's Minimalist Loot Economy Overhaul 1.72</Name>
     <Author>JackKiddArt</Author>
-    <Version>1.71</Version>
+    <Version>1.72</Version>
     <Link></Link>
     <Metadata>
     </Metadata>
     <Resources>
+		<Resource>
+			<DataFile>strings.gxt2</DataFile>
+		</Resource>
         <Resource>
             <FileReplacement>
                 <GamePath>platform:/data/itemdatabase/catalog_sp.ymt</GamePath>
@@ -40,5 +43,6 @@
                 <FilePath>loot_table_container.meta</FilePath>
             </FileReplacement>
         </Resource>
+		
     </Resources>
 </EasyInstall>
