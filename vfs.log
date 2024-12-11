@@ -1,378 +1,475 @@
-2024-12-10 12:06:26 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:116: Log initialized
-2024-12-10 12:06:26 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:117: Lenny's Mod Loader Beta Test Version 0.6.8470.31280 - Compiled on Mar 11 2023 17:22:44
-2024-12-10 12:06:26 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:122: Running RDR2
-2024-12-10 12:06:26 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:97: Game File Version: 1.0.1491.50
-2024-12-10 12:06:26 INFO  D:\GTA V\vfs\vfs\vfs\Hooking\Hooking.cpp:44: Found hooking memory at 7ff76d610000
-2024-12-10 12:06:26 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:147: HookFunction::RunAll(): done
-2024-12-10 12:06:26 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:132: Init done
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/serve spoon fix/stream/scenario@amb_camp@prop_camp_player_serve_stew_ground@player@pl.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text fbd68bce
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f6dfd981
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text e14435dc
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 64356159
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 4970588d
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 83c5e860
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 1aadb2c9
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 44108fca
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 35d0ebb0
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 743d4f54
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 31e2ad5b
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text abd96830
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text b6f13f6b
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text be9b6e42
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 1b977235
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text b0b80b9a
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text dd871dc8
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text dcbe210
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 41035d44
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text e2d03d88
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f7465d7d
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text d05319f
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 62a11a4b
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 6ecb67f9
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 5b4e4710
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 21dcedb2
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 90083d3b
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 12c60041
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text d3d81d5a
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 7df4d025
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text e3750b47
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f501ba1d
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text c3b3e31
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 5465ee1a
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text a15e75e3
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f373af0a
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 9e810871
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 38163638
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 240ffbba
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 5580d7af
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 4e2361ef
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 9ad94a34
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text abfa77f9
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f53b62d3
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 72466f07
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text aa9b2514
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text a24c462c
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 8641c9de
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text ff5cf597
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f45365ae
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text edff6c96
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 52955c67
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 3badcf7e
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 52f3f7f2
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_int.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs1.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs2.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig1_spot_wagon@ig1_spot_wagon.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig4_leave_road@ig4_leave_road.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/this is for the an honest mistake mission.txt to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/john has proper facial animations now.txt to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_annesburg.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_blackwater.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_rhodes.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_strawberry.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_st_denis.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_tumbleweed.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_valentine.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_vanhorn.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/chopping wood fix/scenario@amb_work@prop_human_wood_chop@pre_chop@base.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/chopping wood fix/this prevents the hat from changing orientation before every swing.txt to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/brings the concave climb exit animations from online to story mode.txt to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/literally nothing.txt to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle.ycd to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle@fidgets.ycd to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle.ycd to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle@fidgets.ycd to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@inquisitive@idle.ycd to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle.ycd to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle@fidgets.ycd to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/poker face fix/script@rcm@chrb@leadin@rc1@ilo_leadin.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/poker face fix/this is for the friends in very low places mission.txt to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/restores idle animations when standing in deep water.txt to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/@mech_loco_m@generic@intimidate@unarmed.ypm to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/this restores some intimidate animations.txt to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/mech_skin@javelina_skin.yas to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/restores missing skinning sounds for collared peccary pigs.txt to queue
-2024-12-10 12:06:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/unknown error ffffffff fix 3.1/gameconfig.xml
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/serve spoon fix/stream/scenario@amb_camp@prop_camp_player_serve_stew_ground@player@pl.yas as possible streaming replacement for scenario@amb_camp@prop_camp_player_serve_stew_ground@player@pl.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_int.yas as possible streaming replacement for cutscene@crn1_int.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs1.yas as possible streaming replacement for cutscene@crn1_mcs1.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs2.yas as possible streaming replacement for cutscene@crn1_mcs2.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig1_spot_wagon@ig1_spot_wagon.yas as possible streaming replacement for script@story@crn1@ig@ig1_spot_wagon@ig1_spot_wagon.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig4_leave_road@ig4_leave_road.yas as possible streaming replacement for script@story@crn1@ig@ig4_leave_road@ig4_leave_road.yas
-2024-12-10 12:06:35 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/this is for the an honest mistake mission.txt
-2024-12-10 12:06:35 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/john has proper facial animations now.txt
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_annesburg.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_annesburg.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_blackwater.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_blackwater.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_rhodes.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_rhodes.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_strawberry.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_strawberry.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_st_denis.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_st_denis.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_tumbleweed.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_tumbleweed.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_valentine.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_valentine.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_vanhorn.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_vanhorn.yas
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/chopping wood fix/scenario@amb_work@prop_human_wood_chop@pre_chop@base.yas as possible streaming replacement for scenario@amb_work@prop_human_wood_chop@pre_chop@base.yas
-2024-12-10 12:06:35 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/chopping wood fix/this prevents the hat from changing orientation before every swing.txt
-2024-12-10 12:06:35 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/brings the concave climb exit animations from online to story mode.txt
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd as possible streaming replacement for mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd
-2024-12-10 12:06:35 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/literally nothing.txt
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle.ycd as possible streaming replacement for mech_loco_m@type@mp@easy_rider@idle.ycd
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle@fidgets.ycd as possible streaming replacement for mech_loco_m@type@mp@easy_rider@idle@fidgets.ycd
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle.ycd as possible streaming replacement for mech_loco_m@type@mp@greenhorn@idle.ycd
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle@fidgets.ycd as possible streaming replacement for mech_loco_m@type@mp@greenhorn@idle@fidgets.ycd
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@inquisitive@idle.ycd as possible streaming replacement for mech_loco_m@type@mp@inquisitive@idle.ycd
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle.ycd as possible streaming replacement for mech_loco_m@type@mp@veteran@idle.ycd
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle@fidgets.ycd as possible streaming replacement for mech_loco_m@type@mp@veteran@idle@fidgets.ycd
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/poker face fix/script@rcm@chrb@leadin@rc1@ilo_leadin.yas as possible streaming replacement for script@rcm@chrb@leadin@rc1@ilo_leadin.yas
-2024-12-10 12:06:35 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/poker face fix/this is for the friends in very low places mission.txt
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd as possible streaming replacement for mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd
-2024-12-10 12:06:35 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/restores idle animations when standing in deep water.txt
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/@mech_loco_m@generic@intimidate@unarmed.ypm as possible streaming replacement for @mech_loco_m@generic@intimidate@unarmed.ypm
-2024-12-10 12:06:35 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/this restores some intimidate animations.txt
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/mech_skin@javelina_skin.yas as possible streaming replacement for mech_skin@javelina_skin.yas
-2024-12-10 12:06:35 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/restores missing skinning sounds for collared peccary pigs.txt
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/gamepad_icons_pc.ytd
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/pm_settings_controls.ytd
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/widgets/filter.ymt
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/screens/landing_sp.ymt
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/flow/landing_launcher_flow.ymt
-2024-12-10 12:06:35 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/content.xml
-2024-12-10 12:06:37 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/clip_sets.ymt
-2024-12-10 12:06:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/catalog_sp.ymt
-2024-12-10 12:06:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/ambientpedmodelsets.meta
-2024-12-10 12:06:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/lootconfigdata.meta
-2024-12-10 12:06:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_items_matrix.meta
-2024-12-10 12:06:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_reward.meta
-2024-12-10 12:06:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_ped.meta
-2024-12-10 12:06:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_itemgroups.meta
-2024-12-10 12:06:38 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/facial_clipset_groups.xml
-2024-12-10 12:06:39 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/gun_metal_rework/pbrweaponsurfaces.ymt
-2024-12-10 12:06:39 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/pdo v2.0 extended features/pdodr/physicstasks.ymt
-2024-12-10 12:06:39 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/bodyblendtemplates.ymt
-2024-12-10 12:06:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred.xml
-2024-12-10 12:06:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_fat.xml
-2024-12-10 12:06:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_short.xml
-2024-12-10 12:06:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_skinny.xml
-2024-12-10 12:06:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_very_large.xml
-2024-12-10 12:06:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_very_small.xml
-2024-12-10 12:06:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/wilma.xml
-2024-12-10 12:06:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/projdecal.ymt
-2024-12-10 12:06:40 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/disable enemy radar/blipdata.ymt
-2024-12-10 12:07:03 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/strafeanimations.meta
-2024-12-10 12:07:03 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/aimupperbodydata.meta
-2024-12-10 12:07:03 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/crimeinformation.meta
-2024-12-10 12:07:03 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/pedgesturesettings.meta
-2024-12-10 12:07:03 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/taskdata.meta
-2024-12-10 12:07:03 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pedperception.meta
-2024-12-10 12:07:03 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxaniminfo.ymt
-2024-12-10 12:07:03 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxpedinfo.ymt
-2024-12-10 12:07:03 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/pm_settings_controls.ytd
-2024-12-10 12:07:03 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/hideonlinebutton/data/ui/screens/0xa900038b.ymt
-2024-12-10 12:07:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs2.yas as cutscene@crn1_mcs2.yas with 41592
-2024-12-10 12:07:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_int.yas as cutscene@crn1_int.yas with 41593
-2024-12-10 12:07:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs1.yas as cutscene@crn1_mcs1.yas with 41594
-2024-12-10 12:07:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/mech_skin@javelina_skin.yas as mech_skin@javelina_skin.yas with 41924
-2024-12-10 12:07:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/serve spoon fix/stream/scenario@amb_camp@prop_camp_player_serve_stew_ground@player@pl.yas as scenario@amb_camp@prop_camp_player_serve_stew_ground@player@pl.yas with 41956
-2024-12-10 12:07:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/chopping wood fix/scenario@amb_work@prop_human_wood_chop@pre_chop@base.yas as scenario@amb_work@prop_human_wood_chop@pre_chop@base.yas with 41a27
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_valentine.yas as script@mini_game@bathing@bathing_intro_outro_valentine.yas with 42128
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_annesburg.yas as script@mini_game@bathing@bathing_intro_outro_annesburg.yas with 4212b
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_tumbleweed.yas as script@mini_game@bathing@bathing_intro_outro_tumbleweed.yas with 42133
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_strawberry.yas as script@mini_game@bathing@bathing_intro_outro_strawberry.yas with 4213f
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_blackwater.yas as script@mini_game@bathing@bathing_intro_outro_blackwater.yas with 42140
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_st_denis.yas as script@mini_game@bathing@bathing_intro_outro_st_denis.yas with 42142
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_vanhorn.yas as script@mini_game@bathing@bathing_intro_outro_vanhorn.yas with 42152
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_rhodes.yas as script@mini_game@bathing@bathing_intro_outro_rhodes.yas with 42155
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/poker face fix/script@rcm@chrb@leadin@rc1@ilo_leadin.yas as script@rcm@chrb@leadin@rc1@ilo_leadin.yas with 4284d
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig4_leave_road@ig4_leave_road.yas as script@story@crn1@ig@ig4_leave_road@ig4_leave_road.yas with 42a3b
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig1_spot_wagon@ig1_spot_wagon.yas as script@story@crn1@ig@ig1_spot_wagon@ig1_spot_wagon.yas with 42bd5
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd as mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd with 4da4f
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd as mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd with 4fd9c
-2024-12-10 12:07:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/@mech_loco_m@generic@intimidate@unarmed.ypm as @mech_loco_m@generic@intimidate@unarmed.ypm with 53aea
-2024-12-10 12:07:08 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/metapeds.ymt
-2024-12-10 12:07:09 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/mech_skin@javelina_skin.yas as mech_skin@javelina_skin.yas with 41924
-2024-12-10 12:07:09 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/@mech_loco_m@generic@intimidate@unarmed.ypm as @mech_loco_m@generic@intimidate@unarmed.ypm with 53aea
-2024-12-10 12:07:10 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd as mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd with 4da4f
-2024-12-10 12:07:10 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/@mech_loco_m@generic@intimidate@unarmed.ypm as @mech_loco_m@generic@intimidate@unarmed.ypm with 53aea
-2024-12-10 12:07:10 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd as mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd with 4fd9c
-2024-12-10 12:07:12 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/conditions.ymt
-2024-12-10 12:07:12 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/conditions.ymt
-2024-12-10 12:07:12 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/motions.ymt
-2024-12-10 12:07:12 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/motions.ymt
-2024-12-10 12:07:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/motiontypes.ymt
-2024-12-10 12:07:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/motiontypes.ymt
-2024-12-10 12:07:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/human_male.ymt
-2024-12-10 12:07:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/human_male.ymt
-2024-12-10 12:07:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/human_male_upper.ymt
-2024-12-10 12:07:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/human_male_upper.ymt
-2024-12-10 12:07:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/human_character.ymt
-2024-12-10 12:07:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/human_character.ymt
-2024-12-10 12:07:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/human_character_upper.ymt
-2024-12-10 12:07:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/human_character_upper.ymt
-2024-12-10 12:07:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxbloodinfo.ymt
-2024-12-10 12:07:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/aimposedata.meta
-2024-12-10 12:07:15 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/ped accuracy fix low enemy accuracy/pedaccuracy.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/decalinfo.ymt
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/dispatch.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bayounwa.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bigvalley.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bluegillmarsh.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bountyhunters.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cumberlandforest.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplains.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplainsmaingame.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/grizzlies.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/heartlands.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmap.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmapmaingame.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/roanokeridge.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/scarlettmeadows.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltrees.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltreesmaingame.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/annesburg.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwater.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwatermaingame.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodes.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodeslockdown.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenis.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenisrural.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/strawberry.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/tumbleweed.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentine.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinelockdown.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinejailbreak.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/beechershope.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/braithwaitemanor.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/caligahall.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cornwall.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/emeraldranch.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/fortwallace.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/lagras.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/macfarlanesranch.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapost.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapostmaingame.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pronghornranch.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/ridgewoodfarm.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/thieveslandingmaingame.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/trainrobbery.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/default.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/cowboy.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/gang.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/injured.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapons.ymt
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/003_weaponcomponents.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents_1899.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_doubleaction_gambler.ymt
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_repeater_evans.ymt
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_lemat.ymt
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_pistol_m1899.ymt
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/loadouts.meta
-2024-12-10 12:07:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/combatbehaviour.meta
-2024-12-10 12:07:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/damagecleanlinessdata.meta
-2024-12-10 12:07:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
-2024-12-10 12:07:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
-2024-12-10 12:07:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
-2024-12-10 12:07:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
-2024-12-10 12:07:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
-2024-12-10 12:07:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
-2024-12-10 12:07:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
-2024-12-10 12:07:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd as mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd with 4fd9c
-2024-12-10 12:07:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_navy.ymt
-2024-12-10 12:07:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
-2024-12-10 12:07:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@inquisitive@idle.ycd as mech_loco_m@type@mp@inquisitive@idle.ycd with 513dd
-2024-12-10 12:07:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_rifle_elephant.ymt
-2024-12-10 12:07:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
-2024-12-10 12:07:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
-2024-12-10 12:07:19 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle.ycd as mech_loco_m@type@mp@easy_rider@idle.ycd with 514f4
-2024-12-10 12:07:19 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle@fidgets.ycd as mech_loco_m@type@mp@easy_rider@idle@fidgets.ycd with 514f5
-2024-12-10 12:07:19 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle.ycd as mech_loco_m@type@mp@greenhorn@idle.ycd with 514f6
-2024-12-10 12:07:19 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle@fidgets.ycd as mech_loco_m@type@mp@greenhorn@idle@fidgets.ycd with 514f7
-2024-12-10 12:07:19 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle.ycd as mech_loco_m@type@mp@veteran@idle.ycd with 514f8
-2024-12-10 12:07:19 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle@fidgets.ycd as mech_loco_m@type@mp@veteran@idle@fidgets.ycd with 514f9
-2024-12-10 12:07:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/default.meta
-2024-12-10 12:07:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/cowboy.meta
-2024-12-10 12:07:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/gang.meta
-2024-12-10 12:07:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/injured.meta
-2024-12-10 12:07:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
-2024-12-10 12:07:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
-2024-12-10 12:07:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
-2024-12-10 12:07:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
-2024-12-10 12:07:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
-2024-12-10 12:07:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
-2024-12-10 12:07:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
-2024-12-10 12:07:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
-2024-12-10 12:07:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
-2024-12-10 12:07:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/decalinfo.ymt
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/dispatch.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bayounwa.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bigvalley.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bluegillmarsh.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bountyhunters.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cumberlandforest.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplains.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplainsmaingame.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/grizzlies.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/heartlands.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmap.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmapmaingame.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/roanokeridge.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/scarlettmeadows.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltrees.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltreesmaingame.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/annesburg.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwater.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwatermaingame.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodes.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodeslockdown.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenis.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenisrural.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/strawberry.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/tumbleweed.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentine.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinelockdown.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinejailbreak.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/beechershope.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/braithwaitemanor.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/caligahall.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cornwall.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/emeraldranch.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/fortwallace.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/lagras.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/macfarlanesranch.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapost.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapostmaingame.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pronghornranch.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/ridgewoodfarm.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/thieveslandingmaingame.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/trainrobbery.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/default.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/cowboy.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/gang.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/injured.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapons.ymt
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/003_weaponcomponents.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents_1899.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_doubleaction_gambler.ymt
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_repeater_evans.ymt
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_lemat.ymt
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_pistol_m1899.ymt
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/loadouts.meta
-2024-12-10 12:07:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/combatbehaviour.meta
-2024-12-10 12:07:30 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/damagecleanlinessdata.meta
-2024-12-10 12:07:30 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
-2024-12-10 12:07:30 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
-2024-12-10 12:07:30 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
-2024-12-10 12:07:30 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
-2024-12-10 12:07:30 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
-2024-12-10 12:07:30 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
-2024-12-10 12:07:30 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
-2024-12-10 12:07:31 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd as mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd with 4fd9c
-2024-12-10 12:07:31 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_navy.ymt
-2024-12-10 12:07:31 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
-2024-12-10 12:07:31 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@inquisitive@idle.ycd as mech_loco_m@type@mp@inquisitive@idle.ycd with 513dd
-2024-12-10 12:07:31 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_rifle_elephant.ymt
-2024-12-10 12:07:31 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
-2024-12-10 12:07:31 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
+2024-12-11 12:48:39 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:116: Log initialized
+2024-12-11 12:48:39 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:117: Lenny's Mod Loader Beta Test Version 0.6.8470.31280 - Compiled on Mar 11 2023 17:22:44
+2024-12-11 12:48:39 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:122: Running RDR2
+2024-12-11 12:48:39 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:97: Game File Version: 1.0.1491.50
+2024-12-11 12:48:39 INFO  D:\GTA V\vfs\vfs\vfs\Hooking\Hooking.cpp:44: Found hooking memory at 7ff787ad0000
+2024-12-11 12:48:39 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:147: HookFunction::RunAll(): done
+2024-12-11 12:48:39 INFO  D:\GTA V\vfs\vfs\vfs\LoaderMain.cpp:132: Init done
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/serve spoon fix/stream/scenario@amb_camp@prop_camp_player_serve_stew_ground@player@pl.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text fbd68bce
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f6dfd981
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text e14435dc
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 64356159
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 4970588d
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 83c5e860
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 1aadb2c9
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 44108fca
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 35d0ebb0
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 743d4f54
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 31e2ad5b
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text abd96830
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text b6f13f6b
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text be9b6e42
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 1b977235
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text b0b80b9a
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text dd871dc8
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text dcbe210
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 41035d44
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text e2d03d88
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f7465d7d
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text d05319f
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 62a11a4b
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 6ecb67f9
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 5b4e4710
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 21dcedb2
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 90083d3b
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 12c60041
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text d3d81d5a
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 7df4d025
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 37cb2f19
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text b7ffe4e4
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 89f2217b
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 6a331861
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text ad1a4512
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 96fae151
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 6e45b597
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 72e23d48
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text af4f9a3d
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 9dbe8231
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 7acce76e
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text abfa77f9
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f53b62d3
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 72466f07
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text aa9b2514
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text a24c462c
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 8641c9de
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text ff5cf597
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f45365ae
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text edff6c96
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 52955c67
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 3badcf7e
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 52f3f7f2
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text e3750b47
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f501ba1d
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text c3b3e31
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 5465ee1a
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text a15e75e3
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text f373af0a
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 9e810871
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 38163638
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 240ffbba
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 5580d7af
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 4e2361ef
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StringReplace.h:38: Added new text 9ad94a34
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_int.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs1.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs2.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig1_spot_wagon@ig1_spot_wagon.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig4_leave_road@ig4_leave_road.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/this is for the an honest mistake mission.txt to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/john has proper facial animations now.txt to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_annesburg.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_blackwater.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_rhodes.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_strawberry.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_st_denis.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_tumbleweed.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_valentine.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_vanhorn.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/chopping wood fix/scenario@amb_work@prop_human_wood_chop@pre_chop@base.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/chopping wood fix/this prevents the hat from changing orientation before every swing.txt to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/brings the concave climb exit animations from online to story mode.txt to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/literally nothing.txt to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle.ycd to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle@fidgets.ycd to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle.ycd to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle@fidgets.ycd to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@inquisitive@idle.ycd to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle.ycd to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle@fidgets.ycd to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/poker face fix/script@rcm@chrb@leadin@rc1@ilo_leadin.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/poker face fix/this is for the friends in very low places mission.txt to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/restores idle animations when standing in deep water.txt to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/@mech_loco_m@generic@intimidate@unarmed.ypm to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/this restores some intimidate animations.txt to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/mech_skin@javelina_skin.yas to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:343: Adding addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/restores missing skinning sounds for collared peccary pigs.txt to queue
+2024-12-11 12:48:41 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/unknown error ffffffff fix 3.1/gameconfig.xml
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/serve spoon fix/stream/scenario@amb_camp@prop_camp_player_serve_stew_ground@player@pl.yas as possible streaming replacement for scenario@amb_camp@prop_camp_player_serve_stew_ground@player@pl.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_int.yas as possible streaming replacement for cutscene@crn1_int.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs1.yas as possible streaming replacement for cutscene@crn1_mcs1.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs2.yas as possible streaming replacement for cutscene@crn1_mcs2.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig1_spot_wagon@ig1_spot_wagon.yas as possible streaming replacement for script@story@crn1@ig@ig1_spot_wagon@ig1_spot_wagon.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig4_leave_road@ig4_leave_road.yas as possible streaming replacement for script@story@crn1@ig@ig4_leave_road@ig4_leave_road.yas
+2024-12-11 12:48:52 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/this is for the an honest mistake mission.txt
+2024-12-11 12:48:52 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/john has proper facial animations now.txt
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_annesburg.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_annesburg.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_blackwater.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_blackwater.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_rhodes.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_rhodes.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_strawberry.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_strawberry.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_st_denis.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_st_denis.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_tumbleweed.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_tumbleweed.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_valentine.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_valentine.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_vanhorn.yas as possible streaming replacement for script@mini_game@bathing@bathing_intro_outro_vanhorn.yas
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/chopping wood fix/scenario@amb_work@prop_human_wood_chop@pre_chop@base.yas as possible streaming replacement for scenario@amb_work@prop_human_wood_chop@pre_chop@base.yas
+2024-12-11 12:48:52 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/chopping wood fix/this prevents the hat from changing orientation before every swing.txt
+2024-12-11 12:48:52 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/brings the concave climb exit animations from online to story mode.txt
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd as possible streaming replacement for mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd
+2024-12-11 12:48:52 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/literally nothing.txt
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle.ycd as possible streaming replacement for mech_loco_m@type@mp@easy_rider@idle.ycd
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle@fidgets.ycd as possible streaming replacement for mech_loco_m@type@mp@easy_rider@idle@fidgets.ycd
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle.ycd as possible streaming replacement for mech_loco_m@type@mp@greenhorn@idle.ycd
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle@fidgets.ycd as possible streaming replacement for mech_loco_m@type@mp@greenhorn@idle@fidgets.ycd
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@inquisitive@idle.ycd as possible streaming replacement for mech_loco_m@type@mp@inquisitive@idle.ycd
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle.ycd as possible streaming replacement for mech_loco_m@type@mp@veteran@idle.ycd
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle@fidgets.ycd as possible streaming replacement for mech_loco_m@type@mp@veteran@idle@fidgets.ycd
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/poker face fix/script@rcm@chrb@leadin@rc1@ilo_leadin.yas as possible streaming replacement for script@rcm@chrb@leadin@rc1@ilo_leadin.yas
+2024-12-11 12:48:52 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/poker face fix/this is for the friends in very low places mission.txt
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd as possible streaming replacement for mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd
+2024-12-11 12:48:52 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/restores idle animations when standing in deep water.txt
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/@mech_loco_m@generic@intimidate@unarmed.ypm as possible streaming replacement for @mech_loco_m@generic@intimidate@unarmed.ypm
+2024-12-11 12:48:52 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/this restores some intimidate animations.txt
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:319: Added addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/mech_skin@javelina_skin.yas as possible streaming replacement for mech_skin@javelina_skin.yas
+2024-12-11 12:48:52 WARN  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:255: Failed to find strStreamingModule for addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/restores missing skinning sounds for collared peccary pigs.txt
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/gamepad_icons_pc.ytd
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/pm_settings_controls.ytd
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/widgets/filter.ymt
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/screens/landing_sp.ymt
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/replace/update/x64/data/ui/startup_data/landing_page/flow/landing_launcher_flow.ymt
+2024-12-11 12:48:52 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/content.xml
+2024-12-11 12:48:54 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/clip_sets.ymt
+2024-12-11 12:48:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/catalog_sp.ymt
+2024-12-11 12:48:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/ambientpedmodelsets.meta
+2024-12-11 12:48:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/lootconfigdata.meta
+2024-12-11 12:48:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_items_matrix.meta
+2024-12-11 12:48:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_reward.meta
+2024-12-11 12:48:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_ped.meta
+2024-12-11 12:48:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/loot_table_itemgroups.meta
+2024-12-11 12:48:55 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/facial_clipset_groups.xml
+2024-12-11 12:48:56 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/gun_metal_rework/pbrweaponsurfaces.ymt
+2024-12-11 12:48:56 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/pdo v2.0 extended features/pdodr/physicstasks.ymt
+2024-12-11 12:48:56 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/bodyblendtemplates.ymt
+2024-12-11 12:48:57 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred.xml
+2024-12-11 12:48:57 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_fat.xml
+2024-12-11 12:48:57 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_short.xml
+2024-12-11 12:48:57 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_skinny.xml
+2024-12-11 12:48:57 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_very_large.xml
+2024-12-11 12:48:57 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/fred_very_small.xml
+2024-12-11 12:48:57 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/wilma.xml
+2024-12-11 12:48:57 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/projdecal.ymt
+2024-12-11 12:48:57 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/disable enemy radar/blipdata.ymt
+2024-12-11 13:01:01 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/strafeanimations.meta
+2024-12-11 13:01:01 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/aimupperbodydata.meta
+2024-12-11 13:01:01 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/crimeinformation.meta
+2024-12-11 13:01:01 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/pedgesturesettings.meta
+2024-12-11 13:01:01 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/w.e.r.o (default reaction time (1.2 seconds))/taskdata.meta
+2024-12-11 13:01:01 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pedperception.meta
+2024-12-11 13:01:01 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxaniminfo.ymt
+2024-12-11 13:01:01 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxpedinfo.ymt
+2024-12-11 13:01:01 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/ps buttons dualsense/data/pm_settings_controls.ytd
+2024-12-11 13:01:01 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:583: Replaced file from archive addonDLC:/hideonlinebutton/data/ui/screens/0xa900038b.ymt
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs2.yas as cutscene@crn1_mcs2.yas with 41592
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_int.yas as cutscene@crn1_int.yas with 41593
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/cutscene@crn1_mcs1.yas as cutscene@crn1_mcs1.yas with 41594
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/mech_skin@javelina_skin.yas as mech_skin@javelina_skin.yas with 41924
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/serve spoon fix/stream/scenario@amb_camp@prop_camp_player_serve_stew_ground@player@pl.yas as scenario@amb_camp@prop_camp_player_serve_stew_ground@player@pl.yas with 41956
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/chopping wood fix/scenario@amb_work@prop_human_wood_chop@pre_chop@base.yas as scenario@amb_work@prop_human_wood_chop@pre_chop@base.yas with 41a27
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_valentine.yas as script@mini_game@bathing@bathing_intro_outro_valentine.yas with 42128
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_annesburg.yas as script@mini_game@bathing@bathing_intro_outro_annesburg.yas with 4212b
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_tumbleweed.yas as script@mini_game@bathing@bathing_intro_outro_tumbleweed.yas with 42133
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_strawberry.yas as script@mini_game@bathing@bathing_intro_outro_strawberry.yas with 4213f
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_blackwater.yas as script@mini_game@bathing@bathing_intro_outro_blackwater.yas with 42140
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_st_denis.yas as script@mini_game@bathing@bathing_intro_outro_st_denis.yas with 42142
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_vanhorn.yas as script@mini_game@bathing@bathing_intro_outro_vanhorn.yas with 42152
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/bath fix/script@mini_game@bathing@bathing_intro_outro_rhodes.yas as script@mini_game@bathing@bathing_intro_outro_rhodes.yas with 42155
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/poker face fix/script@rcm@chrb@leadin@rc1@ilo_leadin.yas as script@rcm@chrb@leadin@rc1@ilo_leadin.yas with 4284d
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig4_leave_road@ig4_leave_road.yas as script@story@crn1@ig@ig4_leave_road@ig4_leave_road.yas with 42a3b
+2024-12-11 13:01:04 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/an honest bandana/script@story@crn1@ig@ig1_spot_wagon@ig1_spot_wagon.yas as script@story@crn1@ig@ig1_spot_wagon@ig1_spot_wagon.yas with 42bd5
+2024-12-11 13:01:05 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd as mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd with 4da4f
+2024-12-11 13:01:05 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd as mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd with 4fd9c
+2024-12-11 13:01:05 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/@mech_loco_m@generic@intimidate@unarmed.ypm as @mech_loco_m@generic@intimidate@unarmed.ypm with 53aea
+2024-12-11 13:01:06 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/metapeds.ymt
+2024-12-11 13:01:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored skinning sounds/mech_skin@javelina_skin.yas as mech_skin@javelina_skin.yas with 41924
+2024-12-11 13:01:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/@mech_loco_m@generic@intimidate@unarmed.ypm as @mech_loco_m@generic@intimidate@unarmed.ypm with 53aea
+2024-12-11 13:01:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored deep water idle/mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd as mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle.ycd with 4da4f
+2024-12-11 13:01:07 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/restored intimidate locomotion/@mech_loco_m@generic@intimidate@unarmed.ypm as @mech_loco_m@generic@intimidate@unarmed.ypm with 53aea
+2024-12-11 13:01:08 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd as mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd with 4fd9c
+2024-12-11 13:01:10 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/conditions.ymt
+2024-12-11 13:01:10 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/conditions.ymt
+2024-12-11 13:01:10 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/motions.ymt
+2024-12-11 13:01:10 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/motions.ymt
+2024-12-11 13:01:10 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/motiontypes.ymt
+2024-12-11 13:01:10 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/motiontypes.ymt
+2024-12-11 13:01:11 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/human_male.ymt
+2024-12-11 13:01:11 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/human_male.ymt
+2024-12-11 13:01:11 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/human_male_upper.ymt
+2024-12-11 13:01:11 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/human_male_upper.ymt
+2024-12-11 13:01:11 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/human_character.ymt
+2024-12-11 13:01:11 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/human_character.ymt
+2024-12-11 13:01:11 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/human_character_upper.ymt
+2024-12-11 13:01:11 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/upper_body_animations/human_character_upper.ymt
+2024-12-11 13:01:12 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/bloodfx/vfxbloodinfo.ymt
+2024-12-11 13:01:12 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/aimposedata.meta
+2024-12-11 13:01:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/ped accuracy fix low enemy accuracy/pedaccuracy.meta
+2024-12-11 13:01:13 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/decalinfo.ymt
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/dispatch.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bayounwa.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bigvalley.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bluegillmarsh.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bountyhunters.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cumberlandforest.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplains.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplainsmaingame.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/grizzlies.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/heartlands.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmap.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmapmaingame.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/roanokeridge.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/scarlettmeadows.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltrees.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltreesmaingame.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/annesburg.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwater.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwatermaingame.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodes.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodeslockdown.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenis.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenisrural.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/strawberry.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/tumbleweed.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentine.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinelockdown.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinejailbreak.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/beechershope.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/braithwaitemanor.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/caligahall.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cornwall.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/emeraldranch.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/fortwallace.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/lagras.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/macfarlanesranch.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapost.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapostmaingame.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pronghornranch.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/ridgewoodfarm.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/thieveslandingmaingame.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/trainrobbery.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/default.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/cowboy.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/gang.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/injured.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapons.ymt
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/003_weaponcomponents.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents_1899.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_doubleaction_gambler.ymt
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_repeater_evans.ymt
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_lemat.ymt
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_pistol_m1899.ymt
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/loadouts.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/combatbehaviour.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/damagecleanlinessdata.meta
+2024-12-11 13:01:14 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
+2024-12-11 13:01:15 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
+2024-12-11 13:01:15 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
+2024-12-11 13:01:15 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
+2024-12-11 13:01:15 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
+2024-12-11 13:01:15 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
+2024-12-11 13:01:15 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
+2024-12-11 13:01:15 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd as mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd with 4fd9c
+2024-12-11 13:01:15 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_navy.ymt
+2024-12-11 13:01:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
+2024-12-11 13:01:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@inquisitive@idle.ycd as mech_loco_m@type@mp@inquisitive@idle.ycd with 513dd
+2024-12-11 13:01:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_rifle_elephant.ymt
+2024-12-11 13:01:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
+2024-12-11 13:01:16 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
+2024-12-11 13:01:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle.ycd as mech_loco_m@type@mp@easy_rider@idle.ycd with 514f4
+2024-12-11 13:01:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@easy_rider@idle@fidgets.ycd as mech_loco_m@type@mp@easy_rider@idle@fidgets.ycd with 514f5
+2024-12-11 13:01:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle.ycd as mech_loco_m@type@mp@greenhorn@idle.ycd with 514f6
+2024-12-11 13:01:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@greenhorn@idle@fidgets.ycd as mech_loco_m@type@mp@greenhorn@idle@fidgets.ycd with 514f7
+2024-12-11 13:01:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle.ycd as mech_loco_m@type@mp@veteran@idle.ycd with 514f8
+2024-12-11 13:01:17 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@veteran@idle@fidgets.ycd as mech_loco_m@type@mp@veteran@idle@fidgets.ycd with 514f9
+2024-12-11 13:01:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/default.meta
+2024-12-11 13:01:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/cowboy.meta
+2024-12-11 13:01:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/gang.meta
+2024-12-11 13:01:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/injured.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/decalinfo.ymt
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/dispatch.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bayounwa.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bigvalley.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bluegillmarsh.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bountyhunters.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cumberlandforest.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplains.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplainsmaingame.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/grizzlies.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/heartlands.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmap.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmapmaingame.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/roanokeridge.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/scarlettmeadows.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltrees.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltreesmaingame.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/annesburg.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwater.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwatermaingame.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodes.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodeslockdown.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenis.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenisrural.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/strawberry.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/tumbleweed.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentine.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinelockdown.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinejailbreak.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/beechershope.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/braithwaitemanor.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/caligahall.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cornwall.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/emeraldranch.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/fortwallace.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/lagras.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/macfarlanesranch.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapost.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapostmaingame.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pronghornranch.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/ridgewoodfarm.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/thieveslandingmaingame.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/trainrobbery.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/default.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/cowboy.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/gang.meta
+2024-12-11 13:01:26 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/injured.meta
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapons.ymt
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/003_weaponcomponents.meta
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents_1899.meta
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_doubleaction_gambler.ymt
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_repeater_evans.ymt
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_lemat.ymt
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_pistol_m1899.ymt
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/loadouts.meta
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/combatbehaviour.meta
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/damagecleanlinessdata.meta
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
+2024-12-11 13:01:27 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
+2024-12-11 13:01:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
+2024-12-11 13:01:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
+2024-12-11 13:01:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
+2024-12-11 13:01:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
+2024-12-11 13:01:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd as mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd with 4fd9c
+2024-12-11 13:01:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_navy.ymt
+2024-12-11 13:01:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
+2024-12-11 13:01:28 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@inquisitive@idle.ycd as mech_loco_m@type@mp@inquisitive@idle.ycd with 513dd
+2024-12-11 13:01:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_rifle_elephant.ymt
+2024-12-11 13:01:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
+2024-12-11 13:01:29 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
+2024-12-11 13:02:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/default.meta
+2024-12-11 13:02:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/cowboy.meta
+2024-12-11 13:02:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/gang.meta
+2024-12-11 13:02:18 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/injured.meta
+2024-12-11 13:02:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml
+2024-12-11 13:02:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
+2024-12-11 13:02:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
+2024-12-11 13:02:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
+2024-12-11 13:02:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
+2024-12-11 13:02:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
+2024-12-11 13:02:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
+2024-12-11 13:02:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
+2024-12-11 13:02:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
+2024-12-11 13:02:20 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/whyem's bloodlust/blooddecal/decalinfo.ymt
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/dispatch.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bayounwa.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bigvalley.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bluegillmarsh.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/bountyhunters.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cumberlandforest.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplains.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/greatplainsmaingame.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/grizzlies.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/heartlands.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmap.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/oldmapmaingame.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/roanokeridge.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/scarlettmeadows.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltrees.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/talltreesmaingame.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/annesburg.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwater.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/blackwatermaingame.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodes.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/rhodeslockdown.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenis.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/saintdenisrural.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/strawberry.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/tumbleweed.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentine.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinelockdown.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/valentinejailbreak.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/beechershope.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/braithwaitemanor.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/caligahall.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/cornwall.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/emeraldranch.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/fortwallace.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/lagras.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/macfarlanesranch.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapost.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/manzanitapostmaingame.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/pronghornranch.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/ridgewoodfarm.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/thieveslandingmaingame.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/trainrobbery.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/default.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/cowboy.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/gang.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/animation fixes/extended_player_animations/npc_aiming_animations/injured.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapons.ymt
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/003_weaponcomponents.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weaponcomponents_1899.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_doubleaction_gambler.ymt
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_repeater_evans.ymt
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_lemat.ymt
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_pistol_m1899.ymt
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_loadouts v2.4/loadouts.meta
+2024-12-11 13:02:21 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/law/combatbehaviour.meta
+2024-12-11 13:02:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/kiddo's minimalist loot economy overhaul/damagecleanlinessdata.meta
+2024-12-11 13:02:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp001/content.xml
+2024-12-11 13:02:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp001/content.xml
+2024-12-11 13:02:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp003/content.xml
+2024-12-11 13:02:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/patchpack_mp003/content.xml
+2024-12-11 13:02:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp004/content.xml
+2024-12-11 13:02:22 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp005/content.xml
+2024-12-11 13:02:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp006/content.xml
+2024-12-11 13:02:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/concave climb exit fix/mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd as mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275.ycd with 4fd9c
+2024-12-11 13:02:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_revolver_navy.ymt
+2024-12-11 13:02:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp007/content.xml
+2024-12-11 13:02:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\StreamingFilesLoader.cpp:103: Registered addonDLC:/animation fixes/extended_player_animations/miscellaneous/online idles/mech_loco_m@type@mp@inquisitive@idle.ycd as mech_loco_m@type@mp@inquisitive@idle.ycd with 513dd
+2024-12-11 13:02:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/realistic_weapon_rebalance/weapon_rifle_elephant.ymt
+2024-12-11 13:02:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/update_1/pack_patch/mp008/content.xml
+2024-12-11 13:02:23 INFO  D:\GTA V\vfs\vfs\vfs\rdr3\CustomCollection.cpp:520: Global full replace: addonDLC:/online content unlocker/x64/mp009/content.xml

@@ -16104,7 +16104,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_WOLF_FUR_PRISTINE</SatchelItem>
         </Item>
-        <!-- <Item>
+        <Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
@@ -16144,60 +16144,60 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
+        </Item>
+        <!--<Item>
+          <DamageQuality>Poor</DamageQuality>
+          <SkinQuality>Poor</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Poor</DamageQuality>
+          <SkinQuality>Good</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Poor</DamageQuality>
+          <SkinQuality>Perfect</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Good</DamageQuality>
+          <SkinQuality>Poor</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Good</DamageQuality>
+          <SkinQuality>Good</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Good</DamageQuality>
+          <SkinQuality>Perfect</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Perfect</DamageQuality>
+          <SkinQuality>Poor</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Perfect</DamageQuality>
+          <SkinQuality>Good</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
         </Item> -->
-        <Item>
-          <DamageQuality>Poor</DamageQuality>
-          <SkinQuality>Poor</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Poor</DamageQuality>
-          <SkinQuality>Good</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Poor</DamageQuality>
-          <SkinQuality>Perfect</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Good</DamageQuality>
-          <SkinQuality>Poor</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Good</DamageQuality>
-          <SkinQuality>Good</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Good</DamageQuality>
-          <SkinQuality>Perfect</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Perfect</DamageQuality>
-          <SkinQuality>Poor</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Perfect</DamageQuality>
-          <SkinQuality>Good</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
@@ -16315,100 +16315,100 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_WOLF_FUR_PRISTINE</SatchelItem>
         </Item>
-        <!-- <Item>
+        <Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="4" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="4" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="4" />
+          <Quantity value="1" />
+        </Item>
+        <!--<Item>
+          <DamageQuality>Poor</DamageQuality>
+          <SkinQuality>Poor</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Poor</DamageQuality>
+          <SkinQuality>Good</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Poor</DamageQuality>
+          <SkinQuality>Perfect</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Good</DamageQuality>
+          <SkinQuality>Poor</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Good</DamageQuality>
+          <SkinQuality>Good</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Good</DamageQuality>
+          <SkinQuality>Perfect</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Perfect</DamageQuality>
+          <SkinQuality>Poor</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Perfect</DamageQuality>
+          <SkinQuality>Good</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
         </Item> -->
-        <Item>
-          <DamageQuality>Poor</DamageQuality>
-          <SkinQuality>Poor</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Poor</DamageQuality>
-          <SkinQuality>Good</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Poor</DamageQuality>
-          <SkinQuality>Perfect</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Good</DamageQuality>
-          <SkinQuality>Poor</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Good</DamageQuality>
-          <SkinQuality>Good</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Good</DamageQuality>
-          <SkinQuality>Perfect</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Perfect</DamageQuality>
-          <SkinQuality>Poor</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Perfect</DamageQuality>
-          <SkinQuality>Good</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
@@ -16526,100 +16526,100 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_WOLF_FUR_PRISTINE</SatchelItem>
         </Item>
-        <!-- <Item>
+        <Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="4" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="4" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_STRINGY_MEAT</SatchelItem>
-          <Quantity value="4" />
+          <Quantity value="1" />
+        </Item>
+        <!--<Item>
+          <DamageQuality>Poor</DamageQuality>
+          <SkinQuality>Poor</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Poor</DamageQuality>
+          <SkinQuality>Good</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Poor</DamageQuality>
+          <SkinQuality>Perfect</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Good</DamageQuality>
+          <SkinQuality>Poor</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Good</DamageQuality>
+          <SkinQuality>Good</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Good</DamageQuality>
+          <SkinQuality>Perfect</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Perfect</DamageQuality>
+          <SkinQuality>Poor</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
+        </Item>
+        <Item>
+          <DamageQuality>Perfect</DamageQuality>
+          <SkinQuality>Good</SkinQuality>
+          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
         </Item> -->
-        <Item>
-          <DamageQuality>Poor</DamageQuality>
-          <SkinQuality>Poor</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Poor</DamageQuality>
-          <SkinQuality>Good</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Poor</DamageQuality>
-          <SkinQuality>Perfect</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Good</DamageQuality>
-          <SkinQuality>Poor</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Good</DamageQuality>
-          <SkinQuality>Good</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Good</DamageQuality>
-          <SkinQuality>Perfect</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Perfect</DamageQuality>
-          <SkinQuality>Poor</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
-        <Item>
-          <DamageQuality>Perfect</DamageQuality>
-          <SkinQuality>Good</SkinQuality>
-          <SatchelItem>PROVISION_WOLF_HEART</SatchelItem>
-        </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>

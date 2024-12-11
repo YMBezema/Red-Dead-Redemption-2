@@ -1,4 +1,4 @@
-[Ammo Descriptions]
+[AMMO DESCRIPTIONS]
 
 #Revolver
 
@@ -79,31 +79,44 @@
 	AMMO_22 = .22 Varmint Cartridges
 
 
-# FRIENDS
+#Bandolier & Gun Belt
 
-	0xE3750B47 = KRAMER'S
+	UPGRADE_GUN_BELT_DESC = Permanently increases capacity for revolver and pistol ammo by 20.
 
-	CONSUMABLE_CIGARETTE_BOX_CATALOGUEDESC = Kramer's Cigarettes are the smoother, healthier smoke. Enjoyed on a balcony or porch with a sprinkle of devils lettuce. Contains 5 cigarettes and a collectible cigarette card.
+	UPGRADE_BANDOLR_DESC = Permanently increases capacity for repeater, rifle and shotgun ammo by 20.
 
-	0x0C3B3E31 = KIDDO'S
 
-	CONSUMABLE_CIGARETTE_BOX_CHEAP_CATALOGUEDESC = Kiddo's Cigarettes are perfectly mild and rich, or dry and arid depending on how often you lie to yourself. Contains 10 cigarettes.
+	
 
-	0xA15E75E3 = MOORE'S
 
-	CONSUMABLE_CIGAR_CATALOGUEDESC = Moore's Premium blend domestic brand cigars. A suberb tobacco for a divine night in the hot tub with the boys.
+[COOKED MEAT DESCRIPTIONS]
 
-	0x9E810871 = BIG JIM'S
 
-	CONSUMABLE_CHEWING_TOBACCO_CATALOGUEDESC = Big Jim's Chewing Tobacco. Taste it! Chew it! Spit it! A gentlemanly pleasure that can even be shared with a prostitute.
+	CONSUMABLE_FLAKEY_FISH_OREGANO_COOKED = Oregano & Berry Flake
 
-	0x240FFBBA = BRYANT'S
+	CONSUMABLE_FLAKEY_FISH_THYME_COOKED = Thyme & Berry Flake
 
-	CONSUMABLE_COCAINE_CHEWING_GUM_CATALOGUEDESC = Corum Bryant's Cocaine Chewing Gum stimulates and invigorates. Cures indigestion, apathy and monotony. Definately don't put it in your bum.
+	CONSUMABLE_FLAKEY_FISH_WILD_MINT_COOKED = Mint & Berry Flake
 
-	0x4E2361EF = KELLY'S
+	
+	CONSUMABLE_BIG_GAME_MEAT_OREGANO_COOKED = Oregano & Berry Big Game
 
-	CONSUMABLE_COFFEE_GNDS_REG_CATALOGUEDESC = Kelly O'Brien's iconic rich and full bodied ground coffee. Great for staying up all night on a creative bender, or for fending off night terrors.
+	CONSUMABLE_BIG_GAME_MEAT_THYME_COOKED = Thyme & Berry Big Game
+
+	CONSUMABLE_BIG_GAME_MEAT_WILD_MINT_COOKED = Mint & Berry Big Game
+
+
+	CONSUMABLE_PRIME_BEEF_OREGANO_COOKED = Oregano & Berry Brisket
+
+	CONSUMABLE_PRIME_BEEF_THYME_COOKED = Thyme & Berry Brisket
+
+	CONSUMABLE_PRIME_BEEF_WILD_MINT_COOKED = Mint & Berry Brisket
+
+
+
+
+[TONIC DESCRIPTIONS]
+
 
 #Potent Tonics
 
@@ -134,4 +147,34 @@
 	0x3BADCF7E = Fortifies greatly.
 
 	0x52F3F7F2 = Fortifies greatly.
+
+
+
+
+[EASTER EGG CATALOG DESCRIPTIONS]
+
+
+	0xE3750B47 = KRAMER'S
+
+	CONSUMABLE_CIGARETTE_BOX_CATALOGUEDESC = Kramer's Cigarettes are the smoother, healthier smoke. Enjoyed on a balcony or porch with a sprinkle of devils lettuce. Contains 5 cigarettes and a collectible cigarette card.
+
+	0x0C3B3E31 = KIDDO'S
+
+	CONSUMABLE_CIGARETTE_BOX_CHEAP_CATALOGUEDESC = Kiddo's Cigarettes are perfectly mild and rich, or dry and arid depending on how often you lie to yourself. Contains 10 cigarettes.
+
+	0xA15E75E3 = MOORE'S
+
+	CONSUMABLE_CIGAR_CATALOGUEDESC = Moore's Premium blend domestic brand cigars. A suberb tobacco for a divine night in the hot tub with the boys.
+
+	0x9E810871 = BIG JIM'S
+
+	CONSUMABLE_CHEWING_TOBACCO_CATALOGUEDESC = Big Jim's Chewing Tobacco. Taste it! Chew it! Spit it! A gentlemanly pleasure that can even be shared with a prostitute.
+
+	0x240FFBBA = BRYANT'S
+
+	CONSUMABLE_COCAINE_CHEWING_GUM_CATALOGUEDESC = Corum Bryant's Cocaine Chewing Gum stimulates and invigorates. Cures indigestion, apathy and monotony. Definately don't put it in your bum.
+
+	0x4E2361EF = KELLY'S
+
+	CONSUMABLE_COFFEE_GNDS_REG_CATALOGUEDESC = Kelly O'Brien's iconic rich and full bodied ground coffee. Great for staying up all night on a creative bender, or for fending off night terrors.
 	

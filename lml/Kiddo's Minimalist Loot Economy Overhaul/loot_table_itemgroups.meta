@@ -1730,8 +1730,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_REVOLVER</Name>
-		  <Min value="20"/>
-          <Max value="20"/>
+		  <Min value="10"/>
+          <Max value="10"/>
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
@@ -1756,8 +1756,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_REVOLVER_EXPRESS</Name>
-		  <Min value="20"/>
-          <Max value="20"/>
+		  <Min value="10"/>
+          <Max value="10"/>
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
@@ -1769,8 +1769,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_REVOLVER_HIGH_VELOCITY</Name>
-		  <Min value="20"/>
-          <Max value="20"/>
+		  <Min value="10"/>
+          <Max value="10"/>
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
@@ -1782,8 +1782,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_PISTOL</Name>
-		  <Min value="20"/>
-          <Max value="20"/>
+		  <Min value="10"/>
+          <Max value="10"/>
 		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
@@ -1808,8 +1808,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_PISTOL_EXPRESS</Name>
-		  <Min value="20"/>
-          <Max value="20"/>
+		  <Min value="10"/>
+          <Max value="10"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1821,8 +1821,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_PISTOL_HIGH_VELOCITY</Name>
-		  <Min value="20"/>
-          <Max value="20"/>
+		  <Min value="10"/>
+          <Max value="10"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1886,8 +1886,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_REPEATER</Name>
-		  <Min value="20"/>
-          <Max value="20"/>
+		  <Min value="10"/>
+          <Max value="10"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1912,8 +1912,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_REPEATER_EXPRESS</Name>
-		  <Min value="20"/>
-          <Max value="20"/>
+		  <Min value="10"/>
+          <Max value="10"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
@@ -1925,8 +1925,8 @@
       <Entries>
 	    <Item>
 		  <Name>AMMO_REPEATER_HIGH_VELOCITY</Name>
-		  <Min value="20"/>
-          <Max value="20"/>
+		  <Min value="10"/>
+          <Max value="10"/>
 		  <Rate value="1" />
           <Type>Ammo</Type>
 		</Item>
