@@ -150,13 +150,13 @@
 		  <Type>Table</Type>
 		</Item>
 		<Item>
-		  <Name>ALCOHOL_ITEMS</Name>
+		  <Name>THROWABLE_AMMO</Name>
 		  <Rate value=".05" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
-		  <Name>HORSE_CONSUMABLES_BASIC</Name>
-		  <Rate value=".05" />
+		  <Name>ALCOHOL_ITEMS</Name>
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -166,7 +166,7 @@
 		</Item>
 		<Item>
 		  <Name>REWARD_GANG</Name>
-		  <Rate value=".40" />
+		  <Rate value=".35" />
 		  <Type>Table</Type>
 		</Item>
 	 </Entries>
@@ -687,12 +687,12 @@
 		</Item>
 		<Item>
 		  <Name>PROVISION_RING_SILVER</Name>
-		  <Rate value=".25" />
+		  <Rate value=".30" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>PROVISION_GOLDRING</Name>
-		  <Rate value=".10" />
+		  <Rate value=".05" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -702,12 +702,12 @@
 		</Item>
 		<Item>
 		  <Name>PROVISION_BUCKLE_SILVER</Name>
-		  <Rate value=".30" />
+		  <Rate value=".35" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>PROVISION_BUCKLE_GOLD</Name>
-		  <Rate value=".10" />
+		  <Rate value=".05" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -776,7 +776,7 @@
 		</Item>
 	    <Item>
 		  <Name>CONSUMABLE_MEDICINE_USED</Name>
-		  <Rate value=".15" />
+		  <Rate value=".20" />
           <Type>Item</Type>
 		</Item>
 	    <Item>
@@ -786,7 +786,7 @@
 		</Item>
 	    <Item>
 		  <Name>CONSUMABLE_TONIC_USED</Name>
-		  <Rate value=".10" />
+		  <Rate value=".05" />
           <Type>Item</Type>
 		</Item>
 	    <Item>
@@ -871,7 +871,7 @@
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CHEWING_TOBACCO_USED</Name>
-		  <Rate value=".40" />
+		  <Rate value=".50" />
           <Type>Item</Type>
 		</Item>
 		<Item>
@@ -881,7 +881,7 @@
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_SNAKE_OIL_USED</Name>
-		  <Rate value=".60" />
+		  <Rate value=".50" />
           <Type>Item</Type>
 		</Item>
 		<Item>
@@ -1058,12 +1058,12 @@
 		  <Name>CONSUMABLE_CIGARETTE_BOX_CHEAP_USED</Name>
 		  <Min value="1" />
           <Max value="1" />
-		  <Rate value=".70" />
+		  <Rate value=".65" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CHEWING_TOBACCO_USED</Name>
-		  <Rate value=".20" />
+		  <Rate value=".25" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -1091,37 +1091,37 @@
 		  <Name>CONSUMABLE_CIGARETTE_BOX_CHEAP_USED</Name>
 		  <Min value="1" />
           <Max value="1" />
-		  <Rate value=".30" />
+		  <Rate value=".40" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CIGAR</Name>
-		  <Rate value=".30" />
+		  <Rate value=".15" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CHEWING_TOBACCO_USED</Name>
-		  <Rate value=".00" />
+		  <Rate value=".15" />
 		  <Type>Item</Type>
 		</Item>
 	    <Item>
 		  <Name>CONSUMABLE_WHISKEY_USED</Name>
-		  <Rate value=".10" />
+		  <Rate value=".15" />
           <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_GIN_USED</Name>
-		  <Rate value=".10" />
+		  <Rate value=".05" />
           <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_RUM_USED</Name>
-		  <Rate value=".10" />
+		  <Rate value=".05" />
           <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_BRANDY_USED</Name>
-		  <Rate value=".10" />
+		  <Rate value=".15" />
           <Type>Item</Type>
 		</Item>
 	 </Entries>

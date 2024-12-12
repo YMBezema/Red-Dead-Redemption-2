@@ -17,7 +17,7 @@
 		</Item>
 		<Item>
 		  <Name>RESTORATIVES</Name>
-		  <Rate value="0.75" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -27,7 +27,7 @@
 		</Item>
 		<Item>
 		  <Name>DEADEYE_ITEMS</Name>
-		  <Rate value="0.25" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 	  </Entries>
@@ -48,7 +48,7 @@
 		</Item>
 		<Item>
 		  <Name>CONTAINER_LOOT_AMMO</Name>
-		  <Rate value=".50" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -158,7 +158,7 @@
 		</Item>
 		<Item>
 		  <Name>DEADEYE_ITEMS</Name>
-		  <Rate value="1.0" />
+		  <Rate value="0.25" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -179,7 +179,7 @@
 	  <Entries>
 		<Item>
 		  <Name>HEALTH_AND_DEADEYE_BASIC</Name>
-		  <Rate value="1.0" />
+		  <Rate value="0.50" />
 		  <Type>Table</Type>
 		</Item>
 	  </Entries>
@@ -248,7 +248,7 @@
 	  <Entries>
 		<Item>
 		  <Name>MONEY_MONEYCLIP</Name>
-		  <Rate value=".25" />
+		  <Rate value="1.0" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -284,7 +284,7 @@
 		</Item>
 		<Item>
 		  <Name>RESTORATIVES</Name>
-		  <Rate value="0.75" />
+		  <Rate value="0.25" />
           <Type>Table</Type>
 		</Item>
 	  </Entries>
@@ -539,7 +539,7 @@
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_POTENT_SNAKE_OIL</Name>
-		  <Rate value="0.50" />
+		  <Rate value="0.25" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -645,7 +645,7 @@
 		</Item>
 		<Item>
 		  <Name>MONEY_COINPURSE</Name>
-		  <Rate value=".50" />
+		  <Rate value="1.0" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
@@ -677,7 +677,7 @@
 	  <Entries>
 		<Item>
 		  <Name>CONTAINER_LOOT_AMMO</Name>
-		  <Rate value=".50" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -687,12 +687,12 @@
 		</Item>
 		<Item>
 		  <Name>DEADEYE_ITEMS</Name>
-		  <Rate value=".20" />
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>HEALTH_ITEMS</Name>
-		  <Rate value=".20" />
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 	  </Entries>
@@ -729,12 +729,12 @@
 	  <Entries>
 		<Item>
 		  <Name>MONEY_COINPURSE</Name>
-		  <Rate value=".50" />
+		  <Rate value="1.0" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_SNAKE_OIL</Name>
-		  <Rate value=".50" />
+		  <Rate value=".25" />
 		  <Type>Item</Type>
 		</Item>
 	  </Entries>
@@ -791,7 +791,7 @@
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CIGAR</Name>
-		  <Rate value=".10" />
+		  <Rate value=".25" />
 		  <Type>Item</Type>
 		</Item>
       </Entries>
@@ -828,27 +828,27 @@
 		</Item>
 		<Item>
 		  <Name>AMMO_PISTOL_AMMOBOX</Name>
-		  <Rate value=".20" />
+		  <Rate value="1.0" />
           <Type>Ammo</Type>
 		</Item>
 	    <Item>
 		  <Name>AMMO_REPEATER_AMMOBOX</Name>
-		  <Rate value=".20" />
+		  <Rate value=".25" />
           <Type>Ammo</Type>
 		</Item>
 		<Item>
 		  <Name>AMMO_REVOLVER_AMMOBOX</Name>
-		  <Rate value=".10" />
+		  <Rate value=".25" />
           <Type>Ammo</Type>
 		</Item>
 		<Item>
 		  <Name>AMMO_RIFLE_AMMOBOX</Name>
-		  <Rate value=".20" />
+		  <Rate value=".25" />
           <Type>Ammo</Type>
 		</Item>
 		<Item>
 		  <Name>AMMO_SHOTGUN_AMMOBOX</Name>
-		  <Rate value=".20" />
+		  <Rate value=".25" />
           <Type>Ammo</Type>
 		</Item>
 	  </Entries>
@@ -943,14 +943,14 @@
           <Name>AMMO_PISTOL</Name>
           <Min value="3" />
           <Max value="12" />
-          <Rate value="0.25"/>
+          <Rate value="0.50"/>
           <Type>Ammo</Type>
         </Item>
 		<Item>
 		  <Name>AMMO_RIFLE</Name>
 		  <Min value="3" />
 		  <Max value="7" />
-		  <Rate value=".25" />
+		  <Rate value=".50" />
 		  <Type>Ammo</Type>
 		</Item>			
       	<Item>
@@ -1048,7 +1048,7 @@
 		</Item>
 	    <Item>
 		  <Name>HEALTH_AND_OR_DEADEYE_ITEMS</Name>
-		  <Rate value="0.00" />
+		  <Rate value=".00" />
           <Type>Table</Type>
 		</Item>
 	    <Item>
@@ -1107,7 +1107,7 @@
       <Entries>
 	    <Item>
 		  <Name>HEALTH_AND_OR_DEADEYE_ITEMS</Name>
-		  <Rate value="0.25" />
+		  <Rate value="0.10" />
           <Type>Table</Type>
 		</Item>
 	    <Item>
@@ -1117,12 +1117,12 @@
 		</Item>
 		<Item>
 		  <Name>MONEY_COINPURSE</Name>
-		  <Rate value="0.25" />
+		  <Rate value="0.50" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CIGARETTE_BOX_CHEAP</Name>
-		  <Rate value="0.25" />
+		  <Rate value="0.15" />
           <Type>Item</Type>
 		</Item>
       </Entries>
@@ -1185,12 +1185,12 @@
 	  <Entries>
 	    <Item>
 		  <Name>CONSUMABLE_MEDICINE</Name>
-		  <Rate value=".25" />
+		  <Rate value=".10" />
           <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_CIGARETTE_BOX_CHEAP</Name>
-		  <Rate value=".10" />
+		  <Rate value=".25" />
           <Type>Item</Type>
 		</Item>
 		<Item>
@@ -1211,7 +1211,7 @@
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_POTENT_SNAKE_OIL</Name>
-		  <Rate value=".25" />
+		  <Rate value=".10" />
           <Type>Item</Type>
 		</Item>
 		<Item>
@@ -1232,17 +1232,17 @@
 	  <Entries>
 	    <Item>
 		  <Name>CONSUMABLE_POTENT_MEDICINE</Name>
-		  <Rate value=".25" />
+		  <Rate value=".10" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>CONSUMABLE_POTENT_TONIC</Name>
-		  <Rate value=".25" />
+		  <Rate value=".10" />
           <Type>Item</Type>
 		</Item>
 		<Item>
 		  <Name>MONEY_BILLSTACK</Name>
-		  <Rate value=".25" />
+		  <Rate value=".50" />
 		  <Type>Item</Type>
 		</Item>
 	  </Entries>

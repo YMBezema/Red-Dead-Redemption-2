@@ -47831,7 +47831,7 @@
     <ChanceUseNoLootAnimVariationIfTargetWasRobbedHasOffered value="0.25" />
     <ResetAgitationForSaddleTransfer value="true" />
     <LootForEquippedWeaponsAndAmmoTunables>
-      <RandomChanceApplyLootForEquippedWeaponsAndAmmo value="1.000000" />
+      <RandomChanceApplyLootForEquippedWeaponsAndAmmo value="0.750000" />
       <MinRandomPercentageOfClipSizeForEquippedWeaponsAndAmmoLoot value="0.150000" />
       <MaxRandomPercentageOfClipSizeForEquippedWeaponsAndAmmoLoot value="0.850000" />
       <MinAmmoForLootClipSize value="2" />

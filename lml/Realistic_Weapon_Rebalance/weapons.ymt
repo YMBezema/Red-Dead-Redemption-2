@@ -74627,7 +74627,7 @@
           <UnlockWeaponHash>WEAPON_SNIPERRIFLE_CARCANO</UnlockWeaponHash>
           <BrokenWeaponHash />
           <VehicleWeaponHash />
-          <WeaponCamera>
+           <WeaponCamera>
             <CameraDictionaryHash />
             <DefaultCameraHash>0xBACAE759</DefaultCameraHash>
             <InteractionLockonCameraHash>0x5D3DEFD9</InteractionLockonCameraHash>
@@ -74647,12 +74647,12 @@
             <FirstPersonDofMaxNearInFocusDistance value="0.00000000" />
             <FirstPersonDofMaxNearInFocusDistanceBlendLevel value="0.30000000" />
             <ZoomFactorForAccurateMode value="1.00000000" />
-            <RecoilShakeHash>DEFAULT_THIRD_PERSON_RECOIL_SHAKE</RecoilShakeHash>
-            <RecoilShakeHashFirstPerson>0x7EA7439D</RecoilShakeHashFirstPerson>
+            <RecoilShakeHash>DEFAULT_FIRST_PERSON_RECOIL_SHAKE</RecoilShakeHash>
+            <RecoilShakeHashFirstPerson />
             <AccuracyOffsetShakeHash />
             <MinTimeBetweenRecoilShakes value="150" />
             <RecoilShakeAmplitude value="1.00000000" />
-            <RecoilShakeAmplitudeFirstPerson value="2.30000000" />
+            <RecoilShakeAmplitudeFirstPerson value="1.00000000" />
             <ExplosionShakeAmplitude value="-1.00000000" />
           </WeaponCamera>
           <CoverTypeHash>0x60E2A25B</CoverTypeHash>
@@ -74883,7 +74883,7 @@
           <LightRadiusMult value="1.00000000" />
           <LightRadiusMultLerpTime value="0.00000000" />
           <VehicleAttackAngle value="25.00000000" />
-          <MaxDeadeyeTaggedTargets value="0" />
+          <MaxDeadeyeTaggedTargets value="-1" />
           <TorsoIKAngleLimit value="-1.00000000" />
           <MeleeRightFistTargetHealthDamageScaler value="-1.00000000" />
           <AirborneAircraftLockOnMultiplier value="1.00000000" />
@@ -75218,19 +75218,19 @@
             <RunAndGunCameraHash>DEFAULT_THIRD_PERSON_PED_RUN_AND_GUN_CAMERA</RunAndGunCameraHash>
             <CinematicShootingCameraHash />
             <GrappleCameraHash>DEFAULT_FOLLOW_PED_CAMERA</GrappleCameraHash>
-            <CameraFov value="45.00000000" />
+            <CameraFov value="35.00000000" />
             <FirstPersonAimFovMin value="42.00000000" />
             <FirstPersonAimFovMax value="47.00000000" />
             <FirstPersonDofSubjectMagnificationPowerFactorNear value="1.02500000" />
             <FirstPersonDofMaxNearInFocusDistance value="0.00000000" />
             <FirstPersonDofMaxNearInFocusDistanceBlendLevel value="0.30000000" />
             <ZoomFactorForAccurateMode value="1.00000000" />
-            <RecoilShakeHash>DEFAULT_THIRD_PERSON_RECOIL_SHAKE</RecoilShakeHash>
-            <RecoilShakeHashFirstPerson>0x7EA7439D</RecoilShakeHashFirstPerson>
+            <RecoilShakeHash>DEFAULT_FIRST_PERSON_RECOIL_SHAKE</RecoilShakeHash>
+            <RecoilShakeHashFirstPerson />
             <AccuracyOffsetShakeHash />
             <MinTimeBetweenRecoilShakes value="150" />
             <RecoilShakeAmplitude value="1.00000000" />
-            <RecoilShakeAmplitudeFirstPerson value="2.30000000" />
+            <RecoilShakeAmplitudeFirstPerson value="1.00000000" />
             <ExplosionShakeAmplitude value="-1.00000000" />
           </WeaponCamera>
           <CoverTypeHash>0x60E2A25B</CoverTypeHash>
@@ -75424,7 +75424,7 @@
             </Item>
           </AttachPoints>
           <FireProbeBone>ID_SKEL_ROOT</FireProbeBone>
-          <WeaponFlags>CarriedInHand Gun CanFreeAim TwoHanded AnimReload UsableInCover 0x5A3E5EDA 0xE8C586DD UsableOnFoot HasLowCoverSwaps OnlyFireOneShot OnlyFireOneShotPerTriggerPress AllowCloseQuarterKills UseFPSAimIK UseFPSSecondaryMotion 0xCE1E0473 0x1152CE2C 0x1FCE1778 0x081F0BDD 0xC6550BE0 0x1FE95B8B 0xDCF43CF3 0x7BA2F91C 0x42D5F625 0x460F96C0 0x3A51C194 0x40B6CD20 0xE29937E6 0x08157808 0x3A829C54 0xE0217110 0x46B4F2E8 0x07982641 0x67B5DC71 0x87BD9548 0x27895875 0x628A469E 0x50CF49B4 0x323DB9E4 0xD62ED034 0x4A113F84 0xCA742415</WeaponFlags>
+          <WeaponFlags>CarriedInHand Gun CanLockonOnFoot CanLockonInVehicle CanFreeAim TwoHanded AnimReload UsableInCover 0x5A3E5EDA 0xE8C586DD UsableOnFoot HasLowCoverSwaps OnlyFireOneShot OnlyFireOneShotPerTriggerPress AllowCloseQuarterKills UseFPSAimIK UseFPSSecondaryMotion 0xCE1E0473 0x1152CE2C 0x1FCE1778 0x081F0BDD 0xC6550BE0 0x1FE95B8B 0xDCF43CF3 0x7BA2F91C 0x42D5F625 0x460F96C0 0x3A51C194 0xCC2A57A6 0x90882C1A 0x40B6CD20 0xE29937E6 0x08157808 0x3A829C54 0xE0217110 0x46B4F2E8 0x07982641 0x67B5DC71 0x87BD9548 0x27895875 0x628A469E 0x323DB9E4 0xD62ED034 0xE3DFFF32</WeaponFlags>
 		  <DefaultAIAttackMode>Shoot</DefaultAIAttackMode>
           <AIAttackModes>Shoot</AIAttackModes>
           <TintSpecValues>TINT_DEFAULT</TintSpecValues>
@@ -75795,19 +75795,19 @@
             <RunAndGunCameraHash>DEFAULT_THIRD_PERSON_PED_RUN_AND_GUN_CAMERA</RunAndGunCameraHash>
             <CinematicShootingCameraHash />
             <GrappleCameraHash>DEFAULT_FOLLOW_PED_CAMERA</GrappleCameraHash>
-            <CameraFov value="45.00000000" />
+            <CameraFov value="35.00000000" />
             <FirstPersonAimFovMin value="42.00000000" />
             <FirstPersonAimFovMax value="47.00000000" />
             <FirstPersonDofSubjectMagnificationPowerFactorNear value="1.02500000" />
             <FirstPersonDofMaxNearInFocusDistance value="0.00000000" />
             <FirstPersonDofMaxNearInFocusDistanceBlendLevel value="0.30000000" />
             <ZoomFactorForAccurateMode value="1.00000000" />
-            <RecoilShakeHash>DEFAULT_THIRD_PERSON_RECOIL_SHAKE</RecoilShakeHash>
-            <RecoilShakeHashFirstPerson>0x7EA7439D</RecoilShakeHashFirstPerson>
+            <RecoilShakeHash>DEFAULT_FIRST_PERSON_RECOIL_SHAKE</RecoilShakeHash>
+            <RecoilShakeHashFirstPerson />
             <AccuracyOffsetShakeHash />
             <MinTimeBetweenRecoilShakes value="150" />
             <RecoilShakeAmplitude value="1.00000000" />
-            <RecoilShakeAmplitudeFirstPerson value="2.30000000" />
+            <RecoilShakeAmplitudeFirstPerson value="1.00000000" />
             <ExplosionShakeAmplitude value="-1.00000000" />
           </WeaponCamera>
           <CoverTypeHash>0x60E2A25B</CoverTypeHash>
@@ -75944,7 +75944,7 @@
             </Item>
           </AttachPoints>
           <FireProbeBone>ID_SKEL_ROOT</FireProbeBone>
-          <WeaponFlags>CarriedInHand Gun CanFreeAim TwoHanded AnimReload UsableInCover 0x5A3E5EDA 0xE8C586DD UsableOnFoot HasLowCoverSwaps OnlyFireOneShot OnlyFireOneShotPerTriggerPress AllowCloseQuarterKills UseFPSAimIK UseFPSSecondaryMotion 0xCE1E0473 0x1152CE2C 0x1FCE1778 0x081F0BDD 0xC6550BE0 0x1FE95B8B 0xDCF43CF3 0x7BA2F91C 0x42D5F625 0x460F96C0 0x3A51C194 0x40B6CD20 0xE29937E6 0x08157808 0x3A829C54 0xE0217110 0x46B4F2E8 0x07982641 0x67B5DC71 0x87BD9548 0x27895875 0x628A469E 0x50CF49B4 0x323DB9E4 0xD62ED034 0x4A113F84 0xCA742415</WeaponFlags>
+          <WeaponFlags>CarriedInHand Gun CanLockonOnFoot CanLockonInVehicle CanFreeAim TwoHanded AnimReload UsableInCover 0x5A3E5EDA 0xE8C586DD UsableOnFoot HasLowCoverSwaps OnlyFireOneShot OnlyFireOneShotPerTriggerPress AllowCloseQuarterKills UseFPSAimIK UseFPSSecondaryMotion 0xCE1E0473 0x1152CE2C 0x1FCE1778 0x081F0BDD 0xC6550BE0 0x1FE95B8B 0xDCF43CF3 0x7BA2F91C 0x42D5F625 0x460F96C0 0x3A51C194 0xCC2A57A6 0x90882C1A 0x40B6CD20 0xE29937E6 0x08157808 0x3A829C54 0xE0217110 0x46B4F2E8 0x07982641 0x67B5DC71 0x87BD9548 0x27895875 0x628A469E 0x323DB9E4 0xD62ED034 0xE3DFFF32</WeaponFlags>
 		  <DefaultAIAttackMode>Shoot</DefaultAIAttackMode>
           <AIAttackModes>Shoot</AIAttackModes>
           <TintSpecValues>TINT_DEFAULT</TintSpecValues>
@@ -75980,7 +75980,7 @@
           <LightRadiusMult value="1.00000000" />
           <LightRadiusMultLerpTime value="0.00000000" />
           <VehicleAttackAngle value="25.00000000" />
-          <MaxDeadeyeTaggedTargets value="0" />
+          <MaxDeadeyeTaggedTargets value="-1" />
           <TorsoIKAngleLimit value="-1.00000000" />
           <MeleeRightFistTargetHealthDamageScaler value="-1.00000000" />
           <AirborneAircraftLockOnMultiplier value="1.00000000" />
@@ -76525,7 +76525,7 @@
           <LightRadiusMult value="1.00000000" />
           <LightRadiusMultLerpTime value="0.00000000" />
           <VehicleAttackAngle value="25.00000000" />
-          <MaxDeadeyeTaggedTargets value="0" />
+          <MaxDeadeyeTaggedTargets value="-1" />
           <TorsoIKAngleLimit value="-1.00000000" />
           <MeleeRightFistTargetHealthDamageScaler value="-1.00000000" />
           <AirborneAircraftLockOnMultiplier value="1.00000000" />

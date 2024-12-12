@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsManager>
   <Mods>
+    <Mod folder="No Forced Scope">
+      <Name>No Forced Scope</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
     <Mod folder="Animation Fixes/Extended_Player_Animations/Aiming_Animations">
       <Name>Aiming Animations</Name>
       <Enabled>true</Enabled>
@@ -111,6 +117,7 @@
     </Mod>
   </Mods>
   <LoadOrder>
+    <Mod>No Forced Scope</Mod>
     <Mod>Animation Fixes/Extended_Player_Animations/Aiming_Animations</Mod>
     <Mod>Animation Fixes/Serve Spoon Fix</Mod>
     <Mod>Gun_Metal_Rework</Mod>

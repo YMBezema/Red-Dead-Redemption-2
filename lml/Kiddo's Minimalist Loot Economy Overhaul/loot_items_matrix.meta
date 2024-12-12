@@ -89,13 +89,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -143,7 +143,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_ALLIGATOR_TOOTH</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -295,19 +295,19 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
@@ -515,19 +515,19 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-		  <Quantity value="2" />
+		  <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-		  <Quantity value="2" />
+		  <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-		  <Quantity value="2" />
+		  <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
@@ -1169,31 +1169,31 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -1453,19 +1453,19 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
@@ -1990,25 +1990,25 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -2280,31 +2280,31 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -2447,13 +2447,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_TENDER_PORK</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_TENDER_PORK</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -2742,31 +2742,31 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_TENDER_PORK</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_TENDER_PORK</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_TENDER_PORK</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_TENDER_PORK</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_TENDER_PORK</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -2899,13 +2899,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
@@ -3108,13 +3108,13 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_PRIME_BEEF</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_PRIME_BEEF</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -3126,7 +3126,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_PRIME_BEEF</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -3326,7 +3326,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_PRIME_BEEF</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="3" />
         </Item>
 		<Item>
           <DamageQuality>Poor</DamageQuality>
@@ -3436,13 +3436,13 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_PRIME_BEEF</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_PRIME_BEEF</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -3454,7 +3454,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_PRIME_BEEF</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -3644,31 +3644,31 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -3870,31 +3870,31 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -4073,31 +4073,31 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -4276,25 +4276,25 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -4670,25 +4670,25 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -4866,13 +4866,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
@@ -5053,13 +5053,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
@@ -5250,13 +5250,13 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_PRIME_BEEF</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_PRIME_BEEF</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -5671,7 +5671,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -5960,25 +5960,25 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -6141,19 +6141,19 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
 		<Item>
           <DamageQuality>Poor</DamageQuality>
@@ -6531,7 +6531,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -6703,13 +6703,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -7020,13 +7020,13 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -7038,13 +7038,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -7178,13 +7178,13 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -7196,13 +7196,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -7840,25 +7840,25 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" /> 
+          <Quantity value="1" /> 
         </Item>
       </Items>
     </Item>
@@ -8027,7 +8027,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -8199,13 +8199,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -8353,25 +8353,25 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -8987,13 +8987,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -9127,13 +9127,13 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -9145,7 +9145,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -9616,7 +9616,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
@@ -9758,7 +9758,7 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -9916,13 +9916,13 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_PRIME_BEEF</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_PRIME_BEEF</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -10112,19 +10112,19 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIG_GAME_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
@@ -10269,37 +10269,37 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="3" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
@@ -10450,13 +10450,13 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -10631,19 +10631,19 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -10878,7 +10878,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_TENDER_PORK</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
@@ -11401,25 +11401,25 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -11552,19 +11552,19 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_MATURE_VENISON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
@@ -11794,13 +11794,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -12347,25 +12347,25 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -12537,7 +12537,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -12799,7 +12799,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -13071,31 +13071,31 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -13424,37 +13424,37 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
 		<Item>
           <DamageQuality>Poor</DamageQuality>
@@ -13578,37 +13578,37 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_GRISTLY_MUTTON</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
 		<Item>
           <DamageQuality>Poor</DamageQuality>
@@ -14679,13 +14679,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -14882,13 +14882,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_BIRD_FEATHER_FLIGHT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -18153,25 +18153,25 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_GRITTY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_GRITTY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_GRITTY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_GRITTY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
       </Items>
     </Item>
@@ -18307,13 +18307,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -18325,13 +18325,13 @@
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -18467,37 +18467,37 @@
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -18805,13 +18805,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_GRITTY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_GRITTY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -18823,13 +18823,13 @@
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_GRITTY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_GRITTY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -18977,7 +18977,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -18989,7 +18989,7 @@
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -19149,25 +19149,25 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
       </Items>
     </Item>
@@ -19303,13 +19303,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -19321,13 +19321,13 @@
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -19777,13 +19777,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_SUCCULENT_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_SUCCULENT_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -19795,7 +19795,7 @@
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_SUCCULENT_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -20725,13 +20725,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -20743,13 +20743,13 @@
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_FLAKEY_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -21057,13 +21057,13 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_SUCCULENT_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Good</SkinQuality>
           <SatchelItem>PROVISION_SUCCULENT_FISH_MEAT</SatchelItem>
-          <Quantity value="2" />
+          <Quantity value="1" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
@@ -21075,7 +21075,7 @@
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_SUCCULENT_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
@@ -21235,25 +21235,25 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_SUCCULENT_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_SUCCULENT_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Good</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_SUCCULENT_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
         <Item>
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Legendary</SkinQuality>
           <SatchelItem>PROVISION_SUCCULENT_FISH_MEAT</SatchelItem>
-          <Quantity value="1" />
+          <Quantity value="2" />
         </Item>
       </Items>
     </Item>

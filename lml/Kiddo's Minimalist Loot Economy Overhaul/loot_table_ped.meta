@@ -801,13 +801,13 @@
       <Entries>
 		<Item>
 		  <Name>REWARD_PED_MEDIUM</Name>
-		  <Rate value="1.0" />
+		  <Rate value=".00" />
 		  <RewardCondition ref="PLAYER_HAS_NEUTRAL_HONOR" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>REWARD_PED_MEDIUM</Name>
-		  <Rate value="1.0" />
+		  <Rate value=".00" />
 		  <RewardCondition ref="PLAYER_HAS_HIGH_HONOR" />
 		  <Type>Table</Type>
 		</Item>
@@ -819,7 +819,7 @@
 		</Item>
 	  	<Item>
 		  <Name>PED_LOOT_TYPE_LAW</Name>
-		  <Rate value=".75" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -830,13 +830,13 @@
       <Entries>
 		<Item>
 		  <Name>REWARD_PED_SMALL</Name>
-		  <Rate value="1.0" />
+		  <Rate value=".00" />
 		  <RewardCondition ref="PLAYER_HAS_NEUTRAL_HONOR" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>REWARD_PED_MEDIUM</Name>
-		  <Rate value="1.0" />
+		  <Rate value=".00" />
 		  <RewardCondition ref="PLAYER_HAS_HIGH_HONOR" />
 		  <Type>Table</Type>
 		</Item>
@@ -848,7 +848,7 @@
 		</Item>
 	  	<Item>
 		  <Name>PED_LOOT_TYPE_LAW</Name>
-		  <Rate value=".60" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -859,25 +859,25 @@
       <Entries>
 		<Item>
 		  <Name>REWARD_PED_MEDIUM</Name>
-		  <Rate value=".70" />
+		  <Rate value=".00" />
 		  <RewardCondition ref="PLAYER_HAS_NEUTRAL_HONOR" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>REWARD_PED_MEDIUM</Name>
 		  <RewardCondition ref="PLAYER_HAS_HIGH_HONOR" />
-		  <Rate value=".70" />
+		  <Rate value=".00" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>REWARD_PED_LARGE</Name>
 		  <RewardCondition ref="PLAYER_HAS_LOW_HONOR" />
-		  <Rate value=".70" />
+		  <Rate value=".50" />
 		  <Type>Table</Type>
 		</Item>
 	  	<Item>
 		  <Name>PED_LOOT_TYPE_LAW</Name>
-		  <Rate value=".60" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -988,7 +988,7 @@
       <Entries>
 		<Item>
 		  <Name>REWARD_PED_SMALL</Name>
-		  <Rate value=".50" />
+		  <Rate value="0.50" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1014,8 +1014,8 @@
 		  <Type>Table</Type>
 		</Item>
 	  	<Item>
-		  <Name>PED_LOOT_TYPE_GUNHOLDER</Name>
-		  <Rate value=".65" />
+		  <Name>HONOR_NEUTRAL_ITEMS</Name>
+		  <Rate value="1.00" />
 		  <Type>Table</Type>
 		</Item>
 	  	<Item>
@@ -1585,18 +1585,18 @@
       <Type>ContinuousLinearDrop</Type>
       <Entries> 
 		<Item>
-		  <Name>HEALTH_AND_DEADEYE_BASIC</Name>
+		  <Name>DEADEYE_ITEMS</Name>
 		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>TOBACCO_ITEMS_PED</Name>
-		  <Rate value=".25" />
+		  <Rate value=".20" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>CHEAP_JEWELRY_ITEMS_PED</Name>
-		  <Rate value=".10" />
+		  <Rate value=".15" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1606,7 +1606,7 @@
 		</Item>
 		<Item>
 		  <Name>ALCOHOL_ITEMS_CHEAP</Name>
-		  <Rate value=".05" />
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1616,7 +1616,7 @@
 		</Item>
 		<Item>
 		  <Name>REWARD_GANG</Name>
-		  <Rate value=".40" />
+		  <Rate value=".35" />
 		  <Type>Table</Type>
 		</Item>
 	 </Entries>
@@ -1648,7 +1648,7 @@
       <Entries>
 		<Item>
 		  <Name>HERBS</Name>
-		  <Rate value=".30" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1683,7 +1683,7 @@
         </Item>
 		<Item>
 		  <Name>REWARD_GANG</Name>
-		  <Rate value=".20" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -1699,7 +1699,7 @@
         </Item>
 		<Item>
 		  <Name>TOBACCO_ITEMS_PED</Name>
-		  <Rate value=".10" />
+		  <Rate value=".15" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1724,7 +1724,7 @@
 		</Item>
 		<Item>
 		  <Name>REWARD_PED_SMALL</Name>
-		  <Rate value=".40" />
+		  <Rate value=".35" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -1740,7 +1740,7 @@
         </Item>
 		<Item>
 		  <Name>TOBACCO_AND_ALCOHOL</Name>
-		  <Rate value=".10" />
+		  <Rate value=".15" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1750,7 +1750,7 @@
 		</Item>
 		<Item>
 		  <Name>KIT_GUN_OIL</Name>
-		  <Rate value=".10" />
+		  <Rate value=".05" />
 		  <Type>Item</Type>
 		</Item>
 		<Item>
