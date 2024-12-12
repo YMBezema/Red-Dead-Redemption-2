@@ -1,107 +1,56 @@
-[13:49:4] [INIT] Initializing ScriptHook for Red Dead Redemption 2
-[13:49:4] Build: Tue Jul 16 14:38:59 2024 Version: 1.9 Tester
-[13:49:4] [INIT] Loading config
-[13:49:11] [POOLS] Scanning all patterns...
-[13:49:11] [POOLS] Scanned all patterns
-[13:49:11] [THREADS] Scanning all patterns...
-[13:49:11] [THREADS] Scanned all patterns
-[13:49:11] [VARS] Scanning all patterns...
-[13:49:11] [VARS] Scanned all patterns
-[13:49:11] [INIT] Hooking functions...
-[13:49:11] [HOOKS] Created hook GtaThread::Run
-[13:49:11] [HOOKS] Created hook rage::scrThread::Reset
-[13:49:11] [HOOKS] Created hook rage::fwConfigManager::GetSizeOfPool
-[13:49:11] [HOOKS] Created hook ConvertThreadToFiber
-[13:49:11] [HOOKS] Created hook SetCursorPos
-[13:49:11] [HOOKS] Created hook graphics_commands::GetStreamedTextureFromTxd
-[13:49:11] [HOOKS] Created hook rage::fwTextStore::FindTextAndSlot
-[13:49:11] [INIT] Finished hooking functions
-[13:49:12] [HOOKS] Created hook vkAcquireNextImageKHR
-[13:49:12] [HOOKS] Created hook vkAcquireNextImage2KHR
-[13:49:12] [HOOKS] Created hook vkQueuePresentKHR
-[13:49:12] [HOOKS] Created hook vkCreateSwapchainKHR
-[13:49:12] [VULKAN] Finished hooking
-[13:49:14] [VULKAN] Window resize detected, reinitializing ImGui!
-[13:49:23] [Pools] Extending CGameScriptHandler to 750
-[13:49:23] [Pools] Extending fwScriptGuid to 40000
-[13:49:23] [Pools] Extending CScriptEntityExtension to 10000
-[13:49:23] [Pools] Extending atDScriptObjectNode to 10000
-[13:50:38] [SCRIPTS] Incrementing capacity of Stacks with size 1024 by 25
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CombatExperience.asi with Id 48
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CoresRegenOverTime1.0.asi with Id 49
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CriticalHits.asi with Id 50
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DeadEyeActivationCooldownReloaded.asi with Id 51
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DSX.asi with Id 52
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DumpThatCargo1.1.asi with Id 53
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DumpThatCargo1.1.asi with Id 54
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\FastWalk.asi with Id 55
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\GatlingWagons.asi with Id 56
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Hard.asi with Id 57
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\horseHolster.asi with Id 58
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\HuntingCamp.asi with Id 59
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Injury.asi with Id 60
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\LessMoney.asi with Id 61
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\NoAutoReloadEver.asi with Id 62
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Outfits.asi with Id 63
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\PedDamageOverhaul.asi with Id 64
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Rampage.asi with Id 65
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Softer.asi with Id 66
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\StashThatLantern2.8.asi with Id 67
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\TieYourLasso.asi with Id 68
-[13:50:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\_Bandit_Hideouts.asi with Id 69
-[13:50:38] [SCRIPTS] Starting audiotest thread for ScriptHook::LuaManager::QueueTick with Id 70
-[13:50:38] [SCRIPTS] Starting audiotest thread for ScriptHook::LuaManager::GeneralTick with Id 71
-[13:50:38] [SCRIPTS] Starting audiotest thread for ScriptHook::Interface::ScriptTick with Id 72
-[13:50:38] [Lua Manager] Failed to find any scripts in the folder: scripts/
-[13:51:29] [SCRIPTS] Save game reload in progress, reloading scripts...
-[13:51:38] [SCRIPTS] Incrementing capacity of Stacks with size 1024 by 25
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CombatExperience.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CombatExperience.asi with Id 114
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CoresRegenOverTime1.0.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CoresRegenOverTime1.0.asi with Id 115
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CriticalHits.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CriticalHits.asi with Id 116
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DeadEyeActivationCooldownReloaded.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DeadEyeActivationCooldownReloaded.asi with Id 117
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DSX.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DSX.asi with Id 118
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DumpThatCargo1.1.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DumpThatCargo1.1.asi with Id 119
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DumpThatCargo1.1.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DumpThatCargo1.1.asi with Id 120
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\FastWalk.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\FastWalk.asi with Id 121
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\GatlingWagons.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\GatlingWagons.asi with Id 122
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Hard.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Hard.asi with Id 123
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\horseHolster.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\horseHolster.asi with Id 124
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\HuntingCamp.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\HuntingCamp.asi with Id 125
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Injury.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Injury.asi with Id 126
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\LessMoney.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\LessMoney.asi with Id 127
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\NoAutoReloadEver.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\NoAutoReloadEver.asi with Id 128
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Outfits.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Outfits.asi with Id 129
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\PedDamageOverhaul.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\PedDamageOverhaul.asi with Id 130
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Rampage.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Rampage.asi with Id 131
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Softer.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Softer.asi with Id 132
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\StashThatLantern2.8.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\StashThatLantern2.8.asi with Id 133
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\TieYourLasso.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\TieYourLasso.asi with Id 134
-[13:51:38] [SCRIPTS] Savegame reload on script D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\_Bandit_Hideouts.asi
-[13:51:38] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\_Bandit_Hideouts.asi with Id 135
-[13:51:38] [SCRIPTS] Savegame reload on script ScriptHook::LuaManager::QueueTick
-[13:51:38] [SCRIPTS] Starting audiotest thread for ScriptHook::LuaManager::QueueTick with Id 136
-[13:51:38] [SCRIPTS] Savegame reload on script ScriptHook::LuaManager::GeneralTick
-[13:51:38] [SCRIPTS] Starting audiotest thread for ScriptHook::LuaManager::GeneralTick with Id 137
-[13:51:38] [SCRIPTS] Savegame reload on script ScriptHook::Interface::ScriptTick
-[13:51:38] [SCRIPTS] Starting audiotest thread for ScriptHook::Interface::ScriptTick with Id 138
+[16:23:19] [INIT] Initializing ScriptHook for Red Dead Redemption 2
+[16:23:19] Build: Tue Jul 16 14:38:59 2024 Version: 1.9 Tester
+[16:23:19] [INIT] Loading config
+[16:23:26] [POOLS] Scanning all patterns...
+[16:23:26] [POOLS] Scanned all patterns
+[16:23:26] [THREADS] Scanning all patterns...
+[16:23:26] [THREADS] Scanned all patterns
+[16:23:26] [VARS] Scanning all patterns...
+[16:23:26] [VARS] Scanned all patterns
+[16:23:26] [INIT] Hooking functions...
+[16:23:26] [HOOKS] Created hook GtaThread::Run
+[16:23:26] [HOOKS] Created hook rage::scrThread::Reset
+[16:23:26] [HOOKS] Created hook rage::fwConfigManager::GetSizeOfPool
+[16:23:26] [HOOKS] Created hook ConvertThreadToFiber
+[16:23:26] [HOOKS] Created hook SetCursorPos
+[16:23:26] [HOOKS] Created hook graphics_commands::GetStreamedTextureFromTxd
+[16:23:26] [HOOKS] Created hook rage::fwTextStore::FindTextAndSlot
+[16:23:26] [INIT] Finished hooking functions
+[16:23:27] [HOOKS] Created hook vkAcquireNextImageKHR
+[16:23:27] [HOOKS] Created hook vkAcquireNextImage2KHR
+[16:23:27] [HOOKS] Created hook vkQueuePresentKHR
+[16:23:27] [HOOKS] Created hook vkCreateSwapchainKHR
+[16:23:27] [VULKAN] Finished hooking
+[16:23:28] [VULKAN] Window resize detected, reinitializing ImGui!
+[16:23:38] [Pools] Extending CGameScriptHandler to 750
+[16:23:38] [Pools] Extending fwScriptGuid to 40000
+[16:23:38] [Pools] Extending CScriptEntityExtension to 10000
+[16:23:38] [Pools] Extending atDScriptObjectNode to 10000
+[16:24:50] [SCRIPTS] Incrementing capacity of Stacks with size 1024 by 26
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Banking.asi with Id 49
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CombatExperience.asi with Id 50
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CoresRegenOverTime1.0.asi with Id 51
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CriticalHits.asi with Id 52
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DeadEyeActivationCooldownReloaded.asi with Id 53
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DSX.asi with Id 54
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DumpThatCargo1.1.asi with Id 55
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DumpThatCargo1.1.asi with Id 56
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\FastWalk.asi with Id 57
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\GatlingWagons.asi with Id 58
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Hard.asi with Id 59
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\horseHolster.asi with Id 60
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\HuntingCamp.asi with Id 61
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Injury.asi with Id 62
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\LessMoney.asi with Id 63
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\NoAutoReloadEver.asi with Id 64
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Outfits.asi with Id 65
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\PedDamageOverhaul.asi with Id 66
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Rampage.asi with Id 67
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Softer.asi with Id 68
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\StashThatLantern2.8.asi with Id 69
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\TieYourLasso.asi with Id 70
+[16:24:50] [SCRIPTS] Starting audiotest thread for D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\_Bandit_Hideouts.asi with Id 71
+[16:24:50] [SCRIPTS] Starting audiotest thread for ScriptHook::LuaManager::QueueTick with Id 72
+[16:24:50] [SCRIPTS] Starting audiotest thread for ScriptHook::LuaManager::GeneralTick with Id 73
+[16:24:50] [SCRIPTS] Starting audiotest thread for ScriptHook::Interface::ScriptTick with Id 74
+[16:24:51] [Lua Manager] Failed to find any scripts in the folder: scripts/
