@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EasyInstall>
+  <Name>Refitted Bandoliers</Name>
+  <Author>Suika</Author>
+  <Version>1.0</Version>
+  <Link></Link>
+  <Metadata></Metadata>
+  <Resources>
+    <Resource>
+	    <StreamingFiles>bandolier_stream</StreamingFiles>
+    </Resource>	
+  </Resources>
+</EasyInstall>

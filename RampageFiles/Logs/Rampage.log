@@ -1,35 +1,31 @@
 // RDR2 Rampage Trainer (build Jun 15 2024, v.1.0.1491.50)
-[16:23:19] [MH] Initialized
-[16:23:19] [Core] Script Registered
-[16:24:50] [Core] SH API -> 0
-[16:24:50] [Core] Running on -> 1.0.1491.50 on Steam
-[16:24:50] [Core] Base 0x7FF612A20000
-[16:24:50] [Core] Module 0x7FFF58BB0000
-[16:24:50] [OK] [Patterns] Found STI
-[16:24:50] [OK] [Patterns] Found DP
-[16:24:50] [OK] [Patterns] Found SIRP
-[16:24:50] [OK] [Patterns] Found FTAS
-[16:24:50] [OK] [Patterns] Found RIF
-[16:24:50] [OK] [Patterns] Found GCBH
-[16:24:50] [OK] [Patterns] Found TM
-[16:24:50] [OK] [Patterns] Found AITL
-[16:24:50] [OK] [Patterns] Found LRPF
-[16:24:50] [OK] [Patterns] Found UAO
-[16:24:50] [ERROR] [Patterns] Failed to find HMP
-[16:24:50] [OK] [Patterns] Found HFP
-[16:24:51] [OK] [Patterns] Found SCT
-[16:24:51] [OK] [Hooks] Created SCIM
-[16:24:51] [OK] [Hooks] Created GFFAC
-[16:24:51] [OK] [Threads] Created CRC fiber
-[16:24:51] [OK] [Threads] Created WDC fiber
-[16:24:51] [OK] [Threads] Created FNC fiber
-[16:24:51] [OK] [Threads] Created EIC fiber
-[16:24:51] [OK] [Threads] Created AEC fiber
-[16:24:51] [OK] [Threads] FP initialized
-[16:24:51] [OK] [RIF] Registered with ID: 180249
-[16:24:51] [OK] [RIF] Registered with ID: 180250
-[16:24:51] [OK] [FMOD] Audio Engine initialized
-[16:24:51] [OK] [Service] Settings -> Loaded
-[16:24:52] [OK] [Service] Hotkeys -> Loaded
-[16:24:52] [Service] Checking for Seasonal Events
-[16:24:52] [Core] Finished Loading!
+[14:20:24] [MH] Initialized
+[14:20:24] [Core] Script Registered
+[14:22:07] [Core] SH API -> 0
+[14:22:07] [Core] Running on -> 1.0.1491.50 on Steam
+[14:22:07] [Core] Base 0x7FF682E50000
+[14:22:07] [Core] Module 0x7FF816090000
+[14:22:07] [OK] [Patterns] Found STI
+[14:22:07] [OK] [Patterns] Found DP
+[14:22:07] [OK] [Patterns] Found SIRP
+[14:22:07] [OK] [Patterns] Found FTAS
+[14:22:07] [OK] [Patterns] Found RIF
+[14:22:07] [OK] [Patterns] Found GCBH
+[14:22:07] [OK] [Patterns] Found TM
+[14:22:07] [OK] [Patterns] Found AITL
+[14:22:07] [OK] [Patterns] Found LRPF
+[14:22:07] [OK] [Patterns] Found UAO
+[14:22:07] [ERROR] [Patterns] Failed to find HMP
+[14:22:07] [OK] [Patterns] Found HFP
+[14:22:07] [OK] [Patterns] Found SCT
+[14:22:07] [OK] [Hooks] Created SCIM
+[14:22:07] [OK] [Hooks] Created GFFAC
+[14:22:07] [OK] [Threads] Created CRC fiber
+[14:22:07] [OK] [Threads] Created WDC fiber
+[14:22:07] [OK] [Threads] Created FNC fiber
+[14:22:07] [OK] [Threads] Created EIC fiber
+[14:22:07] [OK] [Threads] Created AEC fiber
+[14:22:07] [OK] [Threads] FP initialized
+[14:22:07] [OK] [RIF] Registered with ID: 270999
+[14:22:07] [OK] [RIF] Registered with ID: 271000
+[14:22:07] [OK] [FMOD] Audio Engine initialized

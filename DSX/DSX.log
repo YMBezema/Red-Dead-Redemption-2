@@ -1,10 +1,10 @@
-[12/11/2024 16:24:51] RDR2 DSX - 1.0.2
+[24/11/2024 12:23:50] RDR2 DSX - 1.0.2
 if you want to report an issue, please attach this file's contents.
 ===========================================================================
-[12/11/2024 16:24:51] loading settings file: DSX/Settings.ini
-[12/11/2024 16:24:51] settings file loaded
-[12/11/2024 16:24:51] ReuseSocket flag is ON - creating a reusable socket
-[12/11/2024 16:24:51] DSX: reading DSX server port number
-[12/11/2024 16:24:51] DSX: port number: 6969
-[12/11/2024 16:24:51] DSX initialized
-[12/11/2024 16:24:51] initialization completed, took: 111ms
+[24/11/2024 12:23:50] loading settings file: DSX/Settings.ini
+[24/11/2024 12:23:50] settings file loaded
+[24/11/2024 12:23:50] ReuseSocket flag is ON - creating a reusable socket
+[24/11/2024 12:23:50] DSX: reading DSX server port number
+[24/11/2024 12:23:50] DSX: port number: 6969
+[24/11/2024 12:23:50] DSX initialized
+[24/11/2024 12:23:50] initialization completed, took: 112ms

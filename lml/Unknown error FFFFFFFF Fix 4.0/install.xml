@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EasyInstall>
+  <Name>Unknown error ffffffff Memory Fix</Name>
+  <Author>Syyyke</Author>
+  <Version>4.0</Version>
+  <Link>https://www.nexusmods.com/reddeadredemption2/mods/5238</Link>
+  <Date>December 19th 2024</Date>
+  <Metadata></Metadata>
+  <ResourceFolders/>
+  <Resources>
+    <Resource>
+      <FileReplacement>
+        <GamePath>update:/common/data/gameconfig.xml</GamePath>
+        <FilePath>gameconfig.xml</FilePath>
+      </FileReplacement>
+    </Resource>
+  </Resources>
+</EasyInstall>

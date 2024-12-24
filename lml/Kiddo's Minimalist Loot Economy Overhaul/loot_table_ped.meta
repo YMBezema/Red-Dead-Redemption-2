@@ -238,7 +238,7 @@
       <Type>AggregateDrop</Type>
       <Entries>
 		<Item>
-		  <Name>HONOR_NEUTRAL_ITEMS</Name>
+		  <Name>PED_LOOT_TYPE_GUNHOLDER</Name>
 		  <Rate value="1.0" />
 		  <RewardCondition ref="PLAYER_HAS_NEUTRAL_HONOR" />
 		  <Type>Table</Type>
@@ -250,8 +250,20 @@
 		  <Type>Table</Type>
 		</Item>
 	  	<Item>
-		  <Name>PED_LOOT_TYPE_CRIMINAL</Name>
+		  <Name>PED_LOOT_TYPE_HIREDGUN</Name>
 		  <Rate value="1.0" />
+		  <RewardCondition ref="PLAYER_HAS_LOW_HONOR" />
+		  <Type>Table</Type>
+		</Item>
+		<Item>
+		  <Name>JEWELRY_ITEMS_MALE</Name>
+		  <Rate value=".10" />
+		  <RewardCondition ref="PLAYER_HAS_HIGH_HONOR" />
+		  <Type>Table</Type>
+		</Item>
+		<Item>
+		  <Name>JEWELRY_ITEMS_MALE</Name>
+		  <Rate value=".20" />
 		  <RewardCondition ref="PLAYER_HAS_LOW_HONOR" />
 		  <Type>Table</Type>
 		</Item>
@@ -463,7 +475,7 @@
 		</Item>
 		<Item>
 		  <Name>PED_LOOT_LOCALE_FOREST</Name>
-		  <Rate value=".25" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -561,7 +573,7 @@
       <Entries>
 	  	<Item>
 		  <Name>PED_LOOT_TYPE_HUNTER</Name>
-		  <Rate value=".25" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
 	  	<Item>
@@ -598,7 +610,7 @@
       <Entries>
 	  	<Item>
 		  <Name>PED_LOOT_TYPE_NATIVEAMERICAN</Name>
-		  <Rate value=".65" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -614,7 +626,7 @@
       <Entries>
 		<Item>
 		  <Name>REWARD_PED_SMALL</Name>
-		  <Rate value=".65" />
+		  <Rate value=".50" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -624,7 +636,7 @@
 		</Item>
 	  	<Item>
 		  <Name>PED_LOOT_TYPE_TRAVELER</Name>
-		  <Rate value=".25" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -635,7 +647,7 @@
       <Entries>
 		<Item>
 		  <Name>REWARD_PED_MEDIUM</Name>
-		  <Rate value=".65" />
+		  <Rate value=".50" />
 		  <Type>Table</Type>
 		</Item>
 	  	<Item>
@@ -645,7 +657,7 @@
 		</Item>
 		<Item>
 		  <Name>PED_LOOT_LOCALE_MOUNTAINS</Name>
-		  <Rate value=".25" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -693,7 +705,7 @@
 		</Item>
 		<Item>
 		  <Name>PED_LOOT_TYPE_OBESE</Name>
-		  <Rate value=".50" />
+		  <Rate value="1.0" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -1014,7 +1026,7 @@
 		  <Type>Table</Type>
 		</Item>
 	  	<Item>
-		  <Name>HONOR_NEUTRAL_ITEMS</Name>
+		  <Name>PED_LOOT_TYPE_GUNHOLDER</Name>
 		  <Rate value="1.00" />
 		  <Type>Table</Type>
 		</Item>
@@ -1591,7 +1603,7 @@
 		</Item>
 		<Item>
 		  <Name>TOBACCO_ITEMS_PED</Name>
-		  <Rate value=".20" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1601,12 +1613,12 @@
 		</Item>
 		<Item>
 		  <Name>THROWABLE_AMMO</Name>
-		  <Rate value=".05" />
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>ALCOHOL_ITEMS_CHEAP</Name>
-		  <Rate value=".10" />
+		  <Rate value=".05" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1616,7 +1628,7 @@
 		</Item>
 		<Item>
 		  <Name>REWARD_GANG</Name>
-		  <Rate value=".35" />
+		  <Rate value=".30" />
 		  <Type>Table</Type>
 		</Item>
 	 </Entries>
@@ -1648,12 +1660,12 @@
       <Entries>
 		<Item>
 		  <Name>HERBS</Name>
-		  <Rate value=".25" />
+		  <Rate value=".20" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>FOOD_ITEMS_FRUIT</Name>
-		  <Rate value=".05" />
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1668,12 +1680,12 @@
 		</Item>
 		<Item>
 		  <Name>TOBACCO_ITEMS_PED</Name>
-		  <Rate value=".25" />
+		  <Rate value=".30" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>THROWABLE_AMMO</Name>
-		  <Rate value=".05" />
+		  <Rate value=".10" />
 		  <Type>Ammo</Type>
 		</Item>
 		<Item>
@@ -1683,7 +1695,7 @@
         </Item>
 		<Item>
 		  <Name>REWARD_GANG</Name>
-		  <Rate value=".25" />
+		  <Rate value=".15" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -1759,8 +1771,13 @@
 		  <Type>Table</Type>
 		</Item>
 		<Item>
+		  <Name>FOOD_ITEMS_SNACK</Name>
+		  <Rate value=".05" />
+		  <Type>Table</Type>
+		</Item>
+		<Item>
 		  <Name>REWARD_PED_MEDIUM</Name>
-		  <Rate value=".35" />
+		  <Rate value=".30" />
 		  <Type>Table</Type>
 		</Item>
       </Entries>
@@ -1783,13 +1800,13 @@
 		</Item>
 		<Item>
 		  <Name>JEWELRY_ITEMS_MALE</Name>
-		  <Rate value=".10" />
+		  <Rate value=".20" />
 		  <RewardCondition ref="PLAYER_HAS_HIGH_HONOR" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>JEWELRY_ITEMS_MALE</Name>
-		  <Rate value=".25" />
+		  <Rate value=".40" />
 		  <RewardCondition ref="PLAYER_HAS_LOW_HONOR" />
 		  <Type>Table</Type>
 		</Item>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MainWaterTune>
+  <WaterColor value="0x1A00191C" />
+  <RippleSpeed value="4.500000" />
+  <FogPierceIntensity value="0.750000" />
+  <WaterCycleDepth value="10.000000" />
+  <WaterCycleFade value="500.000000" />
+  <WaterLightningDepth value="30.000000" />
+  <WaterLightningFade value="10.000000" />
+  <DeepWaterModDepth value="100.000000" />
+  <DeepWaterModFade value="100.000000" />
+  <GodRaysLerpStart value="0.000000" />
+  <GodRaysLerpEnd value="500.000000" />
+  <DisturbFoamScale value="0.100000" />
+  <FogMin x="-1333.000000" y="-1000.000000" />
+  <FogMax x="1500.000000" y="2000.000000" />
+  <RainFadeMin value="5.000000" />
+  <RainFadeMax value="15.000000" />
+  <OceanFoam_DepthFadeRange value="1.000000" />
+
+  <!-- Water Clip (Underwater) -->
+  <WaterClipViewDistance value="10.000000"/>
+  <WaterClipFogColor value="0xFF997F66" />
+  <WaterClipFogBrightness value="1.5"/>
+  <WaterClipCameraCausticStrength value="0.500000"/>
+  <WaterClipCausticStrength value="1.000000"/>
+</MainWaterTune>

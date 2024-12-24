@@ -43,6 +43,5 @@
                 <FilePath>loot_table_container.meta</FilePath>
             </FileReplacement>
         </Resource>
-		
     </Resources>
 </EasyInstall>

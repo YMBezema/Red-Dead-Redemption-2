@@ -2,81 +2,88 @@
 
 #Revolver
 
-	Express
-	0xFBD68BCE = Provides incredible stopping power. Contains 20 bullets.
-	High Velocity
-	0xF6DFD981 = Improved range and target penetration. Contains 20 bullets.
-	Standard
-	0xE14435DC = Designed for reliability and consistency. Contains 20 Bullets.
-
 	AMMO_REVOLVER = Revolver Bullets
+	0xE14435DC = Designed for reliability and consistency. Contains 20 bullets.
 
-	AMMO_REVOLVER_EXPRESS = Revolver Bullets - Express
+	AMMO_REVOLVER_EXPRESS = Express Revolver Bullets
+	0xFBD68BCE = Provides incredible stopping power. Contains 20 bullets.
 
-	AMMO_REVOLVER_HIGH_VELOCITY = Revolver Bullets - High Velocity
+	AMMO_REVOLVER_HIGH_VELOCITY = High Velocity Revolver Bullets
+	0xF6DFD981 = Improved range and target penetration. Contains 20 bullets.
+
+	AMMO_REVOLVER_EXPRESS_EXPLOSIVE = Explosive Revolver Bullets
+	0x7228C5B3 = Crafts one explosive bullet. Explodes on impact with target, increasing damage.
+
+	AMMO_REVOLVER_SPLIT_POINT = Split Point Revolver Bullets
+	0x78881653 = Crafts one split point bullet. Slightly increased damage, and slower Dead Eye drain when chambered.
 
 #Pistol
 
-	Express
-	0x1AADB2C9 = Provides incredible stopping power. Contains 20 bullets.
-	High Velocity
-	0x44108FCA = Improved range and target penetration. Contains 20 bullets.
-	Standard
+	AMMO_PISTOL = Pistol Bullets
 	0x35D0EBB0 = Designed for reliability and consistency. Contains 20 bullets.
 
-	AMMO_PISTOL = Pistol Bullets
+	AMMO_PISTOL_EXPRESS = Express Pistol Bullets
+	0x1AADB2C9 = Provides incredible stopping power. Contains 20 bullets.
 
-	AMMO_PISTOL_EXPRESS = Pistol Bullets - Express
+	AMMO_PISTOL_HIGH_VELOCITY = High Velocity Pistol Bullets
+	0x44108FCA = Improved range and target penetration. Contains 20 bullets.
 
-	AMMO_PISTOL_HIGH_VELOCITY = Pistol Bullets - High Velocity
+	AMMO_PISTOL_SPLIT_POINT = Split Point Pistol Bullets
+	0xC051F568 = Crafts one split point bullet. Slightly increased damage, and slower Dead Eye drain when chambered.
+
+	AMMO_PISTOL_EXPRESS_EXPLOSIVE = Explosive Pistol Bullets
+	0xFABC5E0F = Crafts one explosive bullet. Explodes on impact with target, increasing damage.
 
 #Repeater
 
-	Express
-	0xB6F13F6B = Provides incredible stopping power. Contains 20 cartridges.
-	High Velocity
-	0xBE9B6E42 = Improved range and target penetration. Contains 20 cartridges.
-	Standard
-	0x1B977235 = Designed for reliability and consistency. Contains 20 cartridges.
+	AMMO_REPEATER = Repeater Bullets
+	0x1B977235 = Designed for reliability and consistency. Contains 20 bullets.
 
-	AMMO_REPEATER = Repeater Cartridges
+	AMMO_REPEATER_EXPRESS = Express Repeater Bullets
+	0xB6F13F6B = Provides incredible stopping power. Contains 20 bullets.
 
-	AMMO_REPEATER_EXPRESS = Repeater Cartridges - Express
+	AMMO_REPEATER_HIGH_VELOCITY = High Velocity Repeater Bullets
+	0xBE9B6E42 = Improved range and target penetration. Contains 20 bullets.
 
-	AMMO_REPEATER_HIGH_VELOCITY = Repeater Cartridges - High Velocity
+	AMMO_REPEATER_SPLIT_POINT = Split Point Repeater Bullets
+	0x9BEE6F22 = Crafts one split point bullet. Slightly increased damage, and slower Dead Eye drain when chambered.
+
+	AMMO_REPEATER_EXPRESS_EXPLOSIVE = Explosive Repeater Bullets
+	0xF7C59362 = Crafts one explosive bullet. Explodes on impact with target, increasing damage.
 
 #Rifle
 
-	Express
-	0x41035D44 = Provides incredible stopping power. Contains 10 cartridges.
-	High Velocity
-	0xE2D03D88 = Improved range and target penetration. Contains 10 cartridges.
-	Standard
+	AMMO_RIFLE = Rifle Cartridges
 	0xF7465D7D = Designed for reliability and consistency. Contains 10 cartridges.
 
-	AMMO_RIFLE = Rifle Cartridges
+	AMMO_RIFLE_EXPRESS = Express Rifle Cartridges
+	0x41035D44 = Provides incredible stopping power. Contains 10 cartridges.
 
-	AMMO_RIFLE_EXPRESS = Rifle Cartridges - Express
+	AMMO_RIFLE_HIGH_VELOCITY = High Velocity Rifle Cartridges
+	0xE2D03D88 = Improved range and target penetration. Contains 10 cartridges.
 
-	AMMO_RIFLE_HIGH_VELOCITY = Rifle Cartridges - High Velocity
+	AMMO_RIFLE_SPLIT_POINT = Split Point Rifle Cartridges
+	0xAB69288A = Crafts one split point cartridge. Slightly increased damage, and slower Dead Eye drain when chambered.
+
+	AMMO_RIFLE_EXPRESS_EXPLOSIVE = Explosive Rifle Cartridges
+	0xA8214918 = Crafts one explosive cartridge. Explodes on impact with target, increasing damage.
 
 #Shotgun
 	
-	Slug
-	0x5B4E4710 = Slugged ammunition which fires a single powerful projectile. Contains 10 slugs.
-	Standard
-	0x21DCEDB2 = Regular buckshot ammunition. Contains 10 shells.
-
 	AMMO_SHOTGUN = Shotgun Shells
+	0x21DCEDB2 = Regular buckshot ammunition. Contains 15 shells.
 
 	AMMO_SHOTGUN_SLUG = Shotgun Slugs
+	0x5B4E4710 = Slugged ammunition which fires a single powerful projectile. Contains 15 slugs.
+
+	AMMO_SHOTGUN_BUCKSHOT_INCENDIARY = Incendiary Buckshot Shells
+
+	AMMO_SHOTGUN_SLUG_EXPLOSIVE = Explosive Shotgun Slugs
 
 #Varmint
 
-	Standard
-	0xD3D81D5A = Designed for hunting small game without damaging pelts. Contains 10 cartridges.
-
 	AMMO_22 = .22 Varmint Cartridges
+	0xD3D81D5A = Designed for hunting small game without damaging pelts. Contains 10 cartridges.
 
 
 #Bandolier & Gun Belt
@@ -85,8 +92,13 @@
 
 	UPGRADE_BANDOLR_DESC = Permanently increases capacity for repeater, rifle and shotgun ammo by 20.
 
+#Arrows
 
-	
+	AMMO_ARROW_IMPROVED = Improved Arrow
+	AMMO_ARROW_SMALL_GAME = Small Game Arrow
+	AMMO_ARROW_FIRE = Flaming Arrow
+	AMMO_ARROW_POISON = Poisoned Arrow
+	AMMO_ARROW_DYNAMITE = Dynamite Arrow
 
 
 [COOKED MEAT DESCRIPTIONS]

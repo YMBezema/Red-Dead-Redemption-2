@@ -8,8 +8,8 @@
       <Entries>
 		<Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="25" />
-          <Max value="25" />
+		  <Min value="50" />
+          <Max value="50" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -21,8 +21,8 @@
       <Entries>
 		<Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="50" />
-          <Max value="100" />
+		  <Min value="100" />
+          <Max value="200" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -48,7 +48,7 @@
         <Item>
           <Name>CURRENCY_CASH</Name>
 		  <Min value="100" />
-          <Max value="250" />
+          <Max value="350" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -61,7 +61,7 @@
         <Item>
           <Name>CURRENCY_CASH</Name>
 		  <Min value="250" />
-          <Max value="500" />
+          <Max value="600" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -112,8 +112,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="500" />
-          <Max value="500" />
+		  <Min value="1000" />
+          <Max value="1000" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -125,8 +125,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="300" />
-          <Max value="300" />
+		  <Min value="500" />
+          <Max value="500" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -138,8 +138,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="1000" />
-          <Max value="1000" />
+		  <Min value="1500" />
+          <Max value="1500" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -149,13 +149,6 @@
 	<Item key="REWARD_MONEYCLIP" name="MONEYCLIP">
       <Type>ContinuousLinearDrop</Type>
       <Entries>
-        <Item>
-          <Name>CURRENCY_CASH</Name>
-		  <Min value="400" />
-          <Max value="400" />
-          <Rate value=".20"/>
-          <Type>Money</Type>
-        </Item>
         <Item>
           <Name>CURRENCY_CASH</Name>
 		  <Min value="500" />
@@ -181,13 +174,20 @@
           <Name>CURRENCY_CASH</Name>
 		  <Min value="800" />
           <Max value="800" />
-          <Rate value=".10"/>
+          <Rate value=".20"/>
           <Type>Money</Type>
         </Item>
         <Item>
           <Name>CURRENCY_CASH</Name>
 		  <Min value="900" />
           <Max value="900" />
+          <Rate value=".10"/>
+          <Type>Money</Type>
+        </Item>
+        <Item>
+          <Name>CURRENCY_CASH</Name>
+		  <Min value="1000" />
+          <Max value="1000" />
           <Rate value=".10"/>
           <Type>Money</Type>
         </Item>
@@ -199,8 +199,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="1500" />
-          <Max value="1500" />
+		  <Min value="2000" />
+          <Max value="2000" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -304,7 +304,7 @@
         <Item>
           <Name>CURRENCY_CASH</Name>
 		  <Min value="1" />
-          <Max value="200" />
+          <Max value="250" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -317,7 +317,7 @@
         <Item>
           <Name>CURRENCY_CASH</Name>
 		  <Min value="1" />
-          <Max value="300" />
+          <Max value="350" />
           <Rate value="1.0"/>
           <Type>Money</Type>
         </Item>
@@ -537,7 +537,7 @@
 		<Item>
           <Name>CURRENCY_CASH</Name>
 		  <Min value="100" />
-          <Max value="600" />
+          <Max value="1000" />
           <Rate value="1.0"/>
 		  <RewardCondition ref="IN_RURAL_AREA" />
           <Type>Money</Type>
@@ -545,7 +545,7 @@
 		<Item>
           <Name>CURRENCY_CASH</Name>
 		  <Min value="100" />
-          <Max value="1000" />
+          <Max value="2000" />
           <Rate value="1.0"/>
 		  <RewardCondition ref="IN_URBAN_AREA" />
           <Type>Money</Type>
@@ -610,8 +610,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="500" />
-          <Max value="500" />
+		  <Min value="1000" />
+          <Max value="1000" />
           <Rate value="1"/>
           <Type>Money</Type>
         </Item>
@@ -623,8 +623,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="1000" />
-          <Max value="1000" />
+		  <Min value="1500" />
+          <Max value="1500" />
           <Rate value="1"/>
           <Type>Money</Type>
         </Item>
@@ -636,8 +636,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="1500" />
-          <Max value="1500" />
+		  <Min value="2000" />
+          <Max value="2000" />
           <Rate value="1"/>
           <Type>Money</Type>
         </Item>
@@ -714,8 +714,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="750" />
-          <Max value="750" />
+		  <Min value="1500" />
+          <Max value="1500" />
           <Rate value="1"/>
           <Type>Money</Type>
         </Item>
@@ -727,8 +727,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="1200" />
-          <Max value="1200" />
+		  <Min value="2000" />
+          <Max value="2000" />
           <Rate value="1"/>
           <Type>Money</Type>
         </Item>
@@ -740,8 +740,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="1500" />
-          <Max value="1500" />
+		  <Min value="2500" />
+          <Max value="2500" />
           <Rate value="1"/>
           <Type>Money</Type>
         </Item>
@@ -753,8 +753,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="2500" />
-          <Max value="2500" />
+		  <Min value="3000" />
+          <Max value="3000" />
           <Rate value="1"/>
           <Type>Money</Type>
         </Item>
@@ -779,8 +779,8 @@
       <Entries>
         <Item>
           <Name>CURRENCY_CASH</Name>
-		  <Min value="2500" />
-          <Max value="2500" />
+		  <Min value="5000" />
+          <Max value="5000" />
           <Rate value="1"/>
           <Type>Money</Type>
         </Item>

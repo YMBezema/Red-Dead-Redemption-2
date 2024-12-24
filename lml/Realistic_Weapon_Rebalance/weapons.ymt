@@ -86827,7 +86827,7 @@
       <WeaponBone>0xE876AE81</WeaponBone>
       <HideWeaponsAttachedHere value="false" />
       <HideAIWeaponsAttachedHere value="false" />
-      <ShowWeaponWithoutMetaPedAttachTag value="false" />
+      <ShowWeaponWithoutMetaPedAttachTag value="true" />
       <DualWieldLockedAttachPoint value="false" />
       <TryToHorseHolsterWeaponsCreatedHere value="false" />
       <TryToVehicleHolsterWeaponsCreatedHere value="false" />

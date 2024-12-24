@@ -1,8 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsManager>
   <Mods>
-    <Mod folder="No Forced Scope">
-      <Name>No Forced Scope</Name>
+    <Mod folder="CollyriumRedone">
+      <Name>CollyriumRedone</Name>
+      <Enabled>false</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Lasso on Belt Restored">
+      <Name>ea</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Rain Particles Fix">
+      <Name>Rain Particles Fix</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Unknown error FFFFFFFF Fix 4.0">
+      <Name>Unknown error ffffffff Memory Fix</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="ImprovementsInBlood">
+      <Name>ImprovementsInBlood</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Penetration">
+      <Name>Penetration</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Refitted Bandoliers - Shirts and Vests">
+      <Name>Refitted Bandoliers</Name>
       <Enabled>true</Enabled>
       <Overwrite>false</Overwrite>
       <DisabledGroups />
@@ -25,12 +61,6 @@
       <Overwrite>false</Overwrite>
       <DisabledGroups />
     </Mod>
-    <Mod folder="Unknown error FFFFFFFF Fix 3.1">
-      <Name>Unknown error ffffffff Memory Fix</Name>
-      <Enabled>true</Enabled>
-      <Overwrite>false</Overwrite>
-      <DisabledGroups />
-    </Mod>
     <Mod folder="HideOnlineButton">
       <Name>Remove Online Button</Name>
       <Enabled>true</Enabled>
@@ -43,20 +73,8 @@
       <Overwrite>false</Overwrite>
       <DisabledGroups />
     </Mod>
-    <Mod folder="W.E.R.O (Default Reaction Time (1.2 seconds))">
-      <Name>W.E.R.O (Default Reaction Time (1.2 seconds))</Name>
-      <Enabled>true</Enabled>
-      <Overwrite>false</Overwrite>
-      <DisabledGroups />
-    </Mod>
     <Mod folder="Ped Accuracy Fix Low Enemy Accuracy">
       <Name>Pedaccuracyfix</Name>
-      <Enabled>true</Enabled>
-      <Overwrite>false</Overwrite>
-      <DisabledGroups />
-    </Mod>
-    <Mod folder="WhyEm's BloodLust">
-      <Name>WhyEm's BloodLust</Name>
       <Enabled>true</Enabled>
       <Overwrite>false</Overwrite>
       <DisabledGroups />
@@ -93,13 +111,19 @@
     </Mod>
     <Mod folder="Animation Fixes/Extended_Player_Animations/NPC_Aiming_Animations">
       <Name>NPC Aiming Animations</Name>
+      <Enabled>false</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Law Rebalance Final/crime_law">
+      <Name>Crime and Law Rebalance</Name>
       <Enabled>true</Enabled>
       <Overwrite>false</Overwrite>
       <DisabledGroups />
     </Mod>
     <Mod folder="LAW">
       <Name>LAW</Name>
-      <Enabled>true</Enabled>
+      <Enabled>false</Enabled>
       <Overwrite>false</Overwrite>
       <DisabledGroups />
     </Mod>
@@ -115,26 +139,37 @@
       <Overwrite>false</Overwrite>
       <DisabledGroups />
     </Mod>
+    <Mod folder="W.E.R.O (Default Reaction Time (1.2 seconds))">
+      <Name>W.E.R.O (Default Reaction Time (1.2 seconds))</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
   </Mods>
   <LoadOrder>
-    <Mod>No Forced Scope</Mod>
+    <Mod>CollyriumRedone</Mod>
+    <Mod>Lasso on Belt Restored</Mod>
+    <Mod>Rain Particles Fix</Mod>
+    <Mod>Unknown error FFFFFFFF Fix 4.0</Mod>
+    <Mod>ImprovementsInBlood</Mod>
+    <Mod>Penetration</Mod>
+    <Mod>Refitted Bandoliers - Shirts and Vests</Mod>
     <Mod>Animation Fixes/Extended_Player_Animations/Aiming_Animations</Mod>
     <Mod>Animation Fixes/Serve Spoon Fix</Mod>
     <Mod>Gun_Metal_Rework</Mod>
-    <Mod>Unknown error FFFFFFFF Fix 3.1</Mod>
     <Mod>HideOnlineButton</Mod>
     <Mod>PS Buttons Dualsense</Mod>
-    <Mod>W.E.R.O (Default Reaction Time (1.2 seconds))</Mod>
     <Mod>Ped Accuracy Fix Low Enemy Accuracy</Mod>
-    <Mod>WhyEm's BloodLust</Mod>
     <Mod>Disable enemy radar</Mod>
     <Mod>Online Content Unlocker</Mod>
     <Mod>Kiddo's Minimalist Loot Economy Overhaul</Mod>
     <Mod>Realistic_Loadouts v2.4</Mod>
     <Mod>Animation Fixes/Extended_Player_Animations</Mod>
     <Mod>Animation Fixes/Extended_Player_Animations/NPC_Aiming_Animations</Mod>
+    <Mod>Law Rebalance Final/crime_law</Mod>
     <Mod>LAW</Mod>
     <Mod>Realistic_Weapon_Rebalance</Mod>
     <Mod>PDO v2.0 Extended Features</Mod>
+    <Mod>W.E.R.O (Default Reaction Time (1.2 seconds))</Mod>
   </LoadOrder>
 </ModsManager>
