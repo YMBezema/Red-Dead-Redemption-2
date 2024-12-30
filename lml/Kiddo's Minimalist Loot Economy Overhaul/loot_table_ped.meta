@@ -1603,12 +1603,12 @@
 		</Item>
 		<Item>
 		  <Name>TOBACCO_ITEMS_PED</Name>
-		  <Rate value=".25" />
+		  <Rate value=".30" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
 		  <Name>CHEAP_JEWELRY_ITEMS_PED</Name>
-		  <Rate value=".15" />
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1618,7 +1618,7 @@
 		</Item>
 		<Item>
 		  <Name>ALCOHOL_ITEMS_CHEAP</Name>
-		  <Rate value=".05" />
+		  <Rate value=".10" />
 		  <Type>Table</Type>
 		</Item>
 		<Item>
@@ -1628,7 +1628,7 @@
 		</Item>
 		<Item>
 		  <Name>REWARD_GANG</Name>
-		  <Rate value=".30" />
+		  <Rate value=".25" />
 		  <Type>Table</Type>
 		</Item>
 	 </Entries>

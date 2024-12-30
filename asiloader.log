@@ -1,58 +1,58 @@
 // RDR 2 ASI LOADER (build Jul 18 2021)
 //     (C) Alexander Blade 2019-2021
-LIB: "C:\WINDOWS\system32\dinput8.dll" => 00007FF872600000
-API: "DirectInput8Create" => 00007FF8726043D0
-API: "DllCanUnloadNow" => 00007FF8726165B0
-API: "DllGetClassObject" => 00007FF8726166C0
-API: "DllRegisterServer" => 00007FF872625FA0
-API: "DllUnregisterServer" => 00007FF872626280
+LIB: "C:\WINDOWS\system32\dinput8.dll" => 00007FFE049F0000
+API: "DirectInput8Create" => 00007FFE049F43D0
+API: "DllCanUnloadNow" => 00007FFE04A065B0
+API: "DllGetClassObject" => 00007FFE04A066C0
+API: "DllRegisterServer" => 00007FFE04A15FA0
+API: "DllUnregisterServer" => 00007FFE04A16280
 LOADER: Loading *.asi plugins
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Banking.asi"
-     "Banking.asi" => 00007FF8194C0000
+     "Banking.asi" => 00007FFE42210000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CombatExperience.asi"
-     "CombatExperience.asi" => 00007FF819390000
+     "CombatExperience.asi" => 00007FFE03930000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CoresRegenOverTime1.0.asi"
-     "CoresRegenOverTime1.0.asi" => 00007FF81A850000
+     "CoresRegenOverTime1.0.asi" => 00007FFE4A5D0000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\CriticalHits.asi"
-     "CriticalHits.asi" => 00007FF81A7C0000
+     "CriticalHits.asi" => 00007FFE41D80000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DeadEyeActivationCooldownReloaded.asi"
-     "DeadEyeActivationCooldownReloaded.asi" => 00007FF819E10000
+     "DeadEyeActivationCooldownReloaded.asi" => 00007FFE4D6B0000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DSX.asi"
-     "DSX.asi" => 00007FF817E00000
+     "DSX.asi" => 00007FFDFF3B0000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\DumpThatCargo1.1.asi"
-     "DumpThatCargo1.1.asi" => 00007FF819DF0000
+     "DumpThatCargo1.1.asi" => 00007FFE4A5B0000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\FastWalk.asi"
-     "FastWalk.asi" => 00007FF819CF0000
+     "FastWalk.asi" => 00007FFE34B60000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Hard.asi"
-     "Hard.asi" => 00007FF819A60000
+     "Hard.asi" => 00007FFE23FB0000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\horseHolster.asi"
-     "horseHolster.asi" => 00007FF819370000
+     "horseHolster.asi" => 00007FFE24010000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\HuntingCamp.asi"
-     "HuntingCamp.asi" => 00007FF819340000
+     "HuntingCamp.asi" => 00007FFE03900000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Injury.asi"
-     "Injury.asi" => 00007FF817DA0000
+     "Injury.asi" => 00007FFDFF350000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\LessMoney.asi"
-     "LessMoney.asi" => 00007FF819320000
+     "LessMoney.asi" => 00007FFE024F0000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\NoAutoReloadEver.asi"
-     "NoAutoReloadEver.asi" => 00007FF817850000
+     "NoAutoReloadEver.asi" => 00007FFE024C0000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\NoHitmarker.asi"
-     "NoHitmarker.asi" => 00007FF819300000
+     "NoHitmarker.asi" => 00007FFDFF330000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\NoHolstering.asi"
-     "NoHolstering.asi" => 00007FF817830000
+     "NoHolstering.asi" => 00007FFDFF310000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Outfits.asi"
-     "Outfits.asi" => 00007FF817810000
+     "Outfits.asi" => 00007FFDFF2F0000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\PedDamageOverhaul.asi"
-     "PedDamageOverhaul.asi" => 00007FF8177B0000
+     "PedDamageOverhaul.asi" => 00007FFDFF290000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Rampage.asi"
-     "Rampage.asi" => 00007FF816090000
+     "Rampage.asi" => 00007FFDFEE40000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\Softer.asi"
-     "Softer.asi" => 00007FF817780000
+     "Softer.asi" => 00007FFDFEE10000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\StashThatLantern2.8.asi"
-     "StashThatLantern2.8.asi" => 00007FF816070000
+     "StashThatLantern2.8.asi" => 00007FFDFEDF0000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\TieYourLasso.asi"
-     "TieYourLasso.asi" => 00007FF816030000
+     "TieYourLasso.asi" => 00007FFDFEDB0000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\vfs.asi"
-     "vfs.asi" => 00007FF815960000
+     "vfs.asi" => 00007FFDFE6E0000
 ASI: Loading "D:\SteamLibrary\steamapps\common\Red Dead Redemption 2\_Bandit_Hideouts.asi"
-     "_Bandit_Hideouts.asi" => 00007FF815700000
+     "_Bandit_Hideouts.asi" => 00007FFDFE480000
 LOADER: Finished loading *.asi plugins

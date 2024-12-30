@@ -1562,7 +1562,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_ANIMAL_FAT</SatchelItem>
-		  <Quantity value="2" />
+		  <Quantity value="1" />
         </Item>
       </Items>
     </Item>
@@ -3273,7 +3273,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_ANIMAL_FAT</SatchelItem>
-		  <Quantity value="2" />
+		  <Quantity value="1" />
         </Item>
       </Items>
     </Item>
@@ -3362,7 +3362,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_ANIMAL_FAT</SatchelItem>
-		  <Quantity value="2" />
+		  <Quantity value="1" />
         </Item>
       </Items>
     </Item>
@@ -3547,7 +3547,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_ANIMAL_FAT</SatchelItem>
-		  <Quantity value="2" />
+		  <Quantity value="1" />
         </Item>
       </Items>
     </Item>
@@ -7346,7 +7346,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_ANIMAL_FAT</SatchelItem>
-		  <Quantity value="2" />
+		  <Quantity value="1" />
         </Item>
       </Items>
     </Item>
@@ -9295,7 +9295,7 @@
           <DamageQuality>Perfect</DamageQuality>
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_ANIMAL_FAT</SatchelItem>
-		  <Quantity value="2" />
+		  <Quantity value="1" />
         </Item>
       </Items>
     </Item>
@@ -13873,7 +13873,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_SNAKE_SKIN_PRISTINE</SatchelItem>
         </Item>
-        <Item>
+        <!--<Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
@@ -13926,7 +13926,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
           <Quantity value="1" />
-        </Item>
+        </Item> -->
       </Items>
     </Item>
 
@@ -13991,7 +13991,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_SNAKE_SKIN_PRISTINE</SatchelItem>
         </Item>
-        <Item>
+        <!--<Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
@@ -14044,7 +14044,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
           <Quantity value="1" />
-        </Item>
+        </Item> -->
       </Items>
     </Item>
 	
@@ -14109,7 +14109,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_SNAKE_SKIN_PRISTINE</SatchelItem>
         </Item>
-        <Item>
+        <!--<Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
@@ -14162,7 +14162,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
           <Quantity value="1" />
-        </Item>
+        </Item> -->
       </Items>
     </Item>
 
@@ -14227,7 +14227,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_SNAKE_SKIN_PRISTINE</SatchelItem>
         </Item>
-        <Item>
+        <!--<Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
@@ -14280,7 +14280,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
           <Quantity value="1" />
-        </Item>
+        </Item> -->
       </Items>
     </Item>
 
@@ -14345,7 +14345,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_SNAKE_SKIN_PRISTINE</SatchelItem>
         </Item>
-        <Item>
+        <!--<Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
@@ -14398,7 +14398,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
           <Quantity value="1" />
-        </Item>
+        </Item> -->
       </Items>
     </Item>
 
@@ -14481,7 +14481,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_SNAKE_SKIN_PRISTINE</SatchelItem>
         </Item>
-        <Item>
+        <!--<Item>
           <DamageQuality>Poor</DamageQuality>
           <SkinQuality>Poor</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
@@ -14534,7 +14534,7 @@
           <SkinQuality>Perfect</SkinQuality>
           <SatchelItem>PROVISION_HERPTILE_MEAT</SatchelItem>
           <Quantity value="1" />
-        </Item>
+        </Item> -->
       </Items>
     </Item>
 

@@ -1262,11 +1262,6 @@
 		  <Type>Item</Type>
 		</Item>
 		<Item>
-		  <Name>ALCOHOL_ITEMS</Name>
-		  <Rate value=".10" />
-		  <Type>Table</Type>
-		</Item>
-		<Item>
 		  <Name>TOBACCO_ITEMS</Name>
 		  <Rate value=".10" />
           <Type>Table</Type>
@@ -1278,7 +1273,7 @@
 		</Item>
 		<Item>
 		  <Name>HORSE_CONSUMABLES</Name>
-		  <Rate value=".40" />
+		  <Rate value=".50" />
 		  <Type>Table</Type>
 		</Item>
 	  </Entries>

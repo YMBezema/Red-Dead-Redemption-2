@@ -1,31 +1,35 @@
 // RDR2 Rampage Trainer (build Jun 15 2024, v.1.0.1491.50)
-[14:20:24] [MH] Initialized
-[14:20:24] [Core] Script Registered
-[14:22:07] [Core] SH API -> 0
-[14:22:07] [Core] Running on -> 1.0.1491.50 on Steam
-[14:22:07] [Core] Base 0x7FF682E50000
-[14:22:07] [Core] Module 0x7FF816090000
-[14:22:07] [OK] [Patterns] Found STI
-[14:22:07] [OK] [Patterns] Found DP
-[14:22:07] [OK] [Patterns] Found SIRP
-[14:22:07] [OK] [Patterns] Found FTAS
-[14:22:07] [OK] [Patterns] Found RIF
-[14:22:07] [OK] [Patterns] Found GCBH
-[14:22:07] [OK] [Patterns] Found TM
-[14:22:07] [OK] [Patterns] Found AITL
-[14:22:07] [OK] [Patterns] Found LRPF
-[14:22:07] [OK] [Patterns] Found UAO
-[14:22:07] [ERROR] [Patterns] Failed to find HMP
-[14:22:07] [OK] [Patterns] Found HFP
-[14:22:07] [OK] [Patterns] Found SCT
-[14:22:07] [OK] [Hooks] Created SCIM
-[14:22:07] [OK] [Hooks] Created GFFAC
-[14:22:07] [OK] [Threads] Created CRC fiber
-[14:22:07] [OK] [Threads] Created WDC fiber
-[14:22:07] [OK] [Threads] Created FNC fiber
-[14:22:07] [OK] [Threads] Created EIC fiber
-[14:22:07] [OK] [Threads] Created AEC fiber
-[14:22:07] [OK] [Threads] FP initialized
-[14:22:07] [OK] [RIF] Registered with ID: 270999
-[14:22:07] [OK] [RIF] Registered with ID: 271000
-[14:22:07] [OK] [FMOD] Audio Engine initialized
+[19:36:00] [MH] Initialized
+[19:36:00] [Core] Script Registered
+[19:40:10] [Core] SH API -> 0
+[19:40:10] [Core] Running on -> 1.0.1491.50 on Steam
+[19:40:10] [Core] Base 0x7FF6FD900000
+[19:40:10] [Core] Module 0x7FFDFEE40000
+[19:40:10] [OK] [Patterns] Found STI
+[19:40:10] [OK] [Patterns] Found DP
+[19:40:10] [OK] [Patterns] Found SIRP
+[19:40:10] [OK] [Patterns] Found FTAS
+[19:40:10] [OK] [Patterns] Found RIF
+[19:40:10] [OK] [Patterns] Found GCBH
+[19:40:10] [OK] [Patterns] Found TM
+[19:40:10] [OK] [Patterns] Found AITL
+[19:40:10] [OK] [Patterns] Found LRPF
+[19:40:10] [OK] [Patterns] Found UAO
+[19:40:10] [ERROR] [Patterns] Failed to find HMP
+[19:40:10] [OK] [Patterns] Found HFP
+[19:40:10] [OK] [Patterns] Found SCT
+[19:40:10] [OK] [Hooks] Created SCIM
+[19:40:10] [OK] [Hooks] Created GFFAC
+[19:40:10] [OK] [Threads] Created CRC fiber
+[19:40:10] [OK] [Threads] Created WDC fiber
+[19:40:10] [OK] [Threads] Created FNC fiber
+[19:40:10] [OK] [Threads] Created EIC fiber
+[19:40:10] [OK] [Threads] Created AEC fiber
+[19:40:10] [OK] [Threads] FP initialized
+[19:40:10] [OK] [RIF] Registered with ID: 270999
+[19:40:10] [OK] [RIF] Registered with ID: 271000
+[19:40:10] [OK] [FMOD] Audio Engine initialized
+[19:40:11] [OK] [Service] Settings -> Loaded
+[19:40:12] [OK] [Service] Hotkeys -> Loaded
+[19:40:12] [Service] Checking for Seasonal Events
+[19:40:12] [Core] Finished Loading!
