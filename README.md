@@ -8,10 +8,17 @@ Loader mods: delete the mod's folder in `Red Dead Redemption 2/lml`
 Configure script mods: 
 Edit the mod's .ini file.
 
+# Key changes
+Combat is chaotic and punishing. Getting hit can injure you and knock you back, but the same goes for your enemies. Well placed shots cripple or outright kill enemies. 
+
+It's harder to die, but getting roughed up racks up nasty injuries. Stock medicine to deal with them. Dying means you lose a large amount of money.
+
+The game economy is harsh, and forces you into the outlaw lifestyle. Rewards are scaled back, stocking up on items regularly is important, jewelry is rare but more valuable.
+
 # Script Mods (.asi plugins)
 
 **_Bandit_Hideouts.asi**, configurable
-Randomly turns points of interests into bandit hideouts. Get a cash reward for clearing them.
+Randomly turns points of interests into bandit hideouts. Get a cash reward for clearing them. 
 
 **Banking.asi**, configurable
 Store your money at banks to protect yourself from losing it when dying. (You lose 25% of your money upon death)
