@@ -1,3 +1,13 @@
+# Quick and dirty instructions
+Drag and drop all the files in your `Red Dead Redemption 2` folder, so all the .asi files sit next to your game .exe file.
+
+Disable mods you dont want:
+Script mods: delete/rename the mod's .asi file
+Loader mods: delete the mod's folder in `Red Dead Redemption 2/lml`
+
+Configure script mods: 
+Edit the mod's .ini file.
+
 # Script Mods (.asi plugins)
 
 **_Bandit_Hideouts.asi**, configurable
