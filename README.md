@@ -25,11 +25,11 @@ The game economy is harsh, and forces you into the outlaw lifestyle. Rewards are
 
 
 ### _Bandit_Hideouts.asi
- configurable
+Configurable. 
 Randomly turns points of interests into bandit hideouts. Get a cash reward for clearing them. 
 
 ### Banking.asi
- configurable
+Configurable. 
 Store your money at banks to protect yourself from losing it when dying. (You lose 25% of your money upon death)
 
 ### CombatExperience.asi
@@ -39,7 +39,7 @@ Camera shake on getting hit, and melee weapons can dismember.
 Items that restore cores do so over a short amount of time instead of instantly.
 
 ### CriticalHits.asi
- configurable
+Configurable. 
 Chance for player to get blown back when shot, depending on where you got hit.
 
 ### DSX.asi
@@ -61,7 +61,7 @@ Sleep only restores stamina core.
 While resting, use the "Set up camp" prompt to spawn a camp behind you. Buggy on uneven/obstructed terrain.
 
 ### Injury.asi
- configurable
+Configurable. 
 Injury mechanic. Chance for one of your limbs to get injured when hit. Limbs can stack injuries when damaged repeatedly. Injuries are displayed on your HUD while any compass/minimap is showing.
 
 Head injury: chance for Dead Eye to deactive prematurely depending on injury level.
@@ -72,18 +72,18 @@ Wounds (heart icon): bleeding damage over time. One level of wound can usually b
 Healing injuries: drink a tonic for the respective core to heal the injury over time, and to ignore the injury's effects while the tonic is active. Health tonics instantly cure Wounds, and boost the restoration rate of all injuries. Golden cores boost the restore rate even further. Sleep and baths also slowly restore injuries.
 
 ### LessMoney.asi
- configurable
+Configurable. 
 'Taxes' all money earned, reducing large sums by a lot. Necessary for balancing large rewards from story missions. 
 
 ### NoAutoReloadEver.asi
- configurable (not recommended, other settings are buggy) 
+Configurable (not recommended, other settings are buggy). 
 Removes a lot of (but not all) cases of weapons reloading themselves while holstered. 
 
 ### NoHitmarker.asi
 Removes the hitmarker, forcing you to pay attention to NPC damage reactions for feedback.
 
 ### PedDamageOverhaul.asi
- configurable
+Configurable. 
 Large mod with many features. Improves hit reactions, rebalances damage values, adds feature to injure NPCs (cripple arms/legs, bleedout, reduce accuracy of injured NPCs, and more), adds a death penalty for the player that removes 25% of your money (use banks to save your money).
 
 ### Rampage.asi
